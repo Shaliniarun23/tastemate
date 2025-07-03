@@ -19,10 +19,12 @@ import plotly.express as px
 import plotly.graph_objects as go
 import io
 
-# Load dataset
+import pandas as pd
+
 @st.cache_data
 def load_data():
-    return df = pd.read_csv("data.csv")
+    df = pd.read_csv("data.csv")  # Or your full filename
+    return df
 
 
 
