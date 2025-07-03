@@ -22,7 +22,8 @@ import io
 # Load dataset
 @st.cache_data
 def load_data():
-    return pd.read_csv("TasteMate_Synthetic_Consumer_Data.csv")
+    return pd.read_csv("data/data.csv")
+
 
 df = load_data()
 st.set_page_config(layout="wide")
