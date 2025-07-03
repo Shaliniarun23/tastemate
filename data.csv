@@ -1,0 +1,1001 @@
+Age,Gender,City,Income Range,Employment Status,Order Frequency,Platforms Used,Meal Types,Preferred Cuisines,Spend per Order,Order Influence,Veg Preference,Combo Preference,Group Size,New Combo Likeliness (1-5),Satisfaction (1-5),Acceptable Delivery Time,Repeat Order,Recommended to Others,Tried TasteMate,Experience Rating,Loyalty Program Interest,Preferred Order Day,Communication Opt-in,Delivery Issues
+25–34,Male,Delhi,₹30k–50k,Working professional,2–3 times/week,Zomato,Breakfast,Chinese,₹200–400,Packaging,Both,Combo,Solo,5,4,20–30 min,No,No,No,,No,Fri,Yes,"Poor packaging, Long wait time"
+55+,Female,Delhi,₹50k–75k,Homemaker,2–3 times/week,Swiggy,Lunch,Chinese,₹200–400,"Quantity, Taste",Both,Depends,Family (3–4),1,3,<20 min,Sometimes,Yes,No,,No,Tue,Yes,Long wait time
+35–44,Female,Pune,₹15k–30k,Homemaker,Rarely,"Swiggy, Direct, Others",Lunch,Continental,₹400–600,Quantity,Both,A la carte,Solo,5,3,30–45 min,No,No,No,,No,Sat,Yes,Poor packaging
+25–34,Female,Delhi,₹30k–50k,Student,2–3 times/week,"Swiggy, Direct, Others",Lunch,Chinese,₹200–400,Quantity,Both,A la carte,Solo,2,3,30–45 min,No,Yes,No,,Maybe,Fri,Yes,"High price, Cold food, Limited choice"
+18–24,Female,Delhi,₹30k–50k,Student,Rarely,Zomato,Dinner,Continental,₹200–400,Price,Non-Veg,A la carte,Solo,4,3,30–45 min,No,No,No,,Yes,Tue,No,"Long wait time, High price"
+18–24,Female,Chennai,₹50k–75k,Working professional,Once a week,Zomato,"Breakfast, Snacks",Indian,₹200–400,Taste,Both,A la carte,2 people,3,4,30–45 min,Sometimes,No,No,,No,Sun,Yes,Long wait time
+18–24,Female,Bangalore,₹75k+,Working professional,Daily,Swiggy,"Snacks, Lunch",Chinese,₹400–600,Taste,Both,Depends,2 people,3,4,20–30 min,Yes,Yes,No,,Yes,Sat,Yes,Poor packaging
+45–54,Female,Chennai,<₹15k,Working professional,Rarely,"Zomato, Swiggy, Others",Snacks,"Continental, Chinese, Italian",₹200–400,Price,Veg,A la carte,2 people,5,4,<20 min,No,No,No,,Yes,Fri,Yes,Cold food
+25–34,Male,Mumbai,₹30k–50k,Working professional,Once a week,Direct,Lunch,Continental,₹200–400,"Taste, Delivery time",Veg,Depends,Family (3–4),2,4,30–45 min,Yes,Yes,Yes,3.0,Yes,Thu,Yes,Cold food
+35–44,Female,Bangalore,<₹15k,Student,2–3 times/week,Others,"Lunch, Breakfast",Chinese,₹200–400,"Delivery time, Taste, Quantity",Non-Veg,Combo,Solo,3,3,20–30 min,Yes,Yes,No,,Maybe,Tue,No,High price
+<18,Male,Mumbai,₹30k–50k,Student,Once a week,"Others, Zomato, Direct",Lunch,Fusion,₹400–600,"Taste, Delivery time",Non-Veg,Depends,Solo,3,2,20–30 min,Yes,Yes,No,,No,Sat,No,"Cold food, Long wait time, Limited choice"
+55+,Prefer not to say,Mumbai,₹15k–30k,Working professional,Daily,Others,Breakfast,Continental,₹200–400,Price,Non-Veg,Depends,Solo,4,4,<20 min,Yes,Yes,No,,Yes,Sat,Yes,Limited choice
+35–44,Female,Pune,₹15k–30k,Working professional,2–3 times/week,Swiggy,"Snacks, Lunch",Continental,₹100–200,Price,Non-Veg,A la carte,2 people,2,5,<20 min,Sometimes,No,No,,No,Tue,Yes,Poor packaging
+18–24,Male,Mumbai,₹30k–50k,Student,2–3 times/week,Direct,Snacks,"Italian, Chinese, Indian",₹200–400,Quantity,Both,A la carte,2 people,4,3,20–30 min,Sometimes,No,No,,Yes,Fri,No,"Cold food, Long wait time"
+18–24,Female,Bangalore,₹30k–50k,Working professional,Once a week,Others,Snacks,Italian,₹600+,Price,Non-Veg,A la carte,2 people,3,3,30–45 min,Yes,Yes,No,,Maybe,Fri,No,Long wait time
+18–24,Female,Bangalore,₹15k–30k,Working professional,Once a week,Direct,Breakfast,"Fusion, Chinese, Italian",₹200–400,Taste,Veg,Depends,2 people,2,4,45+ min,No,Yes,Yes,3.0,No,Thu,Yes,Limited choice
+25–34,Male,Delhi,₹50k–75k,Retired,Once a week,"Others, Swiggy",Dinner,Continental,₹400–600,Price,Both,Depends,2 people,4,4,30–45 min,No,Yes,No,,Yes,Sat,No,Long wait time
+25–34,Female,Pune,₹30k–50k,Retired,2–3 times/week,"Direct, Zomato",Breakfast,Fusion,<₹100,Discounts,Non-Veg,Combo,Family (3–4),1,4,45+ min,Sometimes,No,No,,Maybe,Mon,Yes,"Cold food, High price, Long wait time"
+25–34,Female,Mumbai,<₹15k,Working professional,2–3 times/week,Zomato,Snacks,"Continental, Fusion, Indian",₹200–400,Quantity,Both,Depends,2 people,3,1,45+ min,No,No,No,,Yes,Wed,No,Cold food
+18–24,Male,Hyderabad,₹50k–75k,Working professional,Rarely,Zomato,Breakfast,Indian,₹200–400,Packaging,Veg,A la carte,Family (3–4),1,4,20–30 min,Yes,No,No,,No,Mon,Yes,Cold food
+25–34,Female,Kolkata,₹15k–30k,Working professional,Daily,Others,Dinner,"Fusion, Chinese, Indian",₹400–600,Delivery time,Both,Combo,Solo,3,2,20–30 min,Sometimes,No,No,,Yes,Thu,Yes,"Cold food, High price"
+18–24,Male,Bangalore,₹30k–50k,Working professional,2–3 times/week,"Zomato, Direct",Lunch,"Italian, Fusion, Chinese",<₹100,Packaging,Veg,Depends,2 people,4,4,30–45 min,Sometimes,Yes,Yes,3.0,Yes,Wed,Yes,High price
+18–24,Female,Pune,₹30k–50k,Working professional,Never,Direct,Snacks,Chinese,₹400–600,Packaging,Veg,A la carte,Family (3–4),3,5,20–30 min,No,Yes,No,,No,Sun,Yes,Cold food
+25–34,Non-binary,Mumbai,₹15k–30k,Homemaker,Daily,Zomato,"Snacks, Breakfast, Lunch","Indian, Chinese",₹200–400,Price,Veg,Depends,Solo,3,4,20–30 min,Sometimes,No,Yes,3.0,Yes,Sat,Yes,Poor packaging
+25–34,Female,Bangalore,<₹15k,Working professional,Rarely,Zomato,"Dinner, Breakfast, Snacks","Indian, Fusion, Italian",₹100–200,Price,Both,Combo,Family (3–4),3,2,20–30 min,Sometimes,No,No,,Maybe,Mon,No,High price
+35–44,Male,Delhi,₹30k–50k,Homemaker,2–3 times/week,Zomato,Dinner,Fusion,₹100–200,"Discounts, Delivery time, Taste",Both,Combo,2 people,2,5,20–30 min,No,No,No,,Yes,Sat,Yes,High price
+18–24,Female,Hyderabad,₹75k+,Working professional,Once a week,Zomato,Dinner,Chinese,₹100–200,Packaging,Non-Veg,A la carte,Solo,3,5,20–30 min,No,No,No,,Yes,Sat,Yes,Long wait time
+25–34,Female,Kolkata,₹30k–50k,Student,Once a week,"Swiggy, Direct","Lunch, Dinner, Snacks",Fusion,₹200–400,"Packaging, Delivery time, Quantity",Both,Combo,2 people,5,4,20–30 min,Sometimes,No,No,,No,Wed,Yes,High price
+25–34,Male,Delhi,₹30k–50k,Homemaker,Daily,Direct,Dinner,"Continental, Fusion, Indian",<₹100,Quantity,Non-Veg,Depends,Solo,5,3,20–30 min,Yes,No,No,,Yes,Mon,No,Cold food
+<18,Female,Hyderabad,₹30k–50k,Working professional,Once a week,"Others, Zomato",Breakfast,"Continental, Chinese, Fusion",₹100–200,"Discounts, Packaging",Both,Combo,Large group,2,3,30–45 min,Yes,No,Yes,2.0,Yes,Tue,No,"Cold food, Poor packaging"
+25–34,Male,Mumbai,₹15k–30k,Working professional,2–3 times/week,"Zomato, Direct","Snacks, Lunch, Breakfast",Italian,₹400–600,Discounts,Both,A la carte,Family (3–4),1,5,20–30 min,Yes,No,No,,Maybe,Wed,No,"Cold food, Poor packaging"
+18–24,Female,Bangalore,₹30k–50k,Working professional,2–3 times/week,Zomato,Lunch,Indian,₹100–200,Discounts,Veg,Combo,Solo,5,4,30–45 min,Sometimes,Yes,Yes,5.0,No,Sat,Yes,Limited choice
+18–24,Male,Bangalore,₹50k–75k,Student,2–3 times/week,Swiggy,Breakfast,Fusion,₹100–200,"Delivery time, Price, Taste",Non-Veg,Combo,Solo,3,5,20–30 min,Sometimes,Yes,No,,Yes,Fri,Yes,Cold food
+45–54,Male,Kolkata,₹15k–30k,Other,2–3 times/week,Swiggy,Lunch,Continental,₹200–400,Quantity,Both,Depends,2 people,3,3,20–30 min,Yes,Yes,Yes,2.0,No,Sun,Yes,High price
+55+,Male,Hyderabad,₹15k–30k,Student,Once a week,"Zomato, Swiggy",Snacks,"Continental, Indian, Italian",₹200–400,"Price, Quantity",Both,Combo,Solo,4,3,20–30 min,Sometimes,No,No,,Maybe,Sat,No,Limited choice
+35–44,Female,Delhi,₹15k–30k,Other,2–3 times/week,"Direct, Others, Swiggy",Breakfast,"Continental, Fusion, Italian",₹200–400,Quantity,Both,A la carte,Solo,3,5,20–30 min,Sometimes,Yes,No,,Yes,Wed,Yes,High price
+25–34,Male,Mumbai,₹30k–50k,Other,2–3 times/week,Swiggy,Snacks,Italian,₹200–400,Taste,Both,Depends,2 people,3,4,30–45 min,Sometimes,Yes,No,,No,Sat,Yes,High price
+18–24,Female,Mumbai,₹75k+,Homemaker,Never,Zomato,Lunch,"Indian, Italian, Chinese",₹200–400,Packaging,Veg,A la carte,Solo,5,2,30–45 min,Yes,Yes,Yes,2.0,Yes,Tue,No,Poor packaging
+35–44,Male,Delhi,<₹15k,Working professional,Daily,Direct,"Lunch, Snacks",Italian,₹200–400,Quantity,Both,Depends,Solo,4,3,30–45 min,No,No,No,,Maybe,Mon,No,High price
+25–34,Male,Delhi,₹30k–50k,Working professional,Rarely,Others,Lunch,"Fusion, Chinese, Italian",₹100–200,Price,Non-Veg,Combo,Family (3–4),2,4,45+ min,No,Yes,No,,Maybe,Fri,Yes,Limited choice
+18–24,Female,Pune,₹15k–30k,Retired,Daily,Zomato,Lunch,Chinese,₹100–200,Quantity,Both,Combo,Family (3–4),2,1,20–30 min,No,Yes,No,,Maybe,Thu,Yes,"Cold food, High price, Limited choice"
+25–34,Female,Bangalore,₹75k+,Working professional,2–3 times/week,Direct,Breakfast,Continental,₹200–400,Discounts,Non-Veg,Depends,Family (3–4),2,4,20–30 min,No,Yes,Yes,2.0,Maybe,Thu,Yes,Poor packaging
+<18,Male,Bangalore,₹15k–30k,Working professional,Once a week,"Zomato, Others","Breakfast, Dinner",Italian,₹100–200,Taste,Non-Veg,Depends,Family (3–4),4,3,20–30 min,Sometimes,No,No,,Yes,Sat,Yes,Poor packaging
+45–54,Female,Mumbai,₹30k–50k,Working professional,Daily,"Swiggy, Others, Direct",Dinner,Fusion,₹200–400,Discounts,Non-Veg,A la carte,Solo,2,4,<20 min,Yes,Yes,No,,Yes,Sun,Yes,Limited choice
+18–24,Female,Pune,₹50k–75k,Working professional,2–3 times/week,Direct,Breakfast,Fusion,₹200–400,"Price, Discounts, Delivery time",Non-Veg,A la carte,Solo,1,3,20–30 min,Sometimes,Yes,Yes,4.0,Yes,Thu,No,"Poor packaging, Long wait time, Cold food"
+35–44,Female,Hyderabad,₹50k–75k,Working professional,2–3 times/week,"Direct, Others, Zomato","Snacks, Dinner",Fusion,₹100–200,"Delivery time, Packaging",Veg,A la carte,Solo,5,5,20–30 min,Yes,No,No,,Yes,Thu,Yes,Poor packaging
+25–34,Male,Mumbai,₹30k–50k,Working professional,2–3 times/week,Direct,Breakfast,Fusion,₹100–200,"Taste, Packaging, Delivery time",Both,Combo,Family (3–4),2,3,20–30 min,Yes,Yes,No,,No,Fri,No,"Limited choice, Cold food, Poor packaging"
+25–34,Male,Hyderabad,₹15k–30k,Working professional,2–3 times/week,Others,"Lunch, Snacks, Breakfast","Fusion, Chinese, Continental",₹100–200,Packaging,Both,Depends,Family (3–4),1,4,<20 min,Yes,Yes,No,,Maybe,Sat,Yes,"Poor packaging, High price, Limited choice"
+25–34,Female,Bangalore,₹30k–50k,Retired,2–3 times/week,Others,Dinner,Indian,₹200–400,Packaging,Veg,A la carte,2 people,2,2,<20 min,Yes,No,Yes,2.0,Yes,Wed,Yes,Limited choice
+18–24,Male,Mumbai,₹15k–30k,Working professional,2–3 times/week,Direct,Snacks,"Continental, Indian, Fusion",₹200–400,Price,Both,A la carte,Family (3–4),2,4,30–45 min,Yes,Yes,Yes,3.0,Yes,Sun,No,Long wait time
+55+,Female,Bangalore,₹15k–30k,Retired,Once a week,Zomato,"Lunch, Snacks, Dinner",Italian,₹200–400,Discounts,Both,Depends,2 people,3,5,30–45 min,Sometimes,No,Yes,2.0,Maybe,Sat,No,Cold food
+35–44,Female,Bangalore,₹30k–50k,Working professional,Rarely,Zomato,Dinner,"Fusion, Continental, Chinese",₹100–200,"Discounts, Price, Packaging",Non-Veg,Combo,Solo,5,5,30–45 min,No,Yes,No,,Yes,Fri,No,Limited choice
+45–54,Female,Mumbai,₹15k–30k,Homemaker,Once a week,Zomato,Dinner,Indian,₹200–400,Packaging,Veg,Combo,Solo,5,4,30–45 min,Yes,Yes,No,,Yes,Sun,No,High price
+45–54,Female,Pune,₹15k–30k,Working professional,Once a week,Others,Lunch,Chinese,₹400–600,"Delivery time, Discounts, Taste",Both,Depends,Solo,3,4,<20 min,No,No,No,,No,Sun,Yes,"Long wait time, High price, Cold food"
+25–34,Prefer not to say,Chennai,₹30k–50k,Homemaker,2–3 times/week,Others,Breakfast,Italian,₹100–200,Packaging,Both,Depends,Solo,3,5,20–30 min,Yes,No,No,,Yes,Tue,Yes,High price
+45–54,Male,Hyderabad,₹75k+,Student,Daily,"Direct, Others",Breakfast,Italian,₹200–400,Delivery time,Non-Veg,A la carte,2 people,3,5,<20 min,Yes,Yes,Yes,3.0,Maybe,Tue,Yes,"Limited choice, High price, Poor packaging"
+18–24,Female,Bangalore,₹30k–50k,Homemaker,2–3 times/week,Zomato,Dinner,Italian,₹600+,"Delivery time, Packaging, Discounts",Both,Combo,Solo,2,5,30–45 min,No,Yes,Yes,5.0,Yes,Sat,No,Long wait time
+18–24,Male,Bangalore,<₹15k,Student,Once a week,Zomato,"Dinner, Lunch",Chinese,₹100–200,Delivery time,Veg,Combo,2 people,1,3,30–45 min,No,No,No,,Maybe,Sun,Yes,"Long wait time, Poor packaging"
+<18,Male,Hyderabad,<₹15k,Retired,2–3 times/week,Direct,Dinner,Italian,₹200–400,Discounts,Non-Veg,A la carte,2 people,5,5,20–30 min,Sometimes,No,Yes,4.0,No,Sat,Yes,Poor packaging
+25–34,Female,Bangalore,₹75k+,Other,2–3 times/week,Direct,Lunch,Continental,<₹100,Price,Veg,Combo,Solo,2,3,20–30 min,Yes,Yes,No,,Yes,Thu,Yes,"High price, Poor packaging, Long wait time"
+25–34,Female,Mumbai,₹15k–30k,Working professional,Rarely,"Zomato, Swiggy","Snacks, Lunch, Breakfast","Fusion, Continental",₹200–400,Delivery time,Veg,Depends,Solo,2,3,45+ min,Sometimes,No,No,,Yes,Sat,No,Long wait time
+18–24,Prefer not to say,Bangalore,<₹15k,Working professional,Rarely,Direct,Lunch,Chinese,<₹100,"Taste, Quantity, Packaging",Both,Depends,Solo,3,2,20–30 min,No,Yes,Yes,5.0,Yes,Wed,No,Cold food
+35–44,Female,Chennai,₹30k–50k,Homemaker,2–3 times/week,Direct,Breakfast,Continental,₹600+,Price,Both,Depends,Solo,3,3,30–45 min,Sometimes,Yes,No,,Yes,Sun,No,Cold food
+25–34,Male,Bangalore,₹30k–50k,Working professional,2–3 times/week,Swiggy,Breakfast,"Indian, Italian",₹200–400,Quantity,Non-Veg,Combo,Family (3–4),1,4,20–30 min,Yes,Yes,No,,Yes,Thu,Yes,Poor packaging
+18–24,Male,Mumbai,₹30k–50k,Retired,Daily,Zomato,Lunch,"Indian, Italian, Chinese",₹200–400,Price,Veg,Depends,Solo,2,5,20–30 min,No,Yes,No,,No,Sun,Yes,Poor packaging
+25–34,Female,Chennai,₹15k–30k,Student,Once a week,Direct,Lunch,"Chinese, Indian",₹200–400,Taste,Both,Combo,2 people,3,4,30–45 min,No,Yes,No,,No,Thu,Yes,"Limited choice, High price, Long wait time"
+18–24,Male,Delhi,<₹15k,Student,2–3 times/week,Swiggy,Dinner,Italian,₹200–400,Price,Both,Combo,Family (3–4),4,4,30–45 min,Sometimes,Yes,Yes,5.0,No,Sun,Yes,Cold food
+35–44,Male,Delhi,₹75k+,Other,2–3 times/week,Others,Lunch,Continental,₹200–400,Price,Both,Combo,Family (3–4),2,4,30–45 min,Yes,Yes,No,,Yes,Thu,Yes,"Cold food, Long wait time"
+18–24,Male,Mumbai,₹15k–30k,Working professional,Rarely,Zomato,"Lunch, Breakfast",Chinese,₹400–600,"Quantity, Discounts, Taste",Both,Combo,Family (3–4),3,4,20–30 min,No,Yes,No,,No,Sat,Yes,Long wait time
+55+,Male,Delhi,₹30k–50k,Homemaker,Once a week,Others,"Lunch, Snacks, Dinner",Indian,₹600+,Taste,Non-Veg,Depends,Solo,3,3,20–30 min,Yes,Yes,No,,Yes,Sun,Yes,"Long wait time, Limited choice, Cold food"
+35–44,Male,Chennai,₹50k–75k,Working professional,2–3 times/week,"Swiggy, Others",Snacks,Chinese,₹200–400,Packaging,Both,Combo,Solo,5,5,30–45 min,No,Yes,Yes,4.0,Maybe,Fri,No,Cold food
+18–24,Male,Bangalore,₹30k–50k,Working professional,Daily,Direct,Breakfast,Chinese,₹400–600,Discounts,Veg,Combo,Solo,3,4,20–30 min,Yes,No,No,,Maybe,Sat,Yes,"Cold food, Long wait time, Limited choice"
+<18,Male,Delhi,₹15k–30k,Working professional,2–3 times/week,Swiggy,Dinner,"Fusion, Chinese, Indian",₹200–400,Quantity,Non-Veg,Depends,Solo,2,4,20–30 min,Yes,Yes,No,,Maybe,Tue,No,"Long wait time, High price"
+35–44,Male,Pune,₹15k–30k,Working professional,Once a week,Zomato,Snacks,Indian,₹200–400,"Packaging, Taste, Price",Non-Veg,Combo,Family (3–4),3,4,30–45 min,No,No,No,,Maybe,Fri,Yes,Limited choice
+35–44,Prefer not to say,Pune,₹30k–50k,Working professional,Never,"Swiggy, Others","Snacks, Dinner, Lunch",Fusion,₹200–400,Taste,Non-Veg,Depends,2 people,4,5,20–30 min,Yes,Yes,No,,Yes,Sun,Yes,Long wait time
+35–44,Male,Pune,₹50k–75k,Working professional,2–3 times/week,Swiggy,Dinner,Fusion,₹100–200,Quantity,Both,Combo,Solo,2,3,20–30 min,Yes,Yes,No,,Yes,Wed,Yes,High price
+35–44,Male,Delhi,₹75k+,Working professional,2–3 times/week,"Others, Direct",Breakfast,Fusion,<₹100,Delivery time,Both,Combo,Solo,3,3,30–45 min,Yes,Yes,No,,Maybe,Sat,Yes,High price
+18–24,Female,Bangalore,₹15k–30k,Working professional,Once a week,Swiggy,Lunch,Continental,₹100–200,Discounts,Veg,Depends,Solo,1,4,45+ min,Yes,No,No,,Yes,Sat,Yes,Long wait time
+25–34,Male,Kolkata,₹15k–30k,Homemaker,2–3 times/week,"Direct, Others, Swiggy",Breakfast,Fusion,₹200–400,Quantity,Veg,Combo,2 people,1,4,20–30 min,Sometimes,Yes,Yes,3.0,Yes,Wed,No,Long wait time
+18–24,Female,Chennai,₹75k+,Working professional,2–3 times/week,Swiggy,Snacks,Fusion,₹100–200,Taste,Non-Veg,A la carte,2 people,3,5,20–30 min,No,Yes,No,,Maybe,Wed,No,"Cold food, Limited choice, Long wait time"
+45–54,Female,Mumbai,₹50k–75k,Working professional,Once a week,Swiggy,Breakfast,Chinese,₹200–400,Delivery time,Veg,Combo,Family (3–4),2,3,30–45 min,Sometimes,No,No,,No,Thu,No,High price
+25–34,Male,Mumbai,₹50k–75k,Working professional,Once a week,Others,"Snacks, Lunch",Continental,₹600+,Taste,Both,Combo,Family (3–4),4,3,30–45 min,Yes,No,No,,Yes,Tue,Yes,Poor packaging
+25–34,Male,Bangalore,₹15k–30k,Working professional,Rarely,Direct,"Breakfast, Lunch, Snacks",Fusion,₹100–200,Price,Both,Combo,Solo,4,5,30–45 min,Sometimes,No,No,,Yes,Sun,No,"Long wait time, Cold food, Poor packaging"
+18–24,Female,Pune,₹30k–50k,Homemaker,Once a week,Others,Dinner,Italian,₹200–400,"Quantity, Taste, Delivery time",Both,Combo,Solo,3,4,20–30 min,No,Yes,No,,Yes,Sat,Yes,"Poor packaging, Limited choice, High price"
+25–34,Female,Bangalore,₹50k–75k,Working professional,Once a week,Others,"Dinner, Lunch, Snacks","Chinese, Fusion, Italian",₹100–200,Taste,Both,Combo,Solo,3,4,20–30 min,No,Yes,No,,Maybe,Thu,No,High price
+25–34,Male,Bangalore,₹30k–50k,Student,2–3 times/week,Direct,"Lunch, Snacks",Continental,<₹100,"Price, Quantity",Both,Depends,Solo,3,3,30–45 min,No,No,Yes,3.0,Yes,Wed,Yes,"Poor packaging, Cold food, Limited choice"
+35–44,Female,Mumbai,₹30k–50k,Student,Daily,Swiggy,Breakfast,Chinese,₹200–400,Price,Non-Veg,A la carte,Family (3–4),1,3,30–45 min,Sometimes,Yes,Yes,3.0,Maybe,Sat,No,Long wait time
+25–34,Male,Hyderabad,<₹15k,Working professional,Once a week,Zomato,Dinner,Fusion,₹200–400,Delivery time,Veg,Combo,2 people,5,4,30–45 min,No,No,No,,Maybe,Thu,No,Long wait time
+45–54,Prefer not to say,Chennai,₹30k–50k,Homemaker,2–3 times/week,"Direct, Zomato, Others","Dinner, Snacks",Fusion,₹200–400,Delivery time,Non-Veg,A la carte,2 people,5,2,<20 min,Yes,No,No,,Yes,Wed,No,Poor packaging
+25–34,Male,Delhi,₹15k–30k,Student,Once a week,Others,"Dinner, Snacks, Lunch",Chinese,₹100–200,Packaging,Non-Veg,Depends,Solo,2,5,20–30 min,Yes,No,No,,Yes,Thu,Yes,Limited choice
+18–24,Female,Chennai,₹30k–50k,Homemaker,Once a week,Direct,"Snacks, Dinner","Italian, Continental, Indian",₹200–400,Packaging,Both,Depends,Solo,2,4,20–30 min,No,Yes,No,,No,Sun,Yes,"High price, Poor packaging, Limited choice"
+35–44,Female,Kolkata,₹75k+,Working professional,Once a week,Direct,Lunch,Chinese,₹100–200,Taste,Veg,Depends,Solo,2,3,45+ min,No,Yes,No,,Maybe,Mon,Yes,Limited choice
+35–44,Female,Delhi,₹30k–50k,Working professional,Rarely,"Swiggy, Others",Dinner,Continental,₹100–200,"Quantity, Packaging",Non-Veg,Depends,2 people,4,4,30–45 min,Yes,No,No,,Yes,Thu,Yes,Cold food
+25–34,Female,Bangalore,₹50k–75k,Retired,Once a week,Zomato,"Snacks, Dinner",Indian,<₹100,Packaging,Non-Veg,Combo,2 people,4,4,20–30 min,Yes,Yes,Yes,4.0,Maybe,Sun,Yes,Cold food
+35–44,Male,Delhi,₹15k–30k,Working professional,Once a week,Others,Lunch,"Continental, Fusion",₹100–200,Delivery time,Both,Combo,Solo,4,3,<20 min,No,Yes,No,,Yes,Mon,No,"High price, Poor packaging"
+25–34,Male,Chennai,₹30k–50k,Working professional,2–3 times/week,"Others, Direct",Dinner,"Chinese, Continental",₹100–200,Price,Non-Veg,A la carte,2 people,4,3,20–30 min,Sometimes,Yes,No,,Yes,Sun,Yes,Poor packaging
+25–34,Male,Bangalore,₹75k+,Student,Rarely,Swiggy,Dinner,Chinese,₹100–200,Discounts,Both,A la carte,Family (3–4),3,3,<20 min,Yes,Yes,No,,Maybe,Thu,Yes,Cold food
+25–34,Male,Hyderabad,₹15k–30k,Student,Once a week,"Others, Direct, Swiggy",Snacks,Fusion,₹600+,Price,Both,A la carte,Solo,4,4,30–45 min,Yes,Yes,No,,Yes,Tue,Yes,"Limited choice, Long wait time, Poor packaging"
+<18,Female,Chennai,<₹15k,Working professional,2–3 times/week,Others,Lunch,Italian,₹100–200,Quantity,Veg,A la carte,2 people,4,4,30–45 min,Sometimes,No,No,,No,Mon,Yes,Cold food
+18–24,Male,Delhi,₹30k–50k,Student,Once a week,Zomato,Breakfast,"Italian, Continental",₹100–200,Discounts,Non-Veg,Depends,Solo,3,4,20–30 min,No,Yes,No,,Yes,Mon,Yes,Limited choice
+<18,Male,Pune,<₹15k,Working professional,2–3 times/week,Zomato,Lunch,Indian,₹100–200,Taste,Both,Depends,2 people,3,4,20–30 min,Yes,Yes,No,,Maybe,Tue,Yes,Cold food
+25–34,Non-binary,Bangalore,₹50k–75k,Working professional,2–3 times/week,"Swiggy, Direct, Zomato",Breakfast,Italian,₹200–400,"Taste, Discounts, Packaging",Non-Veg,A la carte,Family (3–4),4,4,30–45 min,Sometimes,Yes,No,,Maybe,Mon,Yes,"Limited choice, Poor packaging"
+25–34,Female,Mumbai,₹75k+,Working professional,2–3 times/week,Others,Dinner,"Continental, Indian, Fusion",<₹100,Delivery time,Both,Depends,Large group,3,4,20–30 min,No,Yes,No,,Maybe,Thu,No,"Long wait time, Poor packaging, Limited choice"
+25–34,Female,Hyderabad,₹30k–50k,Student,2–3 times/week,Direct,Snacks,Italian,₹400–600,"Quantity, Packaging, Price",Veg,Combo,Solo,4,4,20–30 min,No,No,No,,Yes,Mon,Yes,Long wait time
+45–54,Prefer not to say,Chennai,₹15k–30k,Working professional,2–3 times/week,Swiggy,Snacks,Italian,₹600+,Packaging,Veg,Combo,Solo,4,3,45+ min,Sometimes,No,No,,Yes,Sat,No,Long wait time
+18–24,Male,Delhi,₹30k–50k,Working professional,Once a week,Direct,"Snacks, Lunch, Dinner",Fusion,₹100–200,Discounts,Both,Combo,Solo,4,5,30–45 min,Sometimes,Yes,Yes,2.0,No,Sat,No,Poor packaging
+25–34,Male,Pune,₹50k–75k,Other,2–3 times/week,Zomato,Snacks,"Indian, Chinese, Continental",₹200–400,Discounts,Both,A la carte,Solo,4,4,30–45 min,Yes,No,No,,Yes,Sun,Yes,Cold food
+35–44,Female,Pune,<₹15k,Student,Once a week,Zomato,"Breakfast, Dinner, Lunch","Fusion, Chinese, Continental",<₹100,Packaging,Both,Combo,2 people,3,5,20–30 min,Yes,Yes,Yes,1.0,No,Fri,No,Long wait time
+18–24,Female,Delhi,₹30k–50k,Retired,Daily,"Others, Swiggy, Direct",Breakfast,Indian,₹200–400,Packaging,Both,Depends,Family (3–4),4,4,<20 min,Yes,No,No,,No,Sun,Yes,Long wait time
+18–24,Male,Kolkata,₹30k–50k,Working professional,Never,Zomato,"Dinner, Breakfast, Snacks",Continental,₹200–400,Taste,Both,Combo,Solo,3,3,<20 min,Yes,Yes,No,,Yes,Mon,Yes,High price
+18–24,Female,Mumbai,₹30k–50k,Working professional,Never,Swiggy,Snacks,Chinese,₹100–200,Price,Both,A la carte,Solo,2,4,20–30 min,Yes,Yes,Yes,2.0,Maybe,Tue,Yes,Long wait time
+18–24,Male,Delhi,₹15k–30k,Working professional,Rarely,"Zomato, Others",Snacks,Italian,₹100–200,"Taste, Quantity",Both,Combo,Solo,1,3,30–45 min,Yes,Yes,No,,Maybe,Wed,Yes,High price
+45–54,Male,Mumbai,₹50k–75k,Student,2–3 times/week,Others,Lunch,Italian,₹200–400,"Quantity, Price",Non-Veg,Combo,Solo,3,4,20–30 min,Sometimes,No,No,,Maybe,Sat,No,Long wait time
+35–44,Female,Pune,<₹15k,Student,Daily,Swiggy,Dinner,Continental,₹200–400,"Delivery time, Taste, Price",Non-Veg,Depends,Solo,3,4,30–45 min,Sometimes,Yes,No,,Yes,Sun,Yes,High price
+25–34,Female,Hyderabad,₹15k–30k,Working professional,Once a week,"Zomato, Direct",Lunch,Indian,₹100–200,Packaging,Both,A la carte,Solo,5,5,20–30 min,No,No,No,,Yes,Fri,Yes,Limited choice
+45–54,Female,Mumbai,₹50k–75k,Working professional,2–3 times/week,"Swiggy, Others","Dinner, Snacks, Breakfast",Chinese,₹200–400,"Discounts, Packaging, Taste",Non-Veg,Depends,2 people,3,4,20–30 min,No,Yes,No,,Yes,Thu,Yes,Limited choice
+35–44,Male,Bangalore,₹50k–75k,Retired,2–3 times/week,"Zomato, Others, Direct",Breakfast,Chinese,₹200–400,"Delivery time, Price, Discounts",Non-Veg,Depends,Solo,3,4,45+ min,Yes,No,No,,Yes,Sat,Yes,"Limited choice, High price, Cold food"
+18–24,Female,Hyderabad,<₹15k,Working professional,2–3 times/week,Others,Lunch,"Fusion, Continental, Indian",₹400–600,Packaging,Non-Veg,Combo,2 people,2,3,20–30 min,Yes,Yes,No,,Yes,Tue,No,High price
+45–54,Male,Mumbai,₹15k–30k,Student,Daily,"Direct, Swiggy","Breakfast, Snacks",Continental,₹100–200,Price,Non-Veg,Combo,Family (3–4),1,5,20–30 min,Yes,No,No,,Maybe,Fri,Yes,"Limited choice, Poor packaging"
+25–34,Male,Pune,₹15k–30k,Homemaker,Once a week,Others,Dinner,"Chinese, Italian",₹200–400,Quantity,Non-Veg,Depends,Solo,4,5,20–30 min,Sometimes,Yes,Yes,2.0,Yes,Fri,Yes,"Cold food, Long wait time, Poor packaging"
+35–44,Female,Chennai,₹15k–30k,Working professional,2–3 times/week,Zomato,Snacks,Indian,₹200–400,Delivery time,Veg,Depends,2 people,2,4,<20 min,Yes,Yes,No,,Yes,Tue,Yes,Long wait time
+45–54,Female,Bangalore,₹15k–30k,Working professional,Rarely,Zomato,"Breakfast, Snacks",Continental,₹100–200,Packaging,Both,A la carte,2 people,4,3,20–30 min,Sometimes,No,No,,Yes,Mon,Yes,Poor packaging
+25–34,Female,Kolkata,<₹15k,Working professional,Once a week,"Others, Swiggy",Breakfast,Indian,₹200–400,"Taste, Price, Quantity",Non-Veg,Depends,2 people,4,4,20–30 min,No,No,No,,Yes,Sat,Yes,Poor packaging
+18–24,Female,Bangalore,₹30k–50k,Retired,2–3 times/week,Swiggy,Snacks,Continental,₹200–400,Taste,Non-Veg,Depends,Solo,3,2,30–45 min,Yes,No,Yes,5.0,Yes,Fri,Yes,Limited choice
+18–24,Female,Kolkata,₹50k–75k,Homemaker,Rarely,"Swiggy, Direct, Others","Breakfast, Lunch, Dinner",Fusion,₹400–600,Quantity,Veg,Combo,Solo,5,4,30–45 min,Yes,Yes,No,,No,Thu,Yes,"Poor packaging, Long wait time"
+25–34,Female,Hyderabad,₹30k–50k,Working professional,2–3 times/week,Zomato,Dinner,"Chinese, Fusion",₹100–200,Discounts,Veg,A la carte,Family (3–4),3,2,20–30 min,No,Yes,No,,Yes,Thu,No,"Poor packaging, Long wait time, Limited choice"
+35–44,Male,Hyderabad,₹30k–50k,Working professional,2–3 times/week,Others,Lunch,Chinese,₹200–400,Taste,Veg,Depends,Family (3–4),2,4,<20 min,Sometimes,Yes,No,,Yes,Sun,Yes,High price
+45–54,Male,Mumbai,<₹15k,Retired,Once a week,Swiggy,Lunch,"Italian, Fusion, Chinese",₹100–200,Discounts,Both,A la carte,Solo,5,4,30–45 min,Sometimes,Yes,No,,Yes,Thu,No,"Poor packaging, High price"
+<18,Male,Pune,₹75k+,Working professional,2–3 times/week,Swiggy,Lunch,"Indian, Italian, Chinese",₹600+,"Price, Packaging, Taste",Veg,Combo,Solo,5,3,<20 min,Yes,Yes,No,,No,Tue,No,Limited choice
+25–34,Male,Bangalore,₹50k–75k,Student,Rarely,Zomato,Breakfast,Fusion,₹100–200,Packaging,Both,Combo,Solo,2,4,30–45 min,No,Yes,No,,Yes,Fri,No,High price
+25–34,Female,Mumbai,₹50k–75k,Working professional,2–3 times/week,Others,"Breakfast, Snacks, Dinner",Fusion,₹600+,"Quantity, Taste, Delivery time",Veg,Combo,Solo,1,5,30–45 min,Yes,No,No,,Yes,Fri,Yes,"Long wait time, Poor packaging, High price"
+18–24,Female,Mumbai,₹50k–75k,Working professional,2–3 times/week,Direct,"Snacks, Dinner, Lunch",Indian,₹400–600,Packaging,Veg,Combo,2 people,1,2,20–30 min,Sometimes,No,No,,Maybe,Mon,No,Long wait time
+18–24,Male,Bangalore,₹75k+,Working professional,Once a week,Swiggy,Dinner,Continental,₹100–200,"Quantity, Packaging",Veg,Depends,Solo,2,4,30–45 min,Sometimes,Yes,No,,Yes,Thu,No,Poor packaging
+25–34,Male,Bangalore,₹30k–50k,Working professional,Once a week,Direct,Snacks,Fusion,₹400–600,Discounts,Veg,Combo,Solo,5,3,45+ min,No,Yes,Yes,1.0,No,Thu,No,Long wait time
+45–54,Female,Hyderabad,₹15k–30k,Working professional,Never,"Swiggy, Others","Breakfast, Snacks, Lunch",Italian,₹600+,"Taste, Price",Both,Combo,Family (3–4),3,1,30–45 min,Yes,Yes,No,,Maybe,Fri,Yes,"Long wait time, Cold food, Limited choice"
+25–34,Male,Pune,₹30k–50k,Student,2–3 times/week,"Direct, Others, Zomato",Breakfast,Chinese,₹100–200,Discounts,Both,Combo,Solo,3,3,20–30 min,No,No,No,,Yes,Thu,Yes,High price
+25–34,Female,Mumbai,₹50k–75k,Homemaker,2–3 times/week,"Swiggy, Zomato",Lunch,Continental,₹200–400,"Quantity, Discounts, Delivery time",Both,A la carte,Family (3–4),5,4,20–30 min,Yes,Yes,No,,Maybe,Sat,No,Cold food
+35–44,Female,Hyderabad,₹50k–75k,Working professional,Once a week,Zomato,"Lunch, Snacks, Dinner",Chinese,₹200–400,Quantity,Veg,A la carte,2 people,3,3,45+ min,Yes,No,No,,Maybe,Sun,Yes,Cold food
+25–34,Female,Mumbai,₹30k–50k,Working professional,Daily,"Direct, Others, Zomato",Lunch,"Fusion, Continental",₹100–200,"Discounts, Packaging",Veg,Combo,Solo,3,5,20–30 min,Yes,Yes,No,,Yes,Sun,Yes,Poor packaging
+55+,Female,Pune,<₹15k,Working professional,Rarely,Zomato,Snacks,Fusion,<₹100,Taste,Non-Veg,Combo,2 people,5,4,30–45 min,Sometimes,Yes,Yes,3.0,Maybe,Sat,Yes,"High price, Poor packaging"
+55+,Female,Chennai,₹30k–50k,Working professional,2–3 times/week,Direct,Snacks,Chinese,₹100–200,Taste,Both,Combo,2 people,4,1,<20 min,No,No,No,,Yes,Fri,No,Limited choice
+18–24,Male,Bangalore,₹75k+,Student,Once a week,Swiggy,"Snacks, Breakfast, Dinner",Fusion,₹100–200,Delivery time,Veg,A la carte,Solo,4,4,<20 min,Yes,No,No,,Yes,Sat,Yes,Cold food
+25–34,Female,Hyderabad,₹30k–50k,Student,2–3 times/week,Zomato,Dinner,"Chinese, Italian, Indian",₹200–400,"Delivery time, Quantity, Price",Both,Combo,Solo,3,2,30–45 min,Sometimes,Yes,Yes,2.0,Maybe,Sat,No,Long wait time
+25–34,Female,Delhi,₹30k–50k,Homemaker,Daily,Direct,Dinner,Continental,₹100–200,Taste,Non-Veg,Depends,2 people,4,4,30–45 min,Yes,Yes,Yes,4.0,Maybe,Sat,Yes,"Poor packaging, Limited choice, Cold food"
+18–24,Male,Bangalore,₹15k–30k,Retired,2–3 times/week,"Zomato, Others",Dinner,Indian,₹400–600,Delivery time,Veg,A la carte,Family (3–4),2,3,30–45 min,Yes,No,Yes,2.0,No,Tue,Yes,Poor packaging
+<18,Female,Chennai,₹30k–50k,Working professional,Rarely,Direct,"Breakfast, Dinner, Lunch","Italian, Fusion",₹200–400,Price,Non-Veg,Combo,2 people,3,3,45+ min,Yes,Yes,No,,Yes,Mon,Yes,"Long wait time, Poor packaging, Limited choice"
+25–34,Female,Bangalore,₹50k–75k,Student,2–3 times/week,Zomato,"Snacks, Breakfast",Continental,<₹100,Delivery time,Veg,Depends,Solo,5,4,<20 min,No,No,Yes,3.0,No,Sun,Yes,Cold food
+25–34,Female,Delhi,₹30k–50k,Working professional,Rarely,Direct,"Dinner, Breakfast","Continental, Chinese, Italian",₹200–400,Taste,Both,Combo,2 people,2,5,20–30 min,No,No,No,,No,Sun,Yes,High price
+18–24,Female,Bangalore,₹50k–75k,Homemaker,2–3 times/week,Zomato,"Dinner, Breakfast",Chinese,₹200–400,Packaging,Veg,A la carte,Solo,4,3,45+ min,No,No,No,,Yes,Fri,Yes,"Cold food, Limited choice"
+18–24,Female,Chennai,₹30k–50k,Homemaker,Once a week,Swiggy,Dinner,Chinese,₹600+,"Discounts, Packaging, Delivery time",Both,Combo,2 people,3,5,20–30 min,Sometimes,Yes,No,,Maybe,Sun,Yes,High price
+45–54,Female,Delhi,₹30k–50k,Student,2–3 times/week,Swiggy,Dinner,Fusion,<₹100,Taste,Veg,A la carte,2 people,1,3,30–45 min,Yes,Yes,No,,Yes,Sat,Yes,Cold food
+18–24,Female,Mumbai,₹15k–30k,Student,Once a week,Swiggy,Breakfast,Fusion,₹100–200,"Taste, Discounts",Both,Depends,2 people,4,5,20–30 min,Sometimes,No,No,,Yes,Fri,No,"High price, Long wait time, Limited choice"
+18–24,Female,Hyderabad,₹50k–75k,Homemaker,Rarely,"Others, Direct, Swiggy",Lunch,Indian,₹400–600,Delivery time,Veg,Depends,Family (3–4),2,4,<20 min,Yes,Yes,No,,Yes,Thu,Yes,High price
+25–34,Female,Chennai,₹30k–50k,Working professional,Daily,"Others, Direct","Dinner, Snacks","Fusion, Italian, Indian",₹400–600,Delivery time,Both,Combo,2 people,4,3,20–30 min,Sometimes,Yes,No,,Yes,Fri,Yes,Limited choice
+55+,Female,Mumbai,₹30k–50k,Working professional,Daily,"Zomato, Direct, Swiggy","Lunch, Dinner","Italian, Chinese, Continental",₹200–400,Packaging,Both,Combo,2 people,1,3,20–30 min,No,No,No,,No,Fri,Yes,High price
+18–24,Female,Delhi,₹30k–50k,Student,2–3 times/week,Others,Dinner,Indian,₹200–400,Price,Both,A la carte,Solo,5,2,30–45 min,No,Yes,No,,Yes,Sun,Yes,Cold food
+35–44,Male,Mumbai,₹75k+,Working professional,Once a week,Swiggy,Lunch,Continental,<₹100,Discounts,Non-Veg,Depends,Family (3–4),2,3,30–45 min,No,No,No,,Maybe,Fri,No,Poor packaging
+35–44,Female,Delhi,<₹15k,Retired,Daily,"Others, Zomato",Breakfast,Italian,₹200–400,Price,Both,Depends,Family (3–4),2,3,30–45 min,No,No,Yes,2.0,Yes,Sat,Yes,"Poor packaging, High price"
+18–24,Female,Bangalore,₹50k–75k,Other,2–3 times/week,Zomato,Snacks,Fusion,₹100–200,Packaging,Non-Veg,Combo,Solo,2,4,20–30 min,Yes,No,No,,Yes,Sat,Yes,Limited choice
+35–44,Male,Hyderabad,₹15k–30k,Working professional,Once a week,Zomato,Lunch,Continental,₹100–200,Discounts,Veg,Combo,Solo,5,5,20–30 min,Sometimes,No,No,,Maybe,Mon,Yes,Poor packaging
+25–34,Female,Hyderabad,₹30k–50k,Working professional,2–3 times/week,Direct,Lunch,Continental,₹400–600,Packaging,Non-Veg,A la carte,Solo,4,1,<20 min,Yes,Yes,No,,Yes,Mon,No,High price
+25–34,Male,Hyderabad,<₹15k,Student,Once a week,"Direct, Others","Lunch, Breakfast, Snacks","Indian, Chinese, Italian",₹100–200,Price,Veg,Combo,Family (3–4),4,4,20–30 min,Yes,Yes,No,,No,Sat,Yes,High price
+25–34,Male,Delhi,₹15k–30k,Working professional,2–3 times/week,Others,Breakfast,Fusion,₹200–400,Price,Both,Combo,2 people,3,4,<20 min,No,No,No,,Maybe,Wed,Yes,"Limited choice, High price"
+25–34,Female,Chennai,₹30k–50k,Working professional,2–3 times/week,Zomato,Breakfast,Fusion,₹400–600,Packaging,Veg,Combo,Solo,3,5,20–30 min,Sometimes,Yes,Yes,5.0,No,Sat,No,"Limited choice, Poor packaging"
+18–24,Male,Bangalore,<₹15k,Working professional,Once a week,"Others, Swiggy, Direct",Snacks,Continental,₹100–200,Taste,Non-Veg,A la carte,Family (3–4),2,4,20–30 min,Yes,No,No,,No,Tue,Yes,Long wait time
+35–44,Female,Kolkata,₹30k–50k,Working professional,Never,Zomato,Lunch,Indian,₹600+,Packaging,Both,Depends,Solo,3,4,20–30 min,Sometimes,No,No,,Maybe,Thu,Yes,Long wait time
+25–34,Female,Hyderabad,₹75k+,Working professional,Once a week,Swiggy,"Dinner, Snacks","Italian, Continental, Indian",₹600+,Price,Non-Veg,Depends,Family (3–4),2,4,<20 min,Sometimes,Yes,No,,Maybe,Tue,Yes,Cold food
+18–24,Female,Mumbai,₹15k–30k,Student,Once a week,Zomato,Breakfast,Chinese,₹200–400,"Packaging, Taste, Delivery time",Both,Combo,Solo,5,3,20–30 min,No,No,No,,Yes,Wed,Yes,Cold food
+<18,Male,Hyderabad,₹50k–75k,Working professional,Once a week,Zomato,Breakfast,"Italian, Fusion, Continental",₹100–200,"Price, Quantity, Delivery time",Veg,A la carte,Solo,4,2,20–30 min,No,Yes,No,,No,Mon,No,"Limited choice, Poor packaging, Long wait time"
+25–34,Male,Delhi,₹30k–50k,Student,Daily,Swiggy,Snacks,Fusion,₹100–200,Delivery time,Non-Veg,Depends,Solo,3,3,<20 min,Sometimes,Yes,No,,Yes,Sun,No,Poor packaging
+35–44,Female,Hyderabad,₹30k–50k,Student,2–3 times/week,Zomato,Breakfast,Fusion,₹200–400,Price,Veg,Combo,Solo,2,2,45+ min,Yes,No,No,,Yes,Thu,Yes,Limited choice
+<18,Prefer not to say,Mumbai,₹15k–30k,Other,2–3 times/week,"Zomato, Others, Direct",Breakfast,"Chinese, Italian, Indian",₹100–200,Packaging,Both,A la carte,2 people,4,4,<20 min,No,No,No,,Yes,Sun,No,Cold food
+25–34,Female,Mumbai,₹15k–30k,Working professional,Once a week,Others,Snacks,"Indian, Continental",₹100–200,Discounts,Both,A la carte,2 people,2,3,30–45 min,Sometimes,Yes,No,,Maybe,Sun,Yes,Long wait time
+18–24,Male,Pune,₹15k–30k,Working professional,Once a week,Swiggy,"Snacks, Breakfast, Lunch",Indian,₹600+,Quantity,Both,Combo,Solo,2,4,<20 min,Sometimes,Yes,Yes,5.0,No,Sun,No,High price
+25–34,Female,Delhi,<₹15k,Retired,2–3 times/week,Swiggy,"Breakfast, Snacks, Lunch","Italian, Fusion, Indian",₹100–200,Discounts,Veg,A la carte,Solo,2,2,30–45 min,Sometimes,Yes,No,,Yes,Fri,Yes,"Poor packaging, Long wait time, Cold food"
+18–24,Female,Chennai,₹15k–30k,Other,Rarely,Swiggy,Snacks,Italian,₹200–400,Discounts,Veg,Combo,Solo,3,5,<20 min,Yes,Yes,No,,Yes,Sat,Yes,"Cold food, High price"
+35–44,Female,Delhi,₹30k–50k,Working professional,Rarely,Zomato,"Lunch, Snacks",Continental,<₹100,"Packaging, Price, Quantity",Veg,A la carte,2 people,4,5,30–45 min,Yes,Yes,Yes,2.0,Maybe,Tue,Yes,High price
+25–34,Male,Hyderabad,₹50k–75k,Homemaker,Once a week,"Swiggy, Others",Snacks,Fusion,₹200–400,Discounts,Veg,Combo,2 people,3,3,20–30 min,Yes,Yes,Yes,5.0,Yes,Mon,Yes,Poor packaging
+45–54,Female,Hyderabad,₹50k–75k,Working professional,2–3 times/week,Others,"Lunch, Snacks, Dinner","Fusion, Chinese, Continental",₹400–600,"Delivery time, Quantity",Veg,Combo,Solo,1,3,30–45 min,Yes,No,No,,Yes,Sun,No,High price
+18–24,Female,Bangalore,₹30k–50k,Working professional,Rarely,Swiggy,Breakfast,Fusion,₹100–200,Delivery time,Both,Combo,2 people,3,4,20–30 min,Yes,No,No,,Maybe,Mon,Yes,"Long wait time, Poor packaging"
+25–34,Non-binary,Delhi,₹15k–30k,Working professional,2–3 times/week,"Swiggy, Zomato, Others",Snacks,Fusion,₹100–200,Taste,Veg,Depends,Solo,4,2,<20 min,Yes,Yes,No,,No,Sun,Yes,"Limited choice, Poor packaging"
+18–24,Male,Delhi,₹15k–30k,Working professional,Rarely,Others,"Lunch, Breakfast",Italian,₹200–400,Price,Non-Veg,A la carte,Family (3–4),2,3,30–45 min,No,Yes,No,,Yes,Sat,Yes,Poor packaging
+45–54,Female,Mumbai,₹15k–30k,Working professional,Once a week,Swiggy,Breakfast,Continental,₹200–400,Quantity,Both,A la carte,Family (3–4),2,3,<20 min,Sometimes,No,No,,Yes,Thu,Yes,Cold food
+45–54,Female,Delhi,₹15k–30k,Working professional,Rarely,"Others, Zomato",Snacks,"Continental, Italian",₹200–400,Price,Both,A la carte,2 people,5,5,45+ min,Sometimes,No,Yes,4.0,Maybe,Tue,Yes,Poor packaging
+18–24,Male,Hyderabad,₹30k–50k,Student,Daily,Swiggy,Breakfast,Continental,₹100–200,Discounts,Non-Veg,A la carte,Family (3–4),5,5,<20 min,Sometimes,No,Yes,1.0,Maybe,Sat,Yes,"Poor packaging, Cold food"
+35–44,Female,Pune,₹30k–50k,Working professional,Rarely,"Swiggy, Others, Zomato",Breakfast,Indian,₹100–200,Quantity,Non-Veg,Combo,Family (3–4),5,4,20–30 min,Yes,Yes,Yes,2.0,Yes,Fri,Yes,Long wait time
+35–44,Female,Pune,₹30k–50k,Student,Daily,"Others, Swiggy","Snacks, Lunch, Breakfast",Continental,₹600+,"Price, Packaging",Non-Veg,Depends,Family (3–4),4,4,30–45 min,Yes,Yes,Yes,4.0,Yes,Sat,Yes,Cold food
+25–34,Male,Chennai,₹30k–50k,Working professional,2–3 times/week,Zomato,Breakfast,Chinese,₹400–600,Price,Veg,Combo,2 people,2,5,20–30 min,Sometimes,Yes,Yes,4.0,Yes,Thu,No,Poor packaging
+25–34,Male,Chennai,₹50k–75k,Working professional,Rarely,Direct,Lunch,"Continental, Italian, Fusion",₹200–400,Delivery time,Both,Combo,Solo,2,5,20–30 min,No,No,No,,No,Mon,No,Cold food
+18–24,Female,Hyderabad,₹50k–75k,Homemaker,Once a week,"Zomato, Others, Direct","Snacks, Lunch",Italian,₹400–600,Discounts,Non-Veg,Depends,Solo,3,5,30–45 min,No,Yes,No,,Maybe,Thu,Yes,Long wait time
+18–24,Male,Delhi,₹15k–30k,Homemaker,2–3 times/week,"Zomato, Direct, Swiggy",Dinner,Fusion,₹200–400,"Discounts, Delivery time, Price",Both,Combo,Solo,3,2,30–45 min,Yes,Yes,No,,Yes,Thu,Yes,"Limited choice, High price"
+45–54,Female,Pune,₹75k+,Retired,Daily,Others,Snacks,Indian,₹200–400,Taste,Both,Combo,2 people,5,3,45+ min,Yes,Yes,No,,Maybe,Mon,Yes,High price
+45–54,Male,Hyderabad,₹75k+,Working professional,Daily,"Others, Zomato",Breakfast,"Italian, Continental, Chinese",₹100–200,Taste,Both,A la carte,Solo,4,4,20–30 min,No,Yes,No,,No,Mon,Yes,High price
+25–34,Female,Bangalore,₹15k–30k,Homemaker,Rarely,"Direct, Zomato","Dinner, Snacks",Chinese,₹200–400,Discounts,Non-Veg,A la carte,Solo,4,4,20–30 min,Sometimes,No,No,,Maybe,Thu,No,Long wait time
+25–34,Male,Mumbai,₹30k–50k,Working professional,Once a week,"Swiggy, Direct, Zomato",Snacks,Continental,₹200–400,Delivery time,Veg,Depends,Solo,2,1,20–30 min,Sometimes,Yes,No,,Maybe,Sat,Yes,Limited choice
+25–34,Female,Bangalore,₹30k–50k,Student,Daily,Direct,Snacks,Continental,<₹100,Discounts,Both,A la carte,Solo,5,2,20–30 min,No,No,No,,Yes,Fri,Yes,Cold food
+35–44,Non-binary,Bangalore,₹75k+,Student,Daily,Zomato,"Breakfast, Lunch","Chinese, Fusion",₹200–400,"Discounts, Quantity, Price",Non-Veg,A la carte,2 people,4,5,30–45 min,No,Yes,Yes,4.0,Yes,Wed,Yes,Poor packaging
+45–54,Non-binary,Pune,₹50k–75k,Working professional,Once a week,"Direct, Others, Swiggy",Breakfast,Italian,₹200–400,Quantity,Veg,Depends,Family (3–4),2,5,20–30 min,Sometimes,Yes,No,,No,Fri,No,"High price, Long wait time"
+45–54,Female,Bangalore,₹15k–30k,Working professional,2–3 times/week,Zomato,Lunch,Continental,₹200–400,"Delivery time, Discounts",Veg,Combo,2 people,5,3,20–30 min,No,Yes,No,,Maybe,Fri,No,Cold food
+35–44,Male,Delhi,₹30k–50k,Working professional,Once a week,Zomato,Snacks,Continental,2000,Packaging,Veg,Combo,2 people,2,5,20–30 min,No,Yes,No,,Yes,Fri,No,High price
+25–34,Female,Kolkata,₹30k–50k,Homemaker,2–3 times/week,Swiggy,Snacks,Fusion,₹400–600,Discounts,Both,A la carte,2 people,1,4,30–45 min,Sometimes,Yes,No,,Maybe,Fri,Yes,High price
+18–24,Male,Mumbai,₹30k–50k,Student,Never,Direct,Lunch,"Chinese, Italian, Continental",<₹100,"Packaging, Delivery time",Veg,Combo,Solo,4,5,45+ min,Sometimes,No,No,,Yes,Thu,Yes,Limited choice
+18–24,Male,Bangalore,₹15k–30k,Student,2–3 times/week,Direct,"Breakfast, Snacks",Indian,₹200–400,Delivery time,Non-Veg,Depends,Solo,4,3,30–45 min,Sometimes,No,No,,Yes,Tue,No,Limited choice
+45–54,Male,Mumbai,₹50k–75k,Other,Daily,Zomato,Dinner,Continental,₹200–400,Packaging,Non-Veg,Depends,Family (3–4),1,2,20–30 min,Yes,Yes,Yes,3.0,Yes,Thu,Yes,Poor packaging
+25–34,Female,Hyderabad,₹30k–50k,Student,Never,Direct,Dinner,"Italian, Continental, Fusion",₹200–400,Discounts,Non-Veg,Combo,Solo,3,3,30–45 min,No,Yes,No,,Maybe,Thu,Yes,High price
+<18,Female,Pune,₹50k–75k,Working professional,2–3 times/week,Others,Dinner,Fusion,₹100–200,Quantity,Both,Combo,Solo,5,4,30–45 min,Sometimes,No,Yes,2.0,No,Fri,Yes,Limited choice
+18–24,Female,Delhi,₹50k–75k,Working professional,Rarely,"Swiggy, Others, Direct","Dinner, Snacks",Italian,₹100–200,Quantity,Both,Combo,Family (3–4),4,4,<20 min,Yes,Yes,No,,Yes,Sun,Yes,Limited choice
+35–44,Male,Pune,₹50k–75k,Working professional,2–3 times/week,Swiggy,Snacks,Fusion,₹400–600,Discounts,Non-Veg,Combo,Solo,4,2,<20 min,Sometimes,Yes,Yes,2.0,Maybe,Thu,Yes,High price
+<18,Male,Delhi,₹30k–50k,Student,Rarely,"Zomato, Others, Swiggy","Breakfast, Dinner",Chinese,₹200–400,Price,Veg,Combo,Solo,2,5,<20 min,Yes,Yes,No,,Maybe,Sat,No,"High price, Poor packaging, Long wait time"
+18–24,Prefer not to say,Pune,₹30k–50k,Student,Once a week,Swiggy,"Lunch, Dinner",Indian,₹400–600,"Delivery time, Price",Non-Veg,A la carte,Solo,1,3,20–30 min,Sometimes,No,Yes,2.0,Maybe,Sat,Yes,"Poor packaging, Limited choice, Long wait time"
+25–34,Male,Chennai,₹15k–30k,Student,Rarely,Direct,Lunch,"Fusion, Indian, Italian",₹200–400,"Taste, Packaging",Both,Depends,Solo,2,3,30–45 min,No,Yes,No,,Yes,Wed,No,Poor packaging
+35–44,Male,Chennai,₹30k–50k,Working professional,Once a week,Zomato,Dinner,Indian,₹200–400,Quantity,Non-Veg,Depends,Solo,2,4,20–30 min,Yes,Yes,Yes,1.0,Yes,Sun,No,Limited choice
+35–44,Male,Mumbai,₹15k–30k,Working professional,2–3 times/week,Swiggy,Breakfast,"Chinese, Italian",₹400–600,Price,Both,Combo,Solo,2,4,20–30 min,No,Yes,Yes,4.0,No,Mon,No,"Cold food, High price, Poor packaging"
+18–24,Female,Kolkata,₹30k–50k,Working professional,Daily,Direct,Dinner,Italian,₹200–400,"Price, Quantity",Veg,Combo,2 people,2,3,45+ min,No,Yes,No,,Maybe,Sun,Yes,"Poor packaging, Long wait time, Limited choice"
+35–44,Female,Hyderabad,₹15k–30k,Working professional,2–3 times/week,Others,Dinner,Continental,₹100–200,Discounts,Both,A la carte,Family (3–4),3,4,30–45 min,No,Yes,Yes,2.0,No,Tue,Yes,Limited choice
+18–24,Male,Delhi,₹15k–30k,Homemaker,2–3 times/week,Others,"Snacks, Breakfast",Fusion,₹200–400,Taste,Veg,Depends,Solo,3,4,30–45 min,Yes,No,Yes,5.0,No,Thu,No,High price
+25–34,Male,Chennai,₹15k–30k,Student,2–3 times/week,Swiggy,"Lunch, Breakfast, Snacks","Chinese, Italian, Continental",₹400–600,Discounts,Both,Depends,Family (3–4),4,4,20–30 min,Sometimes,No,Yes,3.0,Maybe,Fri,Yes,High price
+35–44,Female,Delhi,<₹15k,Working professional,Daily,Direct,"Breakfast, Lunch",Continental,₹100–200,"Quantity, Packaging",Non-Veg,Depends,Solo,2,4,<20 min,No,Yes,No,,Yes,Sun,Yes,Cold food
+25–34,Female,Pune,₹50k–75k,Working professional,Once a week,Direct,Breakfast,Fusion,₹100–200,Delivery time,Both,A la carte,Solo,3,1,<20 min,No,Yes,No,,No,Wed,Yes,Poor packaging
+35–44,Male,Mumbai,₹50k–75k,Working professional,Once a week,Direct,Dinner,Italian,<₹100,Packaging,Veg,A la carte,Solo,1,4,<20 min,Yes,No,Yes,1.0,Yes,Sat,Yes,Cold food
+35–44,Female,Hyderabad,₹30k–50k,Working professional,Once a week,Swiggy,"Dinner, Lunch, Breakfast","Italian, Indian",₹400–600,"Packaging, Quantity",Non-Veg,Combo,2 people,3,5,20–30 min,Sometimes,No,Yes,3.0,Yes,Sat,Yes,"High price, Poor packaging"
+25–34,Male,Bangalore,₹15k–30k,Working professional,2–3 times/week,Swiggy,Dinner,Chinese,<₹100,Price,Both,A la carte,Solo,1,1,20–30 min,Yes,Yes,No,,Yes,Tue,No,Limited choice
+18–24,Male,Mumbai,<₹15k,Retired,Once a week,Swiggy,Dinner,Continental,₹200–400,Discounts,Veg,Combo,2 people,5,3,<20 min,No,Yes,No,,Maybe,Fri,No,Poor packaging
+25–34,Female,Delhi,<₹15k,Homemaker,2–3 times/week,Zomato,Snacks,Italian,₹200–400,Discounts,Both,A la carte,Family (3–4),4,5,<20 min,Sometimes,Yes,No,,Maybe,Fri,Yes,High price
+18–24,Male,Mumbai,₹15k–30k,Working professional,2–3 times/week,Swiggy,"Breakfast, Dinner, Lunch","Indian, Chinese, Italian",₹200–400,Delivery time,Both,A la carte,2 people,3,3,20–30 min,Yes,Yes,No,,Yes,Thu,No,Cold food
+18–24,Female,Bangalore,₹50k–75k,Homemaker,Once a week,Others,Dinner,Fusion,₹200–400,Packaging,Non-Veg,Combo,2 people,1,4,30–45 min,No,Yes,No,,Yes,Sat,Yes,"High price, Limited choice, Cold food"
+55+,Male,Delhi,₹15k–30k,Working professional,2–3 times/week,Swiggy,"Dinner, Snacks",Italian,<₹100,Discounts,Non-Veg,Combo,Family (3–4),3,5,30–45 min,Yes,No,No,,Yes,Sun,Yes,"Cold food, Limited choice, High price"
+25–34,Male,Bangalore,₹30k–50k,Working professional,Rarely,"Direct, Zomato, Swiggy",Breakfast,Fusion,₹200–400,Quantity,Non-Veg,Combo,Solo,4,3,20–30 min,Sometimes,Yes,No,,Maybe,Sat,No,"Long wait time, Limited choice, Cold food"
+45–54,Prefer not to say,Delhi,₹15k–30k,Working professional,Once a week,Direct,"Breakfast, Lunch, Dinner",Fusion,₹200–400,Discounts,Non-Veg,Combo,Solo,2,2,20–30 min,No,No,No,,No,Sun,Yes,Limited choice
+25–34,Male,Delhi,₹15k–30k,Student,2–3 times/week,Swiggy,"Snacks, Lunch, Breakfast",Fusion,₹400–600,Delivery time,Non-Veg,Combo,2 people,3,5,20–30 min,Sometimes,No,No,,Maybe,Mon,No,Limited choice
+35–44,Female,Hyderabad,₹30k–50k,Homemaker,Daily,"Direct, Swiggy, Others","Breakfast, Dinner, Snacks","Fusion, Indian",₹100–200,Quantity,Both,Combo,2 people,4,5,<20 min,Sometimes,No,No,,Maybe,Mon,Yes,Limited choice
+25–34,Male,Mumbai,₹30k–50k,Working professional,2–3 times/week,Zomato,"Snacks, Dinner, Lunch",Fusion,₹400–600,Quantity,Non-Veg,Combo,Solo,4,4,20–30 min,No,Yes,No,,Yes,Sun,No,"Limited choice, Long wait time"
+25–34,Male,Pune,₹15k–30k,Working professional,Daily,Zomato,Dinner,Chinese,₹200–400,"Price, Discounts",Veg,Combo,Solo,4,4,30–45 min,Sometimes,Yes,No,,Yes,Sun,Yes,"Long wait time, High price"
+25–34,Male,Pune,<₹15k,Retired,2–3 times/week,Others,Snacks,Continental,₹400–600,"Delivery time, Quantity",Veg,Depends,Solo,5,5,45+ min,No,No,No,,Yes,Tue,Yes,"Cold food, Poor packaging, High price"
+18–24,Female,Hyderabad,₹30k–50k,Student,2–3 times/week,Direct,Lunch,Fusion,₹200–400,Price,Veg,Combo,Solo,5,4,30–45 min,Yes,No,No,,Yes,Thu,Yes,Limited choice
+35–44,Male,Bangalore,₹15k–30k,Working professional,Once a week,Others,Breakfast,Continental,₹200–400,"Taste, Price",Non-Veg,Combo,Solo,3,3,45+ min,No,No,Yes,4.0,Yes,Sat,Yes,"High price, Poor packaging, Limited choice"
+18–24,Female,Pune,₹15k–30k,Student,Daily,Others,Dinner,Indian,₹400–600,Taste,Both,A la carte,Family (3–4),3,1,30–45 min,Sometimes,Yes,No,,Yes,Tue,Yes,Long wait time
+<18,Male,Mumbai,₹75k+,Homemaker,Daily,Others,Dinner,Chinese,₹400–600,Taste,Both,Depends,Family (3–4),4,4,<20 min,Yes,Yes,No,,No,Wed,No,Cold food
+25–34,Non-binary,Mumbai,₹30k–50k,Homemaker,Once a week,Others,Snacks,Chinese,₹200–400,Quantity,Veg,A la carte,Solo,4,5,45+ min,Yes,No,No,,No,Sat,Yes,Limited choice
+18–24,Male,Delhi,₹30k–50k,Working professional,2–3 times/week,Swiggy,Breakfast,Continental,₹100–200,Quantity,Both,Combo,2 people,5,5,<20 min,Yes,Yes,No,,Yes,Sun,No,"Poor packaging, Cold food, High price"
+45–54,Female,Chennai,₹30k–50k,Working professional,Never,Direct,"Lunch, Snacks, Dinner",Fusion,₹100–200,Discounts,Non-Veg,A la carte,Family (3–4),1,5,30–45 min,Yes,Yes,Yes,5.0,No,Sat,Yes,Cold food
+55+,Female,Mumbai,₹30k–50k,Working professional,2–3 times/week,Others,Breakfast,Italian,₹100–200,Taste,Both,Depends,Solo,3,5,20–30 min,Yes,Yes,Yes,4.0,Yes,Sat,Yes,Poor packaging
+45–54,Female,Bangalore,₹30k–50k,Homemaker,2–3 times/week,Direct,Breakfast,Fusion,₹100–200,Packaging,Both,Depends,Solo,2,4,20–30 min,No,Yes,No,,Maybe,Thu,No,"Cold food, Long wait time, Limited choice"
+25–34,Female,Kolkata,₹30k–50k,Working professional,Rarely,Direct,Snacks,"Fusion, Continental, Chinese",₹100–200,"Taste, Discounts",Both,A la carte,2 people,2,3,30–45 min,No,Yes,No,,Maybe,Sat,No,Cold food
+<18,Female,Pune,₹50k–75k,Working professional,Daily,"Zomato, Direct",Lunch,Indian,₹400–600,Packaging,Veg,Depends,Family (3–4),2,4,20–30 min,No,Yes,No,,Yes,Tue,Yes,Cold food
+45–54,Female,Bangalore,₹15k–30k,Retired,2–3 times/week,"Swiggy, Direct, Others",Dinner,Chinese,<₹100,Taste,Veg,Depends,Solo,4,4,20–30 min,Yes,Yes,Yes,2.0,No,Sun,No,High price
+25–34,Male,Mumbai,₹30k–50k,Working professional,Daily,Swiggy,Snacks,Italian,₹200–400,"Packaging, Taste, Delivery time",Veg,A la carte,Large group,1,4,20–30 min,No,No,No,,No,Fri,Yes,Long wait time
+55+,Male,Chennai,₹30k–50k,Student,Rarely,"Direct, Zomato, Others","Lunch, Breakfast, Snacks","Chinese, Continental, Italian",₹100–200,"Price, Packaging",Both,A la carte,Solo,4,2,20–30 min,Sometimes,Yes,No,,Yes,Fri,Yes,Poor packaging
+55+,Female,Bangalore,₹50k–75k,Working professional,2–3 times/week,Swiggy,"Snacks, Lunch, Breakfast","Italian, Chinese, Fusion",₹100–200,Taste,Non-Veg,A la carte,Solo,4,5,45+ min,Sometimes,Yes,No,,Yes,Sun,Yes,Limited choice
+45–54,Female,Mumbai,₹30k–50k,Other,2–3 times/week,"Swiggy, Direct",Breakfast,Chinese,<₹100,"Packaging, Price, Taste",Both,Depends,Solo,2,4,30–45 min,No,No,No,,Maybe,Mon,No,High price
+18–24,Female,Mumbai,₹30k–50k,Working professional,2–3 times/week,"Zomato, Others",Snacks,Chinese,₹100–200,Delivery time,Non-Veg,Combo,Solo,2,3,20–30 min,Yes,Yes,No,,Yes,Sun,No,Long wait time
+25–34,Female,Pune,₹15k–30k,Student,Never,Swiggy,Breakfast,Fusion,₹200–400,Discounts,Both,Depends,Family (3–4),4,4,20–30 min,Sometimes,Yes,No,,No,Thu,Yes,High price
+45–54,Male,Hyderabad,₹30k–50k,Working professional,Daily,Others,Lunch,Chinese,₹400–600,Packaging,Veg,Combo,Large group,4,4,30–45 min,Sometimes,No,No,,Maybe,Thu,No,Cold food
+25–34,Male,Chennai,₹15k–30k,Working professional,Once a week,Zomato,"Lunch, Snacks, Breakfast",Italian,₹100–200,Packaging,Veg,A la carte,Solo,5,3,20–30 min,Yes,No,Yes,3.0,Yes,Tue,No,Cold food
+18–24,Female,Pune,₹15k–30k,Student,Rarely,Others,Dinner,Italian,₹200–400,Taste,Non-Veg,Depends,Large group,5,5,20–30 min,Yes,Yes,No,,Yes,Sun,Yes,"Cold food, Limited choice, High price"
+25–34,Male,Bangalore,₹15k–30k,Working professional,2–3 times/week,Direct,Breakfast,Continental,₹200–400,"Packaging, Delivery time, Price",Non-Veg,Combo,Family (3–4),5,3,20–30 min,Yes,Yes,No,,Maybe,Sun,No,High price
+45–54,Male,Bangalore,₹30k–50k,Other,Once a week,"Direct, Zomato",Dinner,Continental,₹400–600,Delivery time,Non-Veg,A la carte,Solo,3,3,30–45 min,Yes,No,No,,Yes,Mon,Yes,High price
+35–44,Female,Bangalore,₹15k–30k,Working professional,2–3 times/week,Others,Lunch,Continental,₹200–400,"Price, Delivery time, Quantity",Both,Combo,2 people,5,3,<20 min,Yes,Yes,No,,No,Mon,Yes,Limited choice
+25–34,Male,Delhi,₹30k–50k,Working professional,2–3 times/week,Swiggy,Snacks,Fusion,₹200–400,"Discounts, Price",Veg,Combo,Solo,4,4,<20 min,Sometimes,No,No,,Maybe,Sun,No,Cold food
+18–24,Female,Bangalore,₹50k–75k,Working professional,Rarely,Direct,Lunch,Continental,₹200–400,Delivery time,Non-Veg,Combo,2 people,5,5,20–30 min,No,No,No,,Maybe,Tue,Yes,Limited choice
+25–34,Male,Chennai,₹15k–30k,Student,Once a week,Zomato,"Breakfast, Snacks, Lunch","Indian, Chinese",₹400–600,Delivery time,Both,Combo,Solo,1,5,20–30 min,No,No,No,,Maybe,Fri,Yes,Limited choice
+55+,Female,Hyderabad,₹30k–50k,Retired,Rarely,"Direct, Swiggy, Zomato","Snacks, Lunch",Fusion,<₹100,Packaging,Veg,Combo,2 people,5,5,20–30 min,Sometimes,Yes,No,,Maybe,Fri,Yes,"Long wait time, Poor packaging"
+18–24,Male,Pune,₹30k–50k,Working professional,2–3 times/week,Others,Breakfast,Continental,₹200–400,Taste,Both,Depends,Solo,3,2,20–30 min,Sometimes,Yes,No,,No,Sun,No,Long wait time
+25–34,Male,Bangalore,<₹15k,Working professional,Once a week,Others,Snacks,"Continental, Italian, Fusion",₹400–600,Price,Both,Depends,Family (3–4),4,2,20–30 min,Sometimes,No,Yes,5.0,Maybe,Fri,Yes,"Long wait time, High price, Limited choice"
+45–54,Male,Hyderabad,₹50k–75k,Working professional,Never,Zomato,Breakfast,Fusion,₹200–400,"Quantity, Discounts, Delivery time",Veg,Combo,Family (3–4),2,4,<20 min,Sometimes,Yes,No,,Maybe,Thu,Yes,Poor packaging
+35–44,Male,Hyderabad,<₹15k,Working professional,2–3 times/week,Zomato,Breakfast,Chinese,₹200–400,Packaging,Veg,Depends,Solo,3,3,<20 min,Yes,Yes,No,,Maybe,Sun,Yes,Long wait time
+35–44,Male,Bangalore,₹30k–50k,Working professional,Once a week,"Others, Zomato","Lunch, Snacks","Continental, Fusion",₹200–400,Taste,Non-Veg,Combo,Solo,2,5,30–45 min,Sometimes,No,Yes,3.0,Maybe,Wed,Yes,Poor packaging
+35–44,Male,Hyderabad,₹30k–50k,Student,2–3 times/week,"Direct, Swiggy","Snacks, Breakfast, Dinner",Fusion,₹100–200,Price,Both,Combo,Solo,2,4,30–45 min,Sometimes,Yes,Yes,1.0,Yes,Wed,No,"Long wait time, Limited choice"
+25–34,Female,Delhi,₹30k–50k,Homemaker,Rarely,"Zomato, Others","Breakfast, Lunch","Fusion, Chinese",₹200–400,"Price, Discounts, Delivery time",Non-Veg,Combo,2 people,2,5,20–30 min,Yes,Yes,No,,Maybe,Mon,Yes,Limited choice
+18–24,Male,Bangalore,₹30k–50k,Retired,2–3 times/week,Direct,Dinner,"Continental, Fusion, Chinese",₹200–400,Delivery time,Both,Depends,Solo,4,3,<20 min,No,No,No,,Yes,Sun,Yes,High price
+35–44,Female,Mumbai,₹15k–30k,Working professional,Once a week,Direct,Dinner,Continental,₹200–400,Quantity,Both,Depends,2 people,1,4,<20 min,No,Yes,No,,Yes,Sat,Yes,"Limited choice, Cold food, Long wait time"
+35–44,Female,Delhi,<₹15k,Other,Once a week,Others,Dinner,Fusion,₹200–400,Packaging,Veg,Combo,Solo,3,4,30–45 min,Sometimes,Yes,Yes,5.0,Yes,Mon,Yes,Poor packaging
+45–54,Female,Bangalore,₹50k–75k,Student,Once a week,"Zomato, Direct","Dinner, Breakfast",Indian,₹400–600,Packaging,Both,Combo,Solo,2,3,30–45 min,Yes,Yes,Yes,1.0,Maybe,Sat,No,Cold food
+45–54,Male,Hyderabad,₹30k–50k,Working professional,Daily,Others,Dinner,Continental,₹100–200,Price,Both,Combo,Solo,3,4,20–30 min,No,No,No,,Yes,Thu,Yes,Poor packaging
+25–34,Female,Kolkata,₹50k–75k,Working professional,2–3 times/week,Zomato,Dinner,Fusion,₹200–400,Packaging,Non-Veg,A la carte,Solo,2,3,30–45 min,Yes,Yes,Yes,5.0,Maybe,Sun,No,High price
+25–34,Male,Hyderabad,₹50k–75k,Working professional,Once a week,Direct,"Snacks, Dinner, Lunch","Italian, Chinese, Fusion",₹200–400,"Quantity, Delivery time",Both,A la carte,Family (3–4),2,3,30–45 min,Yes,Yes,Yes,2.0,No,Wed,Yes,High price
+35–44,Male,Hyderabad,₹50k–75k,Working professional,Once a week,Direct,Lunch,Chinese,₹200–400,Delivery time,Both,Combo,Large group,3,3,45+ min,Yes,No,Yes,3.0,Yes,Sat,Yes,Limited choice
+25–34,Prefer not to say,Bangalore,₹30k–50k,Working professional,2–3 times/week,Zomato,Dinner,Chinese,₹100–200,Discounts,Veg,Depends,Solo,4,1,<20 min,No,No,Yes,3.0,No,Fri,No,"Cold food, Limited choice"
+35–44,Male,Hyderabad,₹15k–30k,Student,Rarely,Swiggy,Breakfast,"Fusion, Chinese, Continental",₹200–400,Delivery time,Non-Veg,Combo,2 people,2,4,20–30 min,Sometimes,Yes,Yes,4.0,No,Mon,Yes,"Long wait time, Cold food"
+35–44,Female,Mumbai,₹50k–75k,Working professional,2–3 times/week,Zomato,"Breakfast, Snacks, Dinner",Chinese,₹400–600,Packaging,Non-Veg,Depends,Solo,2,3,<20 min,Yes,No,No,,Maybe,Sun,Yes,Poor packaging
+45–54,Female,Delhi,₹30k–50k,Student,Never,Swiggy,"Lunch, Snacks",Chinese,₹200–400,"Packaging, Delivery time",Veg,A la carte,2 people,2,1,30–45 min,No,Yes,Yes,5.0,Yes,Tue,No,"High price, Cold food"
+25–34,Female,Delhi,₹15k–30k,Homemaker,2–3 times/week,"Swiggy, Zomato, Direct",Lunch,Italian,₹400–600,"Discounts, Price",Both,A la carte,Solo,5,3,30–45 min,Yes,No,No,,Yes,Sat,No,Poor packaging
+25–34,Female,Bangalore,₹50k–75k,Working professional,Once a week,Zomato,Dinner,"Fusion, Chinese",₹600+,"Discounts, Price",Veg,Depends,2 people,3,3,20–30 min,Yes,Yes,No,,No,Sat,Yes,Limited choice
+18–24,Male,Mumbai,₹50k–75k,Student,Rarely,Direct,Snacks,Fusion,₹100–200,Price,Both,Depends,Family (3–4),3,3,<20 min,No,Yes,No,,Yes,Fri,Yes,Cold food
+25–34,Male,Mumbai,₹30k–50k,Working professional,2–3 times/week,Swiggy,Snacks,Fusion,₹100–200,"Delivery time, Price",Non-Veg,Combo,Solo,2,2,20–30 min,Yes,No,No,,Yes,Mon,Yes,"Cold food, High price, Poor packaging"
+<18,Female,Delhi,<₹15k,Working professional,Daily,Zomato,Breakfast,Indian,₹600+,Packaging,Veg,Combo,Family (3–4),3,4,20–30 min,No,Yes,No,,Yes,Sun,No,Long wait time
+25–34,Male,Kolkata,₹30k–50k,Retired,Never,Swiggy,Snacks,Chinese,₹600+,Quantity,Both,Depends,Solo,1,4,20–30 min,Yes,Yes,No,,No,Wed,Yes,Limited choice
+25–34,Male,Delhi,₹50k–75k,Working professional,Once a week,Zomato,Breakfast,Continental,<₹100,"Delivery time, Quantity, Taste",Both,Combo,Solo,1,4,20–30 min,Yes,Yes,No,,Yes,Fri,No,Limited choice
+18–24,Male,Bangalore,₹75k+,Working professional,Once a week,Direct,Snacks,"Continental, Italian, Indian",<₹100,Packaging,Non-Veg,Combo,Solo,3,5,<20 min,No,No,No,,No,Sat,Yes,Long wait time
+25–34,Male,Mumbai,₹15k–30k,Homemaker,Daily,Others,"Breakfast, Lunch",Chinese,₹100–200,Packaging,Veg,A la carte,Solo,3,4,30–45 min,No,Yes,No,,Maybe,Sun,Yes,"High price, Poor packaging, Limited choice"
+<18,Male,Hyderabad,<₹15k,Working professional,Once a week,"Direct, Swiggy, Zomato",Snacks,"Continental, Indian",₹600+,"Price, Discounts, Taste",Veg,Depends,Solo,2,4,20–30 min,Yes,Yes,No,,Maybe,Fri,Yes,Long wait time
+<18,Male,Delhi,₹50k–75k,Student,Once a week,"Swiggy, Direct, Zomato",Lunch,"Indian, Chinese, Continental",₹100–200,Taste,Non-Veg,Depends,Solo,4,5,20–30 min,No,Yes,Yes,5.0,Yes,Wed,Yes,Poor packaging
+35–44,Female,Delhi,₹30k–50k,Working professional,Once a week,Swiggy,Snacks,Italian,₹200–400,"Packaging, Delivery time",Veg,Depends,Solo,5,3,<20 min,Sometimes,Yes,No,,Yes,Sat,Yes,"High price, Poor packaging"
+25–34,Female,Bangalore,₹30k–50k,Retired,Once a week,"Swiggy, Zomato","Dinner, Snacks",Italian,₹400–600,Delivery time,Non-Veg,A la carte,Solo,3,4,30–45 min,Sometimes,Yes,No,,Yes,Tue,Yes,Cold food
+18–24,Female,Mumbai,₹75k+,Working professional,Daily,Zomato,"Lunch, Snacks","Fusion, Italian, Continental",<₹100,Price,Both,Combo,2 people,4,3,20–30 min,Yes,Yes,No,,Yes,Mon,No,"Limited choice, High price"
+25–34,Male,Mumbai,<₹15k,Working professional,Once a week,Zomato,Breakfast,Fusion,₹200–400,Delivery time,Non-Veg,A la carte,Family (3–4),5,3,45+ min,No,Yes,Yes,1.0,Yes,Sun,Yes,Long wait time
+35–44,Male,Delhi,₹30k–50k,Student,2–3 times/week,"Direct, Others",Dinner,Indian,₹100–200,Price,Both,Depends,Solo,4,4,20–30 min,No,Yes,No,,Yes,Fri,Yes,High price
+18–24,Male,Mumbai,<₹15k,Student,2–3 times/week,Zomato,Breakfast,"Italian, Chinese",₹400–600,"Packaging, Discounts, Delivery time",Both,Combo,Solo,3,3,45+ min,Yes,No,No,,No,Mon,No,Cold food
+25–34,Female,Mumbai,₹30k–50k,Working professional,2–3 times/week,Direct,"Lunch, Breakfast, Snacks",Indian,₹100–200,Packaging,Non-Veg,Combo,Solo,4,3,30–45 min,Sometimes,No,Yes,5.0,Maybe,Fri,No,"High price, Long wait time, Cold food"
+18–24,Female,Delhi,₹50k–75k,Working professional,Once a week,"Direct, Zomato",Dinner,Italian,₹200–400,"Packaging, Price",Both,Combo,Family (3–4),2,3,20–30 min,Sometimes,No,No,,Maybe,Tue,Yes,Cold food
+18–24,Male,Chennai,₹30k–50k,Student,Daily,Zomato,Breakfast,"Continental, Italian",₹200–400,Taste,Non-Veg,A la carte,2 people,3,3,45+ min,Sometimes,Yes,No,,Yes,Mon,No,Poor packaging
+25–34,Female,Bangalore,₹75k+,Retired,Once a week,Direct,Dinner,Italian,₹100–200,"Taste, Price",Both,Depends,Solo,2,3,20–30 min,Sometimes,No,No,,No,Tue,Yes,High price
+25–34,Male,Bangalore,₹30k–50k,Homemaker,Daily,Others,"Dinner, Breakfast","Fusion, Continental",<₹100,"Taste, Discounts",Veg,A la carte,Solo,2,4,20–30 min,Sometimes,Yes,No,,Yes,Sat,Yes,Limited choice
+25–34,Female,Delhi,₹15k–30k,Working professional,Rarely,Others,Snacks,"Continental, Italian, Chinese",₹200–400,"Discounts, Quantity",Veg,Depends,Solo,3,4,<20 min,No,No,No,,No,Sat,No,Cold food
+35–44,Female,Pune,₹15k–30k,Homemaker,2–3 times/week,"Direct, Swiggy, Zomato",Breakfast,Chinese,₹100–200,Quantity,Both,Combo,Solo,2,4,20–30 min,No,Yes,No,,Yes,Fri,No,Limited choice
+55+,Female,Delhi,₹30k–50k,Student,2–3 times/week,Direct,"Breakfast, Lunch",Fusion,₹400–600,Discounts,Non-Veg,Depends,Family (3–4),4,3,30–45 min,Sometimes,Yes,No,,Maybe,Wed,No,"Cold food, Poor packaging"
+25–34,Female,Mumbai,₹30k–50k,Working professional,2–3 times/week,Others,Breakfast,"Continental, Fusion",₹400–600,Price,Both,Depends,Family (3–4),3,5,30–45 min,No,Yes,No,,Maybe,Sat,No,Cold food
+25–34,Female,Hyderabad,<₹15k,Working professional,2–3 times/week,Direct,Breakfast,"Chinese, Continental, Fusion",₹200–400,Taste,Both,Combo,Solo,3,4,<20 min,Yes,Yes,No,,Yes,Thu,Yes,High price
+35–44,Male,Mumbai,₹30k–50k,Homemaker,Rarely,Zomato,Breakfast,Continental,₹200–400,"Packaging, Quantity, Price",Veg,Depends,2 people,2,3,20–30 min,Yes,No,No,,Maybe,Fri,Yes,Limited choice
+18–24,Female,Delhi,₹30k–50k,Homemaker,Rarely,Zomato,Lunch,Continental,₹200–400,Packaging,Non-Veg,Combo,Solo,2,5,20–30 min,Sometimes,No,No,,No,Sun,Yes,Long wait time
+25–34,Male,Bangalore,₹50k–75k,Working professional,2–3 times/week,"Zomato, Direct",Dinner,Continental,₹400–600,"Quantity, Packaging, Delivery time",Non-Veg,Depends,Solo,3,4,30–45 min,Yes,No,Yes,3.0,Yes,Fri,Yes,Poor packaging
+18–24,Female,Pune,₹30k–50k,Retired,2–3 times/week,"Zomato, Direct","Breakfast, Lunch",Chinese,₹200–400,Packaging,Both,Depends,Family (3–4),5,4,20–30 min,No,No,Yes,5.0,No,Fri,Yes,Limited choice
+<18,Female,Bangalore,₹50k–75k,Student,Rarely,Others,"Lunch, Dinner",Italian,₹100–200,"Price, Taste, Packaging",Both,Depends,2 people,1,3,45+ min,Sometimes,Yes,No,,No,Sun,Yes,"Cold food, Long wait time, High price"
+55+,Female,Hyderabad,<₹15k,Retired,Never,"Direct, Swiggy","Lunch, Breakfast",Fusion,₹100–200,Price,Veg,A la carte,Solo,2,4,20–30 min,Sometimes,Yes,No,,Maybe,Fri,No,Limited choice
+35–44,Male,Kolkata,₹15k–30k,Other,2–3 times/week,Swiggy,Breakfast,Indian,₹200–400,"Delivery time, Discounts",Non-Veg,Combo,Solo,5,5,20–30 min,Sometimes,No,No,,Maybe,Fri,No,Cold food
+35–44,Female,Mumbai,₹30k–50k,Student,2–3 times/week,Direct,Lunch,"Chinese, Italian",₹200–400,Price,Both,A la carte,Family (3–4),1,4,30–45 min,No,Yes,Yes,4.0,No,Fri,Yes,Cold food
+25–34,Female,Delhi,₹30k–50k,Homemaker,Once a week,Direct,Snacks,"Continental, Chinese",₹200–400,Quantity,Veg,Combo,2 people,5,4,20–30 min,Yes,No,No,,Maybe,Wed,Yes,Limited choice
+18–24,Female,Delhi,<₹15k,Student,Never,"Zomato, Swiggy, Direct",Snacks,Italian,<₹100,Delivery time,Both,Depends,Solo,3,4,<20 min,Sometimes,Yes,No,,Maybe,Sat,No,Cold food
+18–24,Male,Bangalore,₹50k–75k,Working professional,Once a week,Direct,Lunch,Continental,₹200–400,Quantity,Both,Depends,Solo,3,5,20–30 min,Yes,Yes,No,,Yes,Sat,Yes,Long wait time
+18–24,Male,Bangalore,₹50k–75k,Working professional,2–3 times/week,Swiggy,Breakfast,"Italian, Chinese",₹100–200,Packaging,Both,Depends,Solo,3,3,<20 min,Yes,No,Yes,4.0,Yes,Wed,No,Poor packaging
+25–34,Male,Pune,₹30k–50k,Working professional,Once a week,"Swiggy, Direct, Others",Breakfast,Italian,₹100–200,Price,Non-Veg,Combo,Large group,2,4,45+ min,Yes,Yes,No,,Maybe,Mon,Yes,Poor packaging
+35–44,Male,Hyderabad,<₹15k,Retired,Once a week,Swiggy,"Breakfast, Snacks, Lunch",Fusion,₹200–400,"Quantity, Packaging, Price",Veg,Depends,2 people,3,2,20–30 min,Yes,Yes,Yes,3.0,Maybe,Sun,Yes,"Long wait time, Poor packaging, Cold food"
+35–44,Female,Hyderabad,₹50k–75k,Working professional,2–3 times/week,Others,Snacks,Continental,₹100–200,Quantity,Non-Veg,Depends,Solo,5,4,20–30 min,Yes,Yes,Yes,3.0,Yes,Fri,No,Long wait time
+18–24,Male,Delhi,₹30k–50k,Working professional,Never,Zomato,Lunch,Continental,₹200–400,Quantity,Veg,Depends,2 people,4,4,20–30 min,Yes,No,No,,Yes,Tue,No,Cold food
+55+,Non-binary,Chennai,₹50k–75k,Homemaker,Once a week,Zomato,Snacks,Indian,₹100–200,"Taste, Price",Both,Combo,Family (3–4),4,1,<20 min,No,Yes,Yes,3.0,Yes,Wed,Yes,Limited choice
+35–44,Male,Kolkata,₹50k–75k,Other,2–3 times/week,Swiggy,Lunch,Indian,₹200–400,Taste,Veg,Combo,Solo,4,4,30–45 min,Sometimes,Yes,Yes,5.0,Maybe,Fri,Yes,High price
+25–34,Male,Chennai,₹50k–75k,Student,Once a week,"Swiggy, Zomato, Others",Lunch,"Chinese, Continental",₹200–400,Price,Both,Combo,Solo,2,3,45+ min,Yes,Yes,No,,Maybe,Tue,No,"Poor packaging, Limited choice"
+25–34,Female,Mumbai,₹30k–50k,Other,Once a week,"Others, Direct, Zomato",Dinner,Indian,₹100–200,"Taste, Packaging",Non-Veg,A la carte,2 people,4,2,30–45 min,Yes,Yes,Yes,5.0,Yes,Mon,Yes,Cold food
+25–34,Female,Hyderabad,₹15k–30k,Student,2–3 times/week,Others,"Lunch, Breakfast, Dinner",Continental,₹100–200,Quantity,Non-Veg,A la carte,2 people,3,3,20–30 min,No,Yes,No,,Yes,Sat,No,Poor packaging
+18–24,Female,Mumbai,₹30k–50k,Homemaker,2–3 times/week,Direct,Snacks,Indian,₹400–600,"Taste, Price",Veg,Depends,2 people,4,3,20–30 min,No,Yes,Yes,2.0,Maybe,Sat,Yes,Cold food
+25–34,Female,Delhi,₹30k–50k,Working professional,Once a week,"Others, Zomato",Breakfast,Fusion,₹200–400,Price,Both,Combo,Family (3–4),3,3,<20 min,Sometimes,No,No,,Yes,Thu,Yes,"Cold food, Long wait time, High price"
+35–44,Female,Mumbai,₹50k–75k,Student,2–3 times/week,"Zomato, Swiggy",Dinner,Indian,₹200–400,Discounts,Non-Veg,Combo,Solo,4,3,30–45 min,Yes,No,No,,Maybe,Mon,Yes,Limited choice
+<18,Male,Hyderabad,₹15k–30k,Working professional,Once a week,"Zomato, Swiggy, Others",Dinner,"Indian, Fusion, Continental",<₹100,Price,Veg,A la carte,Solo,5,4,20–30 min,Sometimes,Yes,Yes,1.0,Yes,Fri,Yes,"High price, Long wait time, Cold food"
+18–24,Prefer not to say,Hyderabad,₹15k–30k,Working professional,2–3 times/week,Others,Snacks,"Chinese, Italian, Continental",₹200–400,Taste,Both,Depends,Large group,3,4,20–30 min,No,No,No,,No,Wed,Yes,Limited choice
+<18,Non-binary,Mumbai,₹50k–75k,Working professional,Never,Swiggy,Dinner,Continental,₹200–400,Quantity,Non-Veg,Depends,Solo,1,4,45+ min,No,Yes,No,,No,Thu,Yes,"Cold food, High price, Long wait time"
+<18,Female,Delhi,₹50k–75k,Student,Rarely,"Zomato, Direct, Swiggy","Snacks, Dinner, Breakfast",Chinese,₹200–400,Discounts,Non-Veg,Depends,2 people,3,1,20–30 min,Yes,Yes,Yes,5.0,No,Wed,Yes,High price
+45–54,Male,Bangalore,₹75k+,Working professional,2–3 times/week,Direct,"Snacks, Breakfast, Lunch",Continental,₹200–400,Quantity,Non-Veg,A la carte,2 people,3,5,<20 min,Yes,Yes,No,,Maybe,Tue,Yes,Limited choice
+35–44,Female,Delhi,₹50k–75k,Retired,2–3 times/week,Swiggy,"Dinner, Breakfast, Snacks",Chinese,₹100–200,Discounts,Veg,A la carte,2 people,4,4,<20 min,Yes,Yes,Yes,2.0,Maybe,Thu,Yes,"Long wait time, High price, Poor packaging"
+25–34,Male,Mumbai,₹30k–50k,Working professional,Rarely,"Swiggy, Direct",Lunch,Chinese,₹100–200,"Packaging, Taste, Discounts",Both,Depends,Solo,5,1,20–30 min,Yes,Yes,Yes,2.0,Maybe,Sun,Yes,Poor packaging
+18–24,Male,Bangalore,₹30k–50k,Working professional,Once a week,Others,"Dinner, Breakfast","Indian, Chinese, Fusion",₹400–600,Taste,Non-Veg,A la carte,Family (3–4),3,5,<20 min,No,Yes,Yes,4.0,Yes,Wed,No,Limited choice
+25–34,Male,Chennai,₹50k–75k,Working professional,Rarely,Swiggy,Snacks,"Fusion, Continental",₹400–600,"Price, Discounts, Delivery time",Veg,Combo,Family (3–4),3,3,20–30 min,Sometimes,No,No,,Yes,Thu,Yes,Long wait time
+25–34,Male,Mumbai,₹30k–50k,Student,Rarely,Swiggy,Dinner,Continental,₹100–200,"Price, Delivery time",Non-Veg,Combo,2 people,4,4,20–30 min,Sometimes,Yes,No,,Yes,Thu,Yes,"Cold food, Poor packaging, Limited choice"
+18–24,Female,Mumbai,₹30k–50k,Homemaker,Once a week,Swiggy,Dinner,Fusion,₹200–400,Taste,Both,Combo,Solo,2,4,20–30 min,No,No,No,,Maybe,Fri,Yes,"Long wait time, Limited choice"
+25–34,Female,Delhi,₹15k–30k,Homemaker,Once a week,Others,"Lunch, Snacks, Dinner",Fusion,₹100–200,Taste,Non-Veg,Depends,Solo,2,3,30–45 min,No,Yes,No,,No,Sat,No,"Poor packaging, Long wait time"
+25–34,Female,Pune,₹30k–50k,Working professional,Never,Zomato,Dinner,Fusion,<₹100,Taste,Both,Combo,Solo,5,5,20–30 min,Yes,Yes,No,,Maybe,Thu,Yes,Cold food
+25–34,Male,Hyderabad,₹50k–75k,Working professional,2–3 times/week,Others,Breakfast,"Fusion, Indian, Continental",₹100–200,Delivery time,Veg,Combo,Solo,4,3,30–45 min,Sometimes,Yes,No,,Maybe,Sat,Yes,High price
+25–34,Male,Hyderabad,₹15k–30k,Homemaker,Once a week,Direct,Snacks,Fusion,₹100–200,Delivery time,Veg,Combo,Solo,1,2,20–30 min,No,Yes,No,,No,Tue,Yes,"Poor packaging, High price"
+<18,Male,Delhi,₹15k–30k,Working professional,Once a week,Zomato,Breakfast,Fusion,₹200–400,Discounts,Both,A la carte,Large group,2,5,20–30 min,Yes,No,No,,Maybe,Sun,No,"Long wait time, Cold food, Poor packaging"
+25–34,Prefer not to say,Bangalore,₹15k–30k,Homemaker,2–3 times/week,"Swiggy, Zomato",Lunch,"Fusion, Italian",₹200–400,Price,Veg,Combo,Family (3–4),4,5,45+ min,Yes,No,Yes,5.0,Maybe,Tue,No,Poor packaging
+25–34,Male,Mumbai,₹15k–30k,Working professional,Daily,Swiggy,Snacks,Chinese,₹100–200,Price,Both,A la carte,2 people,4,4,<20 min,No,Yes,No,,Maybe,Mon,Yes,Long wait time
+25–34,Female,Hyderabad,₹15k–30k,Homemaker,Daily,Zomato,Snacks,Continental,<₹100,Taste,Veg,Combo,2 people,4,4,20–30 min,No,No,No,,No,Tue,Yes,Cold food
+45–54,Female,Pune,₹30k–50k,Working professional,Never,Zomato,Breakfast,"Fusion, Italian",₹400–600,Packaging,Both,Combo,Solo,2,2,30–45 min,Yes,No,No,,Maybe,Tue,Yes,Cold food
+35–44,Male,Hyderabad,₹75k+,Working professional,Once a week,"Zomato, Direct, Others",Lunch,"Chinese, Indian",₹100–200,"Discounts, Delivery time, Taste",Non-Veg,A la carte,Large group,5,4,20–30 min,Sometimes,No,No,,Yes,Fri,Yes,Long wait time
+18–24,Female,Pune,₹30k–50k,Other,2–3 times/week,Zomato,Lunch,"Chinese, Continental, Italian",₹200–400,"Taste, Price",Both,Combo,Solo,3,2,20–30 min,Sometimes,Yes,No,,No,Thu,No,High price
+18–24,Female,Hyderabad,₹15k–30k,Working professional,2–3 times/week,Zomato,Breakfast,Chinese,₹100–200,Delivery time,Veg,Combo,Solo,4,2,20–30 min,No,No,No,,Yes,Sat,Yes,"Limited choice, Long wait time, Cold food"
+25–34,Female,Mumbai,<₹15k,Working professional,2–3 times/week,Others,Snacks,"Italian, Continental",₹200–400,Quantity,Veg,Combo,Solo,3,4,30–45 min,Yes,Yes,No,,Yes,Mon,Yes,"Cold food, Long wait time, High price"
+<18,Female,Pune,₹30k–50k,Working professional,Once a week,Swiggy,Breakfast,Continental,₹100–200,"Packaging, Delivery time",Veg,Depends,Family (3–4),2,3,30–45 min,Yes,No,No,,Maybe,Fri,Yes,Long wait time
+25–34,Male,Mumbai,₹30k–50k,Working professional,Never,Others,"Lunch, Snacks",Continental,<₹100,Taste,Veg,A la carte,Family (3–4),5,1,<20 min,Sometimes,Yes,Yes,2.0,No,Thu,Yes,"Long wait time, Limited choice"
+45–54,Male,Bangalore,₹50k–75k,Working professional,Rarely,Others,Breakfast,"Chinese, Italian",₹100–200,"Delivery time, Discounts, Quantity",Non-Veg,Combo,Solo,2,3,<20 min,Sometimes,Yes,No,,Yes,Fri,Yes,High price
+25–34,Female,Mumbai,₹30k–50k,Student,2–3 times/week,"Others, Zomato, Swiggy","Breakfast, Snacks",Fusion,₹100–200,Quantity,Non-Veg,Combo,Family (3–4),2,2,20–30 min,Yes,Yes,No,,Yes,Mon,No,"Cold food, High price"
+25–34,Female,Mumbai,₹50k–75k,Student,2–3 times/week,Direct,"Snacks, Dinner, Breakfast",Indian,₹200–400,Discounts,Non-Veg,Depends,Solo,4,3,20–30 min,Yes,Yes,No,,Maybe,Mon,Yes,Cold food
+25–34,Male,Bangalore,₹15k–30k,Working professional,Once a week,Zomato,"Lunch, Dinner",Chinese,₹200–400,Delivery time,Both,A la carte,Solo,4,2,20–30 min,Yes,No,No,,Maybe,Thu,Yes,High price
+25–34,Female,Delhi,₹30k–50k,Homemaker,2–3 times/week,Zomato,Lunch,Fusion,₹100–200,Price,Both,A la carte,Family (3–4),4,3,20–30 min,Yes,Yes,No,,Yes,Sat,Yes,Cold food
+25–34,Female,Bangalore,₹15k–30k,Working professional,Daily,Swiggy,"Breakfast, Lunch, Snacks",Chinese,<₹100,"Quantity, Taste",Both,Depends,Family (3–4),3,4,20–30 min,No,Yes,Yes,4.0,Maybe,Sat,Yes,Long wait time
+45–54,Female,Bangalore,₹75k+,Working professional,2–3 times/week,Direct,Breakfast,"Chinese, Indian, Fusion",₹200–400,Price,Non-Veg,Depends,2 people,3,5,<20 min,Sometimes,No,No,,Yes,Mon,Yes,Limited choice
+25–34,Male,Mumbai,₹30k–50k,Working professional,Never,Swiggy,Lunch,Continental,₹200–400,Discounts,Non-Veg,Depends,2 people,5,4,45+ min,Yes,Yes,No,,No,Tue,Yes,Long wait time
+55+,Female,Mumbai,₹15k–30k,Student,2–3 times/week,"Zomato, Swiggy, Direct",Lunch,Fusion,₹600+,Delivery time,Non-Veg,A la carte,Family (3–4),1,4,<20 min,Yes,Yes,No,,Maybe,Wed,Yes,High price
+45–54,Female,Bangalore,₹15k–30k,Working professional,2–3 times/week,Direct,Breakfast,Chinese,₹200–400,Packaging,Both,A la carte,Family (3–4),5,1,20–30 min,Sometimes,Yes,No,,Maybe,Thu,No,Cold food
+18–24,Male,Delhi,₹15k–30k,Student,Daily,Others,"Snacks, Dinner, Breakfast",Fusion,₹200–400,"Quantity, Delivery time",Veg,Combo,Family (3–4),2,2,20–30 min,Yes,Yes,Yes,1.0,Maybe,Fri,Yes,Long wait time
+18–24,Male,Hyderabad,₹30k–50k,Student,Once a week,Others,Snacks,Italian,₹200–400,"Discounts, Taste",Veg,Depends,2 people,4,3,45+ min,Sometimes,Yes,No,,Yes,Wed,Yes,Long wait time
+18–24,Non-binary,Hyderabad,₹15k–30k,Working professional,2–3 times/week,"Swiggy, Others","Breakfast, Lunch","Italian, Chinese, Continental",₹400–600,Price,Both,A la carte,Large group,2,4,30–45 min,No,Yes,No,,No,Thu,Yes,Poor packaging
+<18,Male,Chennai,₹30k–50k,Working professional,2–3 times/week,Others,"Dinner, Snacks",Italian,₹400–600,Delivery time,Veg,Combo,Large group,3,4,30–45 min,Sometimes,No,No,,Yes,Fri,Yes,Cold food
+18–24,Female,Hyderabad,₹15k–30k,Student,2–3 times/week,Zomato,"Breakfast, Snacks",Indian,₹100–200,Delivery time,Both,Depends,Solo,5,4,<20 min,Yes,No,No,,No,Thu,Yes,High price
+35–44,Female,Bangalore,₹30k–50k,Working professional,Daily,Swiggy,Dinner,"Indian, Italian",₹100–200,"Quantity, Delivery time",Both,Depends,Family (3–4),3,3,30–45 min,Yes,Yes,No,,No,Tue,Yes,"Poor packaging, Limited choice"
+18–24,Male,Hyderabad,₹50k–75k,Working professional,2–3 times/week,Swiggy,"Lunch, Breakfast, Dinner","Indian, Chinese",₹100–200,Quantity,Veg,Depends,Solo,4,2,20–30 min,No,Yes,No,,Yes,Fri,Yes,Cold food
+25–34,Female,Delhi,₹50k–75k,Working professional,Daily,Direct,"Snacks, Breakfast, Dinner",Italian,₹200–400,Quantity,Veg,Depends,Solo,4,4,20–30 min,No,Yes,No,,Yes,Thu,No,"Cold food, High price"
+35–44,Male,Delhi,₹50k–75k,Working professional,2–3 times/week,Zomato,Breakfast,Continental,₹200–400,Quantity,Non-Veg,Depends,2 people,4,3,20–30 min,Yes,No,No,,Yes,Sun,Yes,"High price, Long wait time"
+<18,Female,Chennai,₹15k–30k,Homemaker,2–3 times/week,"Others, Zomato",Lunch,Continental,₹200–400,"Discounts, Quantity, Taste",Both,Combo,Solo,5,4,30–45 min,Sometimes,Yes,No,,No,Sat,Yes,Long wait time
+35–44,Male,Bangalore,<₹15k,Student,Rarely,Direct,"Lunch, Snacks","Indian, Continental, Chinese",<₹100,Delivery time,Veg,Depends,2 people,3,4,30–45 min,Sometimes,No,No,,Maybe,Tue,No,"High price, Cold food"
+18–24,Female,Chennai,₹30k–50k,Working professional,Once a week,Others,"Lunch, Snacks, Dinner",Continental,₹200–400,"Delivery time, Packaging, Discounts",Both,Depends,Family (3–4),2,4,30–45 min,No,Yes,No,,Yes,Tue,Yes,"High price, Poor packaging, Limited choice"
+18–24,Male,Chennai,₹30k–50k,Student,Once a week,Others,"Dinner, Breakfast, Snacks",Indian,₹400–600,"Delivery time, Discounts, Taste",Non-Veg,Combo,Solo,1,5,45+ min,Yes,No,Yes,4.0,Maybe,Thu,Yes,High price
+35–44,Male,Pune,₹30k–50k,Student,2–3 times/week,Others,Lunch,Indian,₹100–200,Delivery time,Non-Veg,Combo,Solo,2,5,20–30 min,Sometimes,Yes,No,,Yes,Thu,Yes,High price
+25–34,Non-binary,Pune,<₹15k,Working professional,Once a week,Zomato,Lunch,Chinese,₹200–400,Delivery time,Veg,Depends,Family (3–4),2,4,20–30 min,Sometimes,No,Yes,1.0,No,Sun,No,Limited choice
+45–54,Male,Bangalore,₹15k–30k,Working professional,Once a week,Direct,Breakfast,Indian,₹200–400,Taste,Both,Combo,Solo,3,4,<20 min,Yes,Yes,Yes,3.0,No,Thu,Yes,"Poor packaging, Limited choice, High price"
+35–44,Female,Delhi,<₹15k,Retired,2–3 times/week,Zomato,Breakfast,"Fusion, Chinese",₹400–600,Delivery time,Veg,Depends,Solo,2,3,30–45 min,Sometimes,No,No,,Yes,Sun,Yes,Long wait time
+35–44,Male,Bangalore,₹50k–75k,Working professional,2–3 times/week,"Swiggy, Zomato, Direct","Dinner, Lunch",Continental,₹400–600,"Packaging, Taste, Discounts",Both,Combo,Solo,1,5,20–30 min,Yes,Yes,No,,Yes,Fri,No,High price
+18–24,Female,Delhi,₹15k–30k,Other,2–3 times/week,Zomato,Lunch,Continental,₹200–400,Quantity,Non-Veg,Combo,2 people,1,4,30–45 min,Yes,Yes,No,,Maybe,Sun,Yes,Long wait time
+18–24,Male,Hyderabad,₹30k–50k,Student,Never,Direct,"Snacks, Dinner",Indian,₹200–400,Discounts,Non-Veg,A la carte,2 people,4,2,20–30 min,Yes,Yes,Yes,3.0,No,Sat,No,Limited choice
+35–44,Non-binary,Hyderabad,<₹15k,Student,2–3 times/week,Swiggy,Dinner,Indian,₹400–600,Discounts,Both,Combo,Family (3–4),3,3,20–30 min,Sometimes,No,No,,Yes,Sat,No,Cold food
+35–44,Male,Hyderabad,₹30k–50k,Student,Rarely,Others,Breakfast,"Italian, Continental",₹200–400,Packaging,Both,A la carte,Solo,3,2,<20 min,No,No,No,,Yes,Fri,Yes,"Cold food, Limited choice, High price"
+55+,Male,Delhi,₹15k–30k,Student,Once a week,Swiggy,Dinner,"Indian, Fusion",₹100–200,Price,Non-Veg,A la carte,Family (3–4),5,4,20–30 min,Yes,Yes,No,,Maybe,Sat,No,Poor packaging
+25–34,Male,Mumbai,₹50k–75k,Working professional,2–3 times/week,Others,"Snacks, Breakfast, Lunch","Italian, Fusion",₹200–400,"Quantity, Discounts",Veg,Combo,2 people,1,4,30–45 min,Yes,Yes,No,,Yes,Wed,No,Limited choice
+25–34,Male,Bangalore,₹50k–75k,Working professional,Rarely,Others,"Breakfast, Dinner, Snacks",Indian,₹100–200,Packaging,Both,Combo,Solo,5,3,<20 min,Yes,Yes,No,,Maybe,Sun,No,High price
+35–44,Female,Mumbai,₹15k–30k,Student,2–3 times/week,Others,"Dinner, Breakfast","Fusion, Indian, Chinese",₹100–200,Quantity,Non-Veg,Combo,2 people,4,2,20–30 min,Yes,No,Yes,4.0,Yes,Fri,Yes,High price
+25–34,Male,Pune,₹75k+,Retired,Daily,"Swiggy, Others",Dinner,"Italian, Fusion",₹400–600,Quantity,Veg,Combo,2 people,2,5,<20 min,No,No,No,,No,Thu,No,High price
+45–54,Female,Delhi,₹75k+,Homemaker,2–3 times/week,Others,Breakfast,Italian,₹200–400,Packaging,Both,Depends,2 people,4,4,20–30 min,Yes,No,No,,Yes,Sun,Yes,Cold food
+45–54,Male,Mumbai,₹50k–75k,Working professional,Once a week,Direct,Lunch,"Chinese, Italian, Fusion",₹200–400,Packaging,Veg,A la carte,Solo,4,5,20–30 min,Yes,Yes,No,,Maybe,Sun,No,Long wait time
+25–34,Male,Mumbai,₹50k–75k,Student,2–3 times/week,Others,Dinner,Fusion,₹100–200,Discounts,Veg,Combo,Solo,3,3,20–30 min,Sometimes,No,Yes,3.0,Maybe,Sat,Yes,"Limited choice, Cold food, Long wait time"
+35–44,Female,Hyderabad,₹15k–30k,Student,2–3 times/week,"Direct, Zomato",Breakfast,Chinese,₹100–200,"Delivery time, Quantity, Price",Veg,A la carte,Solo,5,4,30–45 min,No,No,No,,No,Wed,Yes,Long wait time
+35–44,Female,Hyderabad,₹30k–50k,Student,Rarely,Zomato,"Lunch, Breakfast",Italian,₹100–200,"Taste, Quantity",Both,Combo,Solo,2,4,20–30 min,Sometimes,No,No,,Yes,Sun,Yes,"Poor packaging, Limited choice, High price"
+18–24,Male,Delhi,<₹15k,Student,Once a week,Direct,Lunch,Chinese,₹100–200,Packaging,Both,Combo,2 people,2,3,20–30 min,Yes,Yes,Yes,5.0,Yes,Sat,Yes,Cold food
+45–54,Male,Mumbai,<₹15k,Working professional,Never,Direct,"Snacks, Lunch, Dinner",Indian,₹200–400,"Packaging, Delivery time, Taste",Non-Veg,Combo,Solo,1,2,20–30 min,Yes,No,No,,Yes,Fri,Yes,Long wait time
+25–34,Male,Bangalore,₹75k+,Working professional,Never,Others,"Breakfast, Lunch, Snacks",Fusion,₹100–200,Discounts,Non-Veg,Depends,Family (3–4),2,3,<20 min,No,Yes,No,,Yes,Sun,Yes,"Limited choice, Long wait time"
+35–44,Female,Delhi,₹15k–30k,Working professional,Once a week,Zomato,Snacks,Italian,₹200–400,Packaging,Non-Veg,Depends,Solo,2,2,20–30 min,Yes,Yes,No,,Maybe,Tue,Yes,High price
+25–34,Female,Hyderabad,₹50k–75k,Other,2–3 times/week,Others,Lunch,Italian,₹100–200,"Packaging, Delivery time",Both,Depends,Solo,5,5,20–30 min,Yes,Yes,No,,Maybe,Tue,Yes,"Poor packaging, High price, Long wait time"
+45–54,Male,Hyderabad,₹50k–75k,Working professional,Rarely,Swiggy,Snacks,Italian,₹600+,"Price, Quantity",Veg,Combo,2 people,1,1,20–30 min,Sometimes,Yes,Yes,4.0,Yes,Fri,Yes,"Cold food, Poor packaging, High price"
+25–34,Female,Delhi,₹50k–75k,Retired,Never,Others,"Dinner, Lunch, Snacks",Chinese,₹100–200,Taste,Both,Combo,Solo,3,3,30–45 min,Sometimes,Yes,No,,Maybe,Mon,Yes,Limited choice
+<18,Female,Delhi,₹75k+,Student,2–3 times/week,Zomato,Breakfast,Chinese,<₹100,Packaging,Veg,A la carte,Family (3–4),3,4,20–30 min,Yes,Yes,No,,Maybe,Sat,No,Poor packaging
+45–54,Female,Kolkata,₹15k–30k,Working professional,2–3 times/week,"Direct, Swiggy, Others",Snacks,Italian,<₹100,Quantity,Both,Depends,Solo,5,3,30–45 min,Yes,Yes,No,,No,Wed,Yes,"Limited choice, High price"
+18–24,Female,Bangalore,<₹15k,Working professional,2–3 times/week,"Zomato, Others",Dinner,"Italian, Indian",₹200–400,"Quantity, Discounts, Delivery time",Veg,Depends,Solo,5,4,45+ min,Sometimes,No,No,,No,Tue,Yes,Long wait time
+25–34,Male,Hyderabad,₹30k–50k,Student,Daily,Others,Lunch,Continental,₹200–400,Price,Both,Combo,Family (3–4),4,2,<20 min,Yes,Yes,Yes,2.0,Maybe,Thu,Yes,Limited choice
+55+,Male,Mumbai,₹15k–30k,Student,Once a week,"Direct, Zomato, Others","Dinner, Snacks, Lunch",Indian,₹200–400,"Quantity, Packaging, Discounts",Veg,Combo,2 people,5,4,20–30 min,No,Yes,No,,No,Fri,No,Poor packaging
+55+,Male,Bangalore,<₹15k,Working professional,Daily,Swiggy,Lunch,Fusion,₹200–400,Price,Veg,A la carte,Solo,4,3,20–30 min,Sometimes,Yes,No,,No,Tue,Yes,Cold food
+25–34,Male,Mumbai,₹30k–50k,Working professional,Once a week,Direct,Snacks,Continental,<₹100,"Price, Taste",Both,Depends,Solo,5,4,20–30 min,Sometimes,No,Yes,5.0,Maybe,Mon,Yes,Poor packaging
+25–34,Female,Bangalore,₹50k–75k,Working professional,Once a week,Others,"Lunch, Snacks, Dinner",Chinese,₹200–400,Delivery time,Both,Depends,2 people,4,4,30–45 min,No,No,No,,Yes,Thu,Yes,Cold food
+25–34,Female,Kolkata,₹30k–50k,Working professional,2–3 times/week,Swiggy,Dinner,Indian,₹200–400,Discounts,Non-Veg,A la carte,Large group,1,5,30–45 min,Yes,Yes,No,,Maybe,Sat,No,Cold food
+18–24,Male,Delhi,₹15k–30k,Working professional,2–3 times/week,Zomato,Lunch,"Indian, Chinese",₹100–200,Taste,Both,Depends,Family (3–4),3,5,20–30 min,Yes,No,No,,No,Sun,Yes,Cold food
+25–34,Male,Mumbai,₹30k–50k,Student,2–3 times/week,Swiggy,Breakfast,"Indian, Chinese, Continental",₹100–200,Packaging,Non-Veg,A la carte,Solo,4,4,20–30 min,Sometimes,Yes,No,,No,Mon,No,Limited choice
+35–44,Male,Mumbai,₹15k–30k,Working professional,2–3 times/week,Direct,Snacks,"Chinese, Continental, Italian",₹100–200,"Delivery time, Quantity, Price",Both,Depends,Large group,3,3,<20 min,Sometimes,No,No,,Yes,Fri,Yes,Cold food
+35–44,Female,Delhi,<₹15k,Student,2–3 times/week,Direct,Dinner,"Italian, Indian",₹100–200,Packaging,Non-Veg,Depends,Solo,2,4,20–30 min,No,Yes,No,,Yes,Wed,No,Long wait time
+35–44,Male,Mumbai,₹50k–75k,Student,Once a week,Others,Breakfast,Fusion,₹200–400,"Delivery time, Discounts",Non-Veg,Depends,Solo,3,4,30–45 min,Sometimes,Yes,Yes,4.0,Yes,Thu,Yes,"Cold food, Limited choice"
+35–44,Female,Mumbai,₹30k–50k,Other,2–3 times/week,Swiggy,Breakfast,Chinese,₹100–200,Quantity,Non-Veg,Combo,Family (3–4),5,5,20–30 min,Sometimes,Yes,No,,Yes,Sun,Yes,Poor packaging
+18–24,Male,Chennai,₹50k–75k,Working professional,Never,Swiggy,Breakfast,Italian,₹100–200,Delivery time,Non-Veg,Combo,Solo,1,2,20–30 min,No,Yes,Yes,1.0,Maybe,Thu,Yes,High price
+25–34,Male,Bangalore,<₹15k,Homemaker,2–3 times/week,"Direct, Zomato, Others","Snacks, Dinner, Breakfast",Italian,₹100–200,Discounts,Both,A la carte,Solo,4,3,30–45 min,Sometimes,Yes,No,,Yes,Thu,No,Cold food
+18–24,Prefer not to say,Delhi,₹50k–75k,Working professional,2–3 times/week,Swiggy,Dinner,Continental,₹600+,Quantity,Veg,A la carte,Solo,4,4,20–30 min,No,No,Yes,3.0,Yes,Wed,Yes,"Limited choice, Cold food, High price"
+25–34,Non-binary,Pune,₹30k–50k,Working professional,2–3 times/week,Direct,"Snacks, Dinner",Indian,₹400–600,Delivery time,Veg,Depends,Solo,5,3,20–30 min,No,No,Yes,3.0,No,Sun,Yes,Cold food
+25–34,Male,Mumbai,₹30k–50k,Working professional,Never,Others,Lunch,Italian,₹100–200,Packaging,Non-Veg,Combo,2 people,5,3,20–30 min,Yes,Yes,Yes,3.0,No,Fri,No,High price
+45–54,Female,Kolkata,₹30k–50k,Student,Once a week,"Others, Zomato, Swiggy",Dinner,Italian,₹100–200,Taste,Both,Combo,2 people,4,3,20–30 min,Sometimes,Yes,No,,Yes,Fri,Yes,Limited choice
+25–34,Female,Delhi,₹50k–75k,Student,Daily,Others,Breakfast,Continental,₹100–200,Price,Veg,Depends,Solo,3,4,30–45 min,No,Yes,No,,Yes,Fri,Yes,"Cold food, Long wait time, Limited choice"
+18–24,Female,Pune,₹30k–50k,Homemaker,Daily,"Zomato, Swiggy",Lunch,Fusion,₹200–400,"Delivery time, Quantity",Non-Veg,Combo,2 people,2,5,30–45 min,Yes,Yes,No,,Maybe,Wed,Yes,"Poor packaging, Long wait time"
+18–24,Male,Hyderabad,₹30k–50k,Working professional,2–3 times/week,Others,"Snacks, Breakfast","Chinese, Fusion, Continental",<₹100,Discounts,Both,Combo,Family (3–4),3,4,<20 min,Sometimes,No,Yes,4.0,Yes,Sat,Yes,Poor packaging
+35–44,Female,Chennai,₹75k+,Working professional,Once a week,Others,Dinner,Fusion,₹200–400,Price,Veg,Combo,Family (3–4),4,3,45+ min,No,Yes,No,,Maybe,Mon,Yes,"Long wait time, Cold food, Poor packaging"
+25–34,Female,Kolkata,₹50k–75k,Working professional,Daily,Direct,Snacks,"Continental, Italian",₹200–400,Price,Both,A la carte,Solo,5,3,20–30 min,Sometimes,No,No,,Yes,Sat,No,Cold food
+18–24,Female,Delhi,₹30k–50k,Retired,Once a week,"Others, Direct, Swiggy",Lunch,"Continental, Indian",₹400–600,Packaging,Both,Combo,Large group,4,1,30–45 min,Yes,Yes,No,,No,Fri,Yes,"Limited choice, High price"
+18–24,Male,Kolkata,₹50k–75k,Student,2–3 times/week,"Others, Swiggy",Lunch,"Fusion, Continental, Indian",₹100–200,Taste,Non-Veg,Depends,2 people,2,4,30–45 min,No,Yes,No,,Yes,Tue,No,"High price, Limited choice"
+35–44,Male,Delhi,₹30k–50k,Working professional,Daily,Swiggy,"Lunch, Dinner, Snacks",Fusion,₹400–600,"Discounts, Price, Packaging",Both,A la carte,Solo,3,4,20–30 min,Yes,Yes,No,,Maybe,Tue,Yes,Limited choice
+18–24,Male,Delhi,₹15k–30k,Working professional,Once a week,Swiggy,Dinner,"Fusion, Chinese, Continental",₹200–400,"Quantity, Price",Both,Depends,Solo,3,3,30–45 min,Sometimes,Yes,No,,Yes,Sat,Yes,Limited choice
+35–44,Female,Delhi,₹30k–50k,Homemaker,Rarely,Others,"Snacks, Dinner, Breakfast","Italian, Continental",₹100–200,Price,Non-Veg,A la carte,Solo,1,4,20–30 min,Yes,Yes,Yes,5.0,Yes,Thu,Yes,Limited choice
+35–44,Male,Bangalore,₹75k+,Other,Once a week,"Zomato, Swiggy, Direct",Snacks,Fusion,₹100–200,Discounts,Non-Veg,Combo,2 people,2,4,20–30 min,No,No,Yes,1.0,Yes,Wed,No,Limited choice
+18–24,Female,Mumbai,₹75k+,Working professional,Rarely,Others,"Breakfast, Lunch",Indian,₹100–200,Packaging,Both,Combo,Solo,2,3,30–45 min,Sometimes,Yes,No,,Maybe,Mon,Yes,"Poor packaging, Long wait time"
+18–24,Non-binary,Bangalore,₹15k–30k,Retired,2–3 times/week,"Others, Swiggy, Direct",Snacks,Fusion,₹100–200,Taste,Non-Veg,Combo,2 people,4,3,30–45 min,Yes,Yes,No,,Maybe,Sat,No,Long wait time
+55+,Male,Bangalore,₹30k–50k,Homemaker,Once a week,Swiggy,Snacks,Fusion,₹100–200,"Quantity, Delivery time",Both,A la carte,Solo,2,5,30–45 min,Sometimes,No,Yes,3.0,Yes,Sun,No,Poor packaging
+25–34,Female,Chennai,₹15k–30k,Working professional,Once a week,Zomato,Snacks,Fusion,₹200–400,Quantity,Non-Veg,Combo,Family (3–4),2,3,30–45 min,Sometimes,Yes,No,,Yes,Sat,Yes,Cold food
+25–34,Male,Chennai,₹75k+,Working professional,Never,"Swiggy, Others, Zomato",Lunch,Fusion,₹200–400,Delivery time,Veg,Combo,Solo,5,4,20–30 min,Yes,No,No,,Maybe,Fri,Yes,Cold food
+35–44,Female,Bangalore,₹75k+,Working professional,Once a week,Direct,Lunch,"Chinese, Italian, Continental",₹400–600,Price,Veg,A la carte,Family (3–4),3,4,20–30 min,Yes,Yes,No,,Maybe,Fri,Yes,"High price, Limited choice"
+45–54,Male,Delhi,₹30k–50k,Other,Once a week,Others,"Lunch, Dinner","Fusion, Chinese, Continental",₹100–200,Price,Veg,Combo,Family (3–4),1,4,45+ min,Yes,Yes,No,,No,Wed,No,"Long wait time, Limited choice"
+55+,Female,Delhi,₹50k–75k,Student,2–3 times/week,"Swiggy, Direct",Dinner,Chinese,₹600+,"Packaging, Quantity",Veg,Combo,Solo,2,4,20–30 min,Yes,No,Yes,5.0,Maybe,Tue,Yes,"High price, Poor packaging, Limited choice"
+35–44,Female,Mumbai,₹50k–75k,Homemaker,2–3 times/week,Direct,"Lunch, Snacks, Dinner",Continental,₹100–200,Packaging,Both,Depends,Solo,2,4,30–45 min,Sometimes,No,No,,Yes,Sat,No,Poor packaging
+25–34,Female,Mumbai,₹30k–50k,Working professional,2–3 times/week,Swiggy,Breakfast,Chinese,₹200–400,Price,Both,Depends,Solo,2,5,20–30 min,Sometimes,Yes,Yes,2.0,Yes,Sat,Yes,"Limited choice, Long wait time"
+18–24,Female,Delhi,<₹15k,Homemaker,Once a week,"Direct, Others",Snacks,Italian,₹100–200,"Discounts, Taste, Quantity",Both,Combo,Family (3–4),1,5,30–45 min,Yes,Yes,No,,Yes,Sat,No,Long wait time
+35–44,Female,Delhi,₹30k–50k,Working professional,Once a week,"Zomato, Swiggy, Others","Dinner, Breakfast, Lunch",Italian,₹100–200,Quantity,Both,Combo,2 people,3,4,20–30 min,No,No,Yes,2.0,No,Fri,Yes,"Cold food, Poor packaging, High price"
+25–34,Female,Kolkata,₹30k–50k,Working professional,Once a week,Swiggy,Breakfast,"Indian, Fusion, Continental",₹400–600,Taste,Both,Depends,Solo,2,3,45+ min,No,Yes,No,,Yes,Sun,Yes,Poor packaging
+25–34,Female,Bangalore,₹30k–50k,Homemaker,Once a week,Others,Breakfast,Indian,₹100–200,Taste,Non-Veg,Combo,Solo,3,3,20–30 min,Yes,Yes,No,,Yes,Sun,No,Limited choice
+45–54,Female,Delhi,₹30k–50k,Homemaker,2–3 times/week,Others,Lunch,Chinese,₹200–400,"Discounts, Delivery time",Both,Depends,Solo,5,4,45+ min,Yes,No,No,,Yes,Thu,No,Poor packaging
+18–24,Male,Bangalore,₹75k+,Retired,Daily,Zomato,"Snacks, Breakfast, Dinner",Fusion,₹200–400,Price,Non-Veg,Combo,Family (3–4),3,4,<20 min,Yes,No,Yes,1.0,No,Wed,Yes,"High price, Cold food"
+25–34,Female,Mumbai,₹15k–30k,Student,Once a week,Swiggy,Lunch,"Fusion, Chinese",₹200–400,Packaging,Both,Depends,2 people,5,3,20–30 min,No,No,Yes,3.0,Yes,Fri,Yes,High price
+<18,Female,Bangalore,₹30k–50k,Working professional,2–3 times/week,Direct,"Breakfast, Lunch",Fusion,₹200–400,Discounts,Both,Combo,Family (3–4),3,2,30–45 min,No,No,Yes,2.0,Yes,Tue,Yes,High price
+25–34,Female,Hyderabad,₹30k–50k,Student,2–3 times/week,Zomato,Snacks,Continental,₹200–400,Packaging,Veg,Depends,Solo,3,4,30–45 min,Sometimes,No,No,,Maybe,Sun,Yes,Long wait time
+18–24,Male,Bangalore,₹30k–50k,Working professional,Never,Zomato,Snacks,Fusion,<₹100,Taste,Non-Veg,Combo,Solo,4,3,45+ min,Yes,No,No,,Yes,Thu,Yes,"Cold food, Long wait time, High price"
+18–24,Female,Bangalore,₹30k–50k,Working professional,Never,Zomato,Breakfast,Fusion,₹200–400,Packaging,Non-Veg,A la carte,Large group,1,4,<20 min,Sometimes,No,No,,Yes,Fri,Yes,"Limited choice, High price"
+18–24,Male,Kolkata,₹15k–30k,Working professional,Rarely,Direct,Lunch,"Italian, Continental",₹400–600,"Delivery time, Packaging, Price",Veg,Combo,Solo,1,4,<20 min,No,Yes,Yes,5.0,No,Fri,No,Poor packaging
+25–34,Female,Pune,₹15k–30k,Working professional,Once a week,Zomato,Snacks,"Chinese, Italian, Fusion",<₹100,Delivery time,Non-Veg,Combo,Family (3–4),4,4,20–30 min,Sometimes,Yes,Yes,5.0,Maybe,Fri,Yes,Limited choice
+35–44,Male,Hyderabad,₹30k–50k,Other,Once a week,Direct,Lunch,Indian,₹100–200,Quantity,Non-Veg,Depends,Solo,3,2,<20 min,Yes,No,Yes,2.0,No,Tue,Yes,Poor packaging
+25–34,Female,Bangalore,₹30k–50k,Student,2–3 times/week,"Others, Zomato",Lunch,Indian,₹200–400,Taste,Veg,A la carte,Solo,4,3,45+ min,Sometimes,No,No,,Yes,Sun,Yes,Limited choice
+55+,Prefer not to say,Hyderabad,₹15k–30k,Working professional,Once a week,Swiggy,Lunch,Indian,₹200–400,Taste,Both,Depends,2 people,5,3,20–30 min,Sometimes,Yes,No,,Maybe,Tue,Yes,Cold food
+25–34,Male,Delhi,₹50k–75k,Working professional,2–3 times/week,Swiggy,"Lunch, Snacks, Breakfast","Indian, Chinese, Fusion",₹200–400,Quantity,Both,A la carte,Large group,3,3,20–30 min,Yes,Yes,No,,No,Sat,Yes,Cold food
+18–24,Non-binary,Delhi,₹30k–50k,Student,Daily,Zomato,Breakfast,Continental,₹100–200,Delivery time,Both,Depends,Large group,3,4,<20 min,Yes,No,No,,Yes,Sat,Yes,Poor packaging
+45–54,Male,Mumbai,₹30k–50k,Student,Rarely,Others,"Breakfast, Snacks",Indian,₹200–400,"Delivery time, Packaging, Price",Both,A la carte,Solo,3,4,20–30 min,Sometimes,Yes,Yes,3.0,No,Tue,Yes,Long wait time
+18–24,Female,Bangalore,₹50k–75k,Retired,Rarely,Swiggy,Snacks,Italian,₹100–200,Discounts,Non-Veg,Depends,Solo,5,3,20–30 min,Sometimes,Yes,Yes,1.0,Maybe,Sun,No,Cold food
+55+,Female,Bangalore,₹15k–30k,Retired,2–3 times/week,Swiggy,"Dinner, Breakfast, Lunch",Indian,₹200–400,Quantity,Non-Veg,Depends,2 people,4,2,<20 min,Sometimes,No,No,,No,Fri,No,"Long wait time, Cold food"
+<18,Female,Delhi,<₹15k,Retired,Daily,"Zomato, Others, Direct",Snacks,Indian,₹200–400,Price,Both,Combo,2 people,5,3,20–30 min,Sometimes,No,No,,Maybe,Fri,Yes,Cold food
+55+,Female,Kolkata,₹50k–75k,Other,2–3 times/week,"Swiggy, Zomato","Snacks, Breakfast, Lunch",Fusion,₹100–200,Taste,Both,Depends,2 people,2,5,20–30 min,No,No,No,,No,Fri,Yes,"Cold food, High price, Long wait time"
+<18,Female,Pune,₹30k–50k,Working professional,Once a week,Others,Dinner,"Chinese, Continental, Fusion",₹200–400,"Quantity, Discounts",Veg,Depends,Solo,4,4,45+ min,Yes,No,Yes,3.0,Maybe,Fri,No,Cold food
+45–54,Male,Hyderabad,₹30k–50k,Working professional,Daily,Swiggy,Breakfast,"Fusion, Italian",₹600+,Discounts,Both,Combo,Large group,2,5,20–30 min,Yes,Yes,Yes,4.0,No,Tue,Yes,Long wait time
+25–34,Male,Bangalore,₹50k–75k,Working professional,Once a week,"Others, Swiggy",Dinner,"Continental, Indian, Chinese",₹200–400,"Quantity, Packaging",Both,A la carte,2 people,2,5,20–30 min,Sometimes,No,Yes,2.0,Yes,Sat,No,Limited choice
+55+,Female,Pune,₹50k–75k,Working professional,2–3 times/week,Direct,Dinner,Fusion,₹400–600,Delivery time,Both,Combo,Family (3–4),5,4,45+ min,Yes,Yes,Yes,4.0,No,Fri,No,"Limited choice, Cold food, Poor packaging"
+18–24,Female,Mumbai,₹75k+,Working professional,2–3 times/week,Others,"Breakfast, Snacks",Chinese,₹200–400,"Taste, Quantity",Both,Depends,2 people,1,4,30–45 min,Yes,No,Yes,2.0,Yes,Tue,No,Long wait time
+25–34,Female,Chennai,₹30k–50k,Working professional,Daily,Others,"Lunch, Snacks, Breakfast",Fusion,₹200–400,"Discounts, Price, Delivery time",Non-Veg,Combo,Solo,5,3,45+ min,Sometimes,Yes,No,,Yes,Sat,Yes,Cold food
+55+,Female,Mumbai,₹30k–50k,Working professional,Daily,Swiggy,"Snacks, Dinner, Breakfast",Indian,<₹100,Delivery time,Both,Combo,Large group,2,4,45+ min,Sometimes,Yes,Yes,1.0,Maybe,Sat,No,Cold food
+25–34,Male,Chennai,₹30k–50k,Working professional,2–3 times/week,Others,Snacks,Fusion,₹100–200,Packaging,Both,A la carte,2 people,4,3,20–30 min,Yes,Yes,Yes,3.0,No,Fri,No,Poor packaging
+25–34,Female,Delhi,₹15k–30k,Student,Rarely,"Direct, Zomato","Snacks, Breakfast, Dinner","Chinese, Indian",₹100–200,"Packaging, Discounts, Quantity",Veg,A la carte,Family (3–4),2,5,30–45 min,Yes,Yes,No,,Yes,Mon,No,High price
+35–44,Male,Pune,₹30k–50k,Working professional,Once a week,Direct,"Dinner, Breakfast, Lunch",Continental,₹200–400,Price,Both,Depends,Large group,3,2,<20 min,No,No,No,,Yes,Thu,Yes,Limited choice
+25–34,Female,Pune,₹15k–30k,Working professional,2–3 times/week,Direct,Lunch,Chinese,₹400–600,Packaging,Non-Veg,Depends,2 people,2,4,20–30 min,Yes,No,No,,Yes,Mon,No,Limited choice
+25–34,Male,Mumbai,₹75k+,Working professional,Daily,"Zomato, Others, Swiggy",Snacks,Fusion,₹100–200,Quantity,Non-Veg,A la carte,2 people,3,2,30–45 min,Sometimes,No,No,,Maybe,Fri,Yes,Long wait time
+25–34,Male,Bangalore,₹30k–50k,Working professional,Daily,Swiggy,Lunch,Italian,₹200–400,Packaging,Non-Veg,Combo,Solo,3,5,20–30 min,Yes,No,No,,Yes,Sun,Yes,"Cold food, Long wait time, High price"
+45–54,Male,Kolkata,₹30k–50k,Homemaker,Never,Zomato,Dinner,Fusion,₹200–400,"Quantity, Taste, Discounts",Veg,Depends,Solo,4,3,30–45 min,Sometimes,Yes,Yes,3.0,No,Mon,Yes,Poor packaging
+<18,Male,Bangalore,₹30k–50k,Student,Once a week,Others,Lunch,Continental,₹200–400,"Price, Taste",Non-Veg,A la carte,Solo,1,4,30–45 min,Sometimes,No,No,,No,Wed,No,Poor packaging
+18–24,Female,Pune,<₹15k,Working professional,Daily,Direct,Lunch,Italian,₹100–200,Discounts,Both,A la carte,Solo,1,4,20–30 min,No,No,Yes,2.0,Yes,Sat,No,Limited choice
+55+,Male,Bangalore,<₹15k,Homemaker,2–3 times/week,Swiggy,Breakfast,Italian,1500,"Price, Quantity, Discounts",Veg,Combo,Solo,1,3,30–45 min,Yes,No,Yes,5.0,Yes,Mon,No,Long wait time
+45–54,Male,Delhi,₹30k–50k,Working professional,Rarely,Direct,Snacks,Continental,₹100–200,"Packaging, Delivery time",Veg,A la carte,Solo,3,4,20–30 min,No,Yes,No,,Yes,Mon,Yes,Limited choice
+25–34,Male,Delhi,<₹15k,Working professional,Once a week,Others,Lunch,Continental,<₹100,"Price, Packaging, Discounts",Veg,Combo,Solo,4,5,20–30 min,Yes,No,No,,Maybe,Fri,Yes,Long wait time
+25–34,Male,Delhi,₹30k–50k,Working professional,Daily,Swiggy,Dinner,Italian,₹600+,Price,Non-Veg,Depends,Solo,5,1,30–45 min,Yes,No,No,,Maybe,Sat,No,Limited choice
+18–24,Male,Chennai,₹50k–75k,Working professional,2–3 times/week,Zomato,Breakfast,Fusion,₹100–200,Delivery time,Both,A la carte,Solo,2,5,20–30 min,Sometimes,Yes,No,,Maybe,Sat,Yes,Poor packaging
+18–24,Male,Delhi,₹50k–75k,Homemaker,Once a week,"Zomato, Direct","Dinner, Snacks, Breakfast",Continental,<₹100,"Price, Discounts",Both,Depends,Solo,3,4,30–45 min,No,No,No,,Maybe,Sat,No,Cold food
+25–34,Female,Bangalore,₹30k–50k,Homemaker,2–3 times/week,"Swiggy, Direct","Snacks, Breakfast, Dinner",Italian,₹400–600,"Discounts, Packaging, Price",Both,A la carte,2 people,4,5,20–30 min,Sometimes,No,No,,Yes,Thu,Yes,Long wait time
+25–34,Female,Bangalore,₹15k–30k,Working professional,2–3 times/week,Zomato,Dinner,"Italian, Continental",₹100–200,Taste,Both,Combo,2 people,2,3,20–30 min,Yes,Yes,No,,Yes,Sun,No,Cold food
+25–34,Female,Bangalore,₹50k–75k,Working professional,2–3 times/week,Direct,"Lunch, Snacks",Continental,₹200–400,Price,Veg,Depends,Solo,3,4,30–45 min,Yes,No,No,,Maybe,Mon,No,High price
+18–24,Male,Pune,₹50k–75k,Student,Rarely,Swiggy,Breakfast,Continental,₹100–200,Delivery time,Both,A la carte,2 people,3,5,20–30 min,Sometimes,No,No,,Maybe,Thu,Yes,Limited choice
+55+,Male,Kolkata,₹15k–30k,Working professional,2–3 times/week,"Swiggy, Direct, Zomato",Snacks,Fusion,₹100–200,"Delivery time, Discounts",Both,Combo,Family (3–4),2,3,20–30 min,No,No,Yes,4.0,No,Thu,Yes,Cold food
+55+,Female,Bangalore,₹50k–75k,Working professional,2–3 times/week,Direct,"Snacks, Lunch",Chinese,₹100–200,"Price, Discounts, Packaging",Non-Veg,A la carte,Solo,1,4,<20 min,No,Yes,No,,No,Tue,Yes,Limited choice
+35–44,Female,Chennai,₹15k–30k,Working professional,2–3 times/week,Direct,Snacks,Italian,₹100–200,Packaging,Both,Combo,2 people,2,1,30–45 min,No,No,No,,Yes,Thu,No,Cold food
+25–34,Male,Chennai,₹50k–75k,Working professional,Once a week,Direct,"Breakfast, Snacks, Lunch",Italian,₹200–400,Quantity,Both,Depends,Large group,4,3,<20 min,Yes,Yes,Yes,3.0,Yes,Fri,No,"High price, Cold food"
+25–34,Male,Bangalore,₹75k+,Working professional,Once a week,Others,Dinner,"Indian, Fusion",₹200–400,Discounts,Both,A la carte,Family (3–4),1,4,30–45 min,Sometimes,Yes,No,,No,Fri,No,High price
+35–44,Male,Kolkata,<₹15k,Student,2–3 times/week,Direct,"Dinner, Breakfast","Chinese, Indian, Continental",₹200–400,Delivery time,Non-Veg,Depends,Solo,2,4,20–30 min,Yes,No,No,,Maybe,Thu,Yes,"Limited choice, High price, Long wait time"
+35–44,Male,Delhi,₹50k–75k,Working professional,2–3 times/week,Direct,Dinner,Fusion,₹400–600,Packaging,Both,Combo,2 people,3,4,30–45 min,No,No,Yes,3.0,Yes,Sat,No,"Cold food, Limited choice"
+18–24,Male,Mumbai,₹30k–50k,Working professional,Once a week,Others,Dinner,Fusion,<₹100,Quantity,Veg,Combo,Solo,1,2,45+ min,No,No,Yes,2.0,Yes,Sat,Yes,High price
+45–54,Female,Pune,₹75k+,Homemaker,2–3 times/week,Swiggy,Breakfast,Chinese,₹200–400,"Quantity, Discounts",Non-Veg,Depends,2 people,2,3,20–30 min,Sometimes,Yes,No,,Yes,Wed,Yes,"Poor packaging, Cold food"
+35–44,Female,Bangalore,₹30k–50k,Student,2–3 times/week,Swiggy,Breakfast,"Continental, Fusion",1000,"Quantity, Packaging, Price",Non-Veg,Depends,Large group,5,3,20–30 min,No,Yes,No,,Yes,Thu,No,Limited choice
+45–54,Female,Chennai,₹50k–75k,Working professional,Once a week,Others,"Dinner, Breakfast, Snacks",Italian,₹400–600,Delivery time,Veg,Combo,2 people,1,4,30–45 min,Yes,No,No,,No,Wed,Yes,Long wait time
+35–44,Female,Pune,<₹15k,Retired,2–3 times/week,Direct,"Dinner, Breakfast, Lunch","Continental, Fusion, Indian",<₹100,Price,Veg,Combo,Family (3–4),4,5,30–45 min,No,Yes,Yes,5.0,Maybe,Tue,Yes,"Cold food, Poor packaging"
+25–34,Female,Mumbai,₹15k–30k,Student,Once a week,"Direct, Swiggy",Lunch,"Continental, Indian",₹200–400,Delivery time,Veg,Combo,Solo,3,4,20–30 min,Yes,No,Yes,4.0,Maybe,Sat,Yes,Long wait time
+25–34,Female,Pune,<₹15k,Working professional,Rarely,"Direct, Swiggy, Others","Lunch, Snacks",Indian,₹400–600,Delivery time,Both,A la carte,Large group,4,2,30–45 min,Yes,No,No,,Maybe,Mon,Yes,Long wait time
+45–54,Female,Bangalore,₹75k+,Student,Rarely,"Others, Zomato","Dinner, Breakfast, Snacks",Fusion,₹100–200,Discounts,Both,Depends,2 people,3,5,30–45 min,Yes,No,No,,No,Tue,Yes,"Poor packaging, Limited choice, High price"
+45–54,Male,Bangalore,₹50k–75k,Working professional,Daily,Direct,"Breakfast, Snacks",Indian,₹400–600,Discounts,Both,Depends,Solo,2,4,30–45 min,No,Yes,No,,Yes,Tue,Yes,Limited choice
+<18,Male,Hyderabad,₹50k–75k,Working professional,Once a week,Direct,Snacks,Continental,<₹100,Quantity,Non-Veg,A la carte,2 people,4,4,30–45 min,Yes,No,No,,Maybe,Sat,No,Poor packaging
+<18,Male,Pune,₹75k+,Working professional,Daily,Direct,Snacks,"Fusion, Indian, Continental",₹200–400,Delivery time,Non-Veg,Depends,Solo,3,2,20–30 min,No,No,No,,Yes,Mon,Yes,Limited choice
+25–34,Female,Mumbai,<₹15k,Working professional,Rarely,Direct,Dinner,Indian,₹400–600,Packaging,Both,A la carte,Solo,4,4,45+ min,Sometimes,Yes,Yes,5.0,Maybe,Sat,Yes,High price
+35–44,Female,Bangalore,₹30k–50k,Retired,Daily,Swiggy,"Dinner, Lunch",Italian,₹200–400,Discounts,Veg,Combo,Family (3–4),3,3,20–30 min,Sometimes,Yes,Yes,5.0,Maybe,Mon,Yes,Poor packaging
+55+,Male,Hyderabad,<₹15k,Student,Once a week,Others,Dinner,"Italian, Chinese, Indian",₹200–400,Delivery time,Both,A la carte,Solo,5,3,<20 min,Yes,Yes,No,,Yes,Sat,No,Poor packaging
+18–24,Female,Hyderabad,₹15k–30k,Student,2–3 times/week,Direct,Dinner,Fusion,<₹100,"Packaging, Discounts",Both,Depends,Family (3–4),4,1,20–30 min,Yes,Yes,No,,No,Sun,Yes,Cold food
+25–34,Male,Hyderabad,₹15k–30k,Retired,Rarely,Zomato,Dinner,Italian,₹400–600,Packaging,Veg,Depends,Solo,5,3,<20 min,No,No,No,,Yes,Fri,No,Limited choice
+25–34,Female,Mumbai,₹30k–50k,Working professional,2–3 times/week,Others,Dinner,"Chinese, Indian",₹200–400,Quantity,Both,A la carte,Solo,3,2,<20 min,Sometimes,No,No,,Yes,Sat,Yes,Poor packaging
+55+,Male,Delhi,₹15k–30k,Retired,2–3 times/week,"Direct, Zomato",Dinner,Indian,<₹100,Packaging,Both,A la carte,Large group,3,3,20–30 min,Yes,No,No,,Yes,Sat,Yes,Poor packaging
+35–44,Male,Delhi,₹15k–30k,Working professional,2–3 times/week,Swiggy,"Snacks, Dinner",Chinese,₹200–400,Price,Veg,Depends,Solo,4,2,<20 min,Sometimes,Yes,Yes,2.0,Maybe,Sat,Yes,Long wait time
+35–44,Female,Chennai,₹15k–30k,Homemaker,2–3 times/week,Swiggy,"Snacks, Dinner, Lunch",Fusion,₹200–400,Packaging,Veg,A la carte,2 people,5,4,30–45 min,No,No,Yes,5.0,Maybe,Sat,Yes,Limited choice
+25–34,Male,Delhi,₹15k–30k,Working professional,Once a week,"Others, Zomato",Lunch,Continental,₹100–200,"Delivery time, Packaging",Veg,Combo,2 people,5,1,<20 min,No,Yes,Yes,4.0,Yes,Wed,No,Cold food
+25–34,Male,Delhi,₹75k+,Homemaker,2–3 times/week,Others,Snacks,"Indian, Italian, Continental",₹100–200,Quantity,Non-Veg,Depends,2 people,3,4,20–30 min,Sometimes,No,Yes,1.0,Yes,Fri,Yes,Cold food
+18–24,Male,Kolkata,₹50k–75k,Retired,Once a week,Swiggy,Lunch,"Chinese, Italian, Indian",<₹100,Taste,Non-Veg,Depends,Family (3–4),4,2,<20 min,Sometimes,No,No,,No,Sun,Yes,Poor packaging
+18–24,Female,Mumbai,₹75k+,Working professional,2–3 times/week,Zomato,Dinner,Italian,₹200–400,Price,Non-Veg,Combo,2 people,2,5,<20 min,Sometimes,No,Yes,1.0,Yes,Thu,Yes,Cold food
+45–54,Female,Kolkata,₹30k–50k,Student,Once a week,Others,"Dinner, Breakfast, Snacks",Chinese,₹200–400,Packaging,Veg,A la carte,Solo,3,5,20–30 min,Yes,No,Yes,4.0,No,Sun,Yes,"Poor packaging, Cold food, High price"
+35–44,Male,Hyderabad,₹15k–30k,Working professional,2–3 times/week,Direct,Dinner,"Continental, Indian, Chinese",₹200–400,"Packaging, Quantity",Both,A la carte,Family (3–4),2,3,20–30 min,No,No,No,,No,Fri,No,Limited choice
+55+,Female,Chennai,₹50k–75k,Student,Once a week,"Swiggy, Direct","Lunch, Dinner",Continental,₹400–600,Delivery time,Non-Veg,Combo,Solo,3,4,45+ min,No,No,No,,Yes,Fri,Yes,Cold food
+55+,Female,Delhi,₹15k–30k,Working professional,Daily,"Zomato, Others","Snacks, Breakfast",Fusion,₹400–600,Packaging,Veg,Depends,2 people,5,1,30–45 min,Yes,No,No,,Yes,Sat,Yes,"Limited choice, Poor packaging, Long wait time"
+25–34,Male,Mumbai,₹15k–30k,Working professional,Daily,Direct,"Lunch, Dinner, Snacks",Indian,₹200–400,Price,Non-Veg,A la carte,Large group,2,5,30–45 min,No,Yes,No,,No,Sat,Yes,Poor packaging
+35–44,Male,Hyderabad,₹15k–30k,Working professional,Once a week,"Swiggy, Zomato, Direct",Breakfast,"Italian, Fusion",<₹100,"Packaging, Quantity",Non-Veg,Depends,2 people,4,4,20–30 min,Yes,No,No,,Yes,Thu,Yes,"High price, Poor packaging"
+45–54,Male,Chennai,₹15k–30k,Working professional,Once a week,"Direct, Zomato, Others",Breakfast,Chinese,₹200–400,"Quantity, Discounts",Non-Veg,Combo,Family (3–4),3,1,20–30 min,Yes,No,No,,Yes,Mon,No,Poor packaging
+35–44,Male,Hyderabad,₹15k–30k,Working professional,Once a week,"Direct, Swiggy",Dinner,Indian,₹200–400,Quantity,Veg,A la carte,2 people,2,3,<20 min,Yes,Yes,Yes,2.0,Yes,Sat,No,Cold food
+18–24,Female,Mumbai,₹30k–50k,Working professional,Rarely,Direct,Breakfast,Indian,₹200–400,Taste,Veg,Combo,Family (3–4),3,2,30–45 min,Sometimes,Yes,Yes,3.0,Yes,Sun,Yes,Limited choice
+25–34,Male,Chennai,₹30k–50k,Student,2–3 times/week,Others,"Snacks, Lunch",Italian,₹200–400,Price,Both,Depends,Family (3–4),3,3,<20 min,Sometimes,No,No,,Maybe,Fri,Yes,Long wait time
+18–24,Female,Chennai,<₹15k,Student,2–3 times/week,Swiggy,Lunch,"Fusion, Indian, Italian",₹100–200,Packaging,Both,A la carte,Solo,2,4,20–30 min,No,Yes,No,,Maybe,Tue,Yes,"Limited choice, Long wait time"
+55+,Female,Hyderabad,₹15k–30k,Student,Once a week,Zomato,Dinner,Chinese,₹400–600,Price,Non-Veg,A la carte,Solo,4,4,20–30 min,No,Yes,No,,No,Wed,No,Long wait time
+25–34,Male,Chennai,₹50k–75k,Working professional,2–3 times/week,"Zomato, Swiggy",Breakfast,Continental,₹100–200,Price,Non-Veg,Combo,Solo,5,3,20–30 min,Yes,No,Yes,2.0,Yes,Sun,Yes,Poor packaging
+18–24,Female,Chennai,₹15k–30k,Working professional,Rarely,Zomato,Breakfast,Continental,₹200–400,"Taste, Price",Both,Combo,2 people,2,2,45+ min,Sometimes,No,No,,Yes,Mon,Yes,Cold food
+35–44,Male,Hyderabad,₹15k–30k,Working professional,Rarely,Swiggy,"Breakfast, Dinner","Fusion, Indian, Italian",<₹100,Packaging,Both,Combo,Solo,2,3,30–45 min,No,No,No,,Yes,Fri,Yes,High price
+25–34,Non-binary,Mumbai,₹50k–75k,Working professional,2–3 times/week,"Zomato, Swiggy, Direct","Lunch, Snacks","Chinese, Fusion, Italian",₹400–600,Discounts,Non-Veg,Combo,Solo,3,2,30–45 min,Sometimes,Yes,No,,Maybe,Tue,Yes,High price
+25–34,Female,Bangalore,₹15k–30k,Homemaker,Once a week,Others,"Dinner, Snacks, Lunch",Fusion,₹100–200,Price,Both,A la carte,Solo,4,5,20–30 min,Sometimes,Yes,Yes,4.0,Yes,Wed,No,"Poor packaging, Limited choice"
+18–24,Female,Mumbai,<₹15k,Student,Once a week,Swiggy,"Snacks, Dinner, Lunch",Continental,<₹100,"Packaging, Quantity, Delivery time",Non-Veg,A la carte,Large group,2,2,30–45 min,Yes,Yes,No,,No,Thu,Yes,Poor packaging
+35–44,Female,Bangalore,₹30k–50k,Working professional,Once a week,Direct,Breakfast,"Indian, Italian",₹100–200,Taste,Non-Veg,A la carte,2 people,1,4,30–45 min,No,Yes,No,,Yes,Wed,Yes,High price
+25–34,Male,Bangalore,₹15k–30k,Working professional,Once a week,Zomato,Snacks,"Fusion, Italian, Chinese",₹100–200,"Taste, Quantity, Price",Both,A la carte,Solo,3,3,45+ min,Sometimes,Yes,No,,Maybe,Sat,Yes,Limited choice
+35–44,Female,Mumbai,₹30k–50k,Homemaker,Once a week,Swiggy,Breakfast,"Continental, Indian, Fusion",₹100–200,Price,Both,Combo,Solo,5,3,20–30 min,Yes,No,Yes,5.0,Maybe,Thu,Yes,"Long wait time, Cold food"
+25–34,Female,Delhi,₹50k–75k,Retired,Once a week,Direct,"Dinner, Snacks, Breakfast",Italian,₹200–400,Delivery time,Both,Combo,Solo,3,4,20–30 min,No,Yes,No,,Yes,Thu,Yes,Limited choice
+45–54,Female,Mumbai,₹15k–30k,Student,2–3 times/week,Zomato,Breakfast,"Chinese, Indian",₹200–400,Delivery time,Veg,Combo,Solo,3,4,30–45 min,Sometimes,Yes,Yes,1.0,Maybe,Fri,Yes,Cold food
+25–34,Female,Chennai,₹30k–50k,Student,Rarely,Zomato,Snacks,"Chinese, Indian, Fusion",<₹100,Quantity,Non-Veg,Depends,Solo,5,3,20–30 min,Yes,Yes,Yes,5.0,Yes,Sun,No,Cold food
+25–34,Female,Pune,₹30k–50k,Retired,2–3 times/week,"Zomato, Swiggy",Snacks,"Continental, Fusion",₹100–200,Price,Non-Veg,A la carte,Family (3–4),4,4,30–45 min,Sometimes,Yes,No,,No,Sat,Yes,Long wait time
+45–54,Male,Mumbai,₹15k–30k,Working professional,Rarely,Swiggy,"Breakfast, Dinner","Chinese, Continental",₹400–600,Quantity,Non-Veg,Combo,Large group,4,4,45+ min,Sometimes,Yes,Yes,2.0,Yes,Mon,No,"Cold food, Poor packaging, High price"
+25–34,Male,Kolkata,₹30k–50k,Working professional,Daily,Zomato,"Snacks, Dinner",Continental,₹200–400,"Packaging, Quantity, Taste",Both,Combo,Solo,3,3,20–30 min,Sometimes,Yes,No,,Yes,Mon,Yes,"Poor packaging, Long wait time"
+18–24,Female,Bangalore,₹15k–30k,Working professional,Once a week,Swiggy,Dinner,Continental,₹200–400,Discounts,Both,Depends,Solo,5,4,20–30 min,Yes,No,No,,Yes,Fri,Yes,Poor packaging
+<18,Male,Delhi,₹30k–50k,Working professional,Daily,"Zomato, Direct",Lunch,Fusion,₹200–400,Packaging,Both,Depends,Solo,4,4,20–30 min,Yes,Yes,Yes,4.0,Maybe,Sun,No,"Limited choice, Poor packaging"
+35–44,Female,Mumbai,<₹15k,Retired,Once a week,Zomato,Dinner,"Chinese, Indian",₹100–200,Price,Both,A la carte,Solo,5,1,30–45 min,Yes,Yes,No,,Maybe,Thu,No,Long wait time
+25–34,Female,Bangalore,₹30k–50k,Other,2–3 times/week,Direct,"Dinner, Breakfast, Lunch","Chinese, Fusion, Italian",<₹100,"Price, Delivery time",Veg,A la carte,Solo,4,4,30–45 min,Sometimes,Yes,No,,Yes,Wed,Yes,High price
+35–44,Male,Chennai,₹15k–30k,Homemaker,2–3 times/week,Zomato,Dinner,Indian,₹100–200,Quantity,Both,Combo,Solo,4,2,<20 min,Sometimes,Yes,Yes,1.0,No,Sat,No,Limited choice
+18–24,Male,Hyderabad,₹50k–75k,Working professional,Never,Swiggy,Breakfast,Chinese,₹400–600,Price,Both,Depends,Solo,2,3,20–30 min,No,Yes,No,,Yes,Fri,Yes,"Long wait time, High price, Limited choice"
+18–24,Female,Mumbai,<₹15k,Retired,Once a week,Zomato,Breakfast,Chinese,₹600+,Quantity,Non-Veg,Depends,Family (3–4),3,4,<20 min,Yes,Yes,No,,Yes,Fri,Yes,Long wait time
+<18,Male,Mumbai,₹30k–50k,Student,Once a week,Direct,"Lunch, Snacks, Breakfast",Italian,₹200–400,Price,Both,Combo,2 people,4,5,30–45 min,Yes,Yes,No,,Maybe,Tue,Yes,High price
+25–34,Female,Bangalore,₹30k–50k,Working professional,Rarely,Zomato,"Breakfast, Snacks, Dinner","Fusion, Indian, Chinese",<₹100,"Taste, Discounts",Veg,Depends,2 people,2,5,20–30 min,Sometimes,No,Yes,4.0,Yes,Tue,Yes,"Cold food, Poor packaging"
+25–34,Male,Delhi,₹50k–75k,Retired,Once a week,"Others, Direct",Lunch,Italian,₹100–200,Taste,Both,Depends,Solo,3,2,20–30 min,Sometimes,Yes,No,,No,Wed,Yes,"Cold food, High price, Limited choice"
+25–34,Female,Delhi,₹30k–50k,Working professional,Daily,Others,Snacks,Indian,₹100–200,Taste,Non-Veg,Combo,Family (3–4),2,3,30–45 min,Sometimes,Yes,Yes,1.0,Yes,Wed,Yes,Limited choice
+25–34,Male,Delhi,₹30k–50k,Working professional,Daily,Others,Dinner,"Chinese, Indian, Continental",₹200–400,"Taste, Quantity, Packaging",Veg,A la carte,Large group,4,4,<20 min,Sometimes,Yes,No,,Yes,Sun,Yes,High price
+45–54,Female,Chennai,₹50k–75k,Student,Rarely,Others,Dinner,Chinese,<₹100,"Quantity, Discounts",Both,Combo,Solo,2,2,20–30 min,Sometimes,Yes,No,,Yes,Mon,Yes,Limited choice
+25–34,Male,Pune,₹50k–75k,Retired,Never,Others,Breakfast,Italian,₹400–600,"Taste, Discounts, Price",Both,Combo,Solo,4,4,20–30 min,Sometimes,Yes,No,,Maybe,Fri,No,Cold food
+25–34,Female,Bangalore,₹15k–30k,Working professional,Never,Zomato,Dinner,Fusion,₹100–200,"Quantity, Price, Taste",Veg,Depends,2 people,4,4,20–30 min,No,Yes,No,,Maybe,Fri,Yes,"Cold food, Poor packaging"
+35–44,Male,Pune,₹30k–50k,Working professional,Once a week,"Direct, Swiggy",Lunch,Chinese,₹400–600,Price,Veg,Combo,Solo,2,5,20–30 min,Yes,Yes,No,,Yes,Thu,Yes,Cold food
+25–34,Female,Delhi,₹50k–75k,Working professional,Rarely,Direct,"Snacks, Breakfast, Lunch",Indian,₹200–400,Discounts,Non-Veg,Depends,Solo,3,1,45+ min,Sometimes,Yes,No,,Maybe,Sun,No,"Long wait time, Limited choice, Cold food"
+25–34,Female,Bangalore,₹75k+,Homemaker,2–3 times/week,"Swiggy, Others, Direct","Snacks, Breakfast, Lunch","Chinese, Continental, Indian",₹200–400,"Delivery time, Taste, Quantity",Non-Veg,Depends,2 people,2,3,30–45 min,No,Yes,No,,Maybe,Sat,Yes,Long wait time
+45–54,Male,Delhi,₹50k–75k,Homemaker,2–3 times/week,Others,Snacks,Italian,₹200–400,"Price, Packaging, Discounts",Both,Combo,2 people,3,5,30–45 min,Yes,Yes,No,,Yes,Sun,Yes,Cold food
+45–54,Male,Hyderabad,₹30k–50k,Working professional,Once a week,Others,Dinner,"Chinese, Italian",₹200–400,Quantity,Both,A la carte,Solo,3,4,45+ min,Yes,Yes,Yes,1.0,Yes,Tue,Yes,Limited choice
+18–24,Male,Kolkata,₹15k–30k,Working professional,Daily,"Others, Zomato, Direct",Snacks,"Indian, Chinese, Fusion",₹200–400,Discounts,Non-Veg,Depends,2 people,1,5,20–30 min,Yes,No,Yes,1.0,Yes,Mon,Yes,Long wait time
+45–54,Female,Hyderabad,₹30k–50k,Working professional,Never,"Swiggy, Zomato, Others",Snacks,Indian,₹200–400,Price,Both,Depends,Large group,5,2,20–30 min,No,No,No,,Yes,Tue,No,"Limited choice, Cold food, High price"
+25–34,Female,Delhi,₹50k–75k,Other,Rarely,Swiggy,Breakfast,Indian,₹200–400,Packaging,Non-Veg,Depends,Solo,1,4,20–30 min,Yes,No,No,,No,Wed,Yes,Limited choice
+18–24,Female,Hyderabad,₹30k–50k,Working professional,2–3 times/week,Swiggy,Dinner,"Chinese, Indian, Continental",₹600+,"Taste, Discounts",Both,Combo,2 people,4,4,30–45 min,Yes,No,Yes,2.0,Yes,Thu,Yes,Poor packaging
+25–34,Male,Mumbai,₹30k–50k,Retired,Once a week,Others,Snacks,"Chinese, Italian, Continental",₹200–400,Quantity,Veg,A la carte,Solo,3,1,30–45 min,No,No,Yes,4.0,Yes,Sun,Yes,Cold food
+55+,Male,Pune,₹50k–75k,Working professional,2–3 times/week,"Zomato, Direct, Swiggy",Snacks,Fusion,₹200–400,Price,Non-Veg,A la carte,Solo,4,4,20–30 min,Yes,No,Yes,3.0,Yes,Wed,Yes,High price
+25–34,Female,Bangalore,₹30k–50k,Homemaker,Rarely,"Swiggy, Direct",Breakfast,"Italian, Indian, Chinese",₹400–600,Discounts,Both,Depends,2 people,3,4,20–30 min,Sometimes,No,No,,Yes,Sun,Yes,Long wait time
+25–34,Female,Bangalore,₹50k–75k,Homemaker,Daily,"Direct, Zomato",Snacks,"Indian, Fusion",₹100–200,Discounts,Veg,Combo,Solo,4,3,20–30 min,No,Yes,No,,No,Fri,No,"High price, Limited choice, Cold food"
+25–34,Prefer not to say,Bangalore,₹30k–50k,Working professional,2–3 times/week,Swiggy,Snacks,Indian,<₹100,"Delivery time, Discounts, Quantity",Both,Depends,Solo,4,3,20–30 min,No,Yes,No,,No,Fri,No,Poor packaging
+18–24,Male,Hyderabad,₹15k–30k,Other,Once a week,Others,Breakfast,Continental,₹200–400,Price,Both,Combo,Solo,4,4,30–45 min,Yes,No,No,,Yes,Wed,No,"Poor packaging, Limited choice"
+18–24,Female,Mumbai,₹30k–50k,Working professional,2–3 times/week,Swiggy,Breakfast,Fusion,₹200–400,Discounts,Non-Veg,Depends,2 people,2,4,20–30 min,Yes,No,No,,Yes,Tue,Yes,Limited choice
+18–24,Male,Hyderabad,₹50k–75k,Student,2–3 times/week,Direct,Dinner,Chinese,₹400–600,Packaging,Non-Veg,A la carte,2 people,4,5,45+ min,Yes,Yes,No,,Yes,Sun,Yes,Cold food
+18–24,Male,Delhi,₹15k–30k,Working professional,Rarely,Direct,Snacks,Continental,₹200–400,Packaging,Both,A la carte,Solo,2,3,20–30 min,Sometimes,No,Yes,3.0,Maybe,Tue,No,Cold food
+18–24,Female,Hyderabad,₹15k–30k,Homemaker,2–3 times/week,Zomato,"Dinner, Lunch, Snacks",Indian,₹200–400,Quantity,Both,A la carte,2 people,1,3,30–45 min,Sometimes,Yes,Yes,3.0,Yes,Sat,Yes,Long wait time
+18–24,Female,Chennai,₹75k+,Working professional,2–3 times/week,Direct,Breakfast,"Fusion, Continental, Indian",₹200–400,Price,Veg,Combo,Solo,3,5,45+ min,Yes,Yes,No,,Yes,Fri,No,Poor packaging
+25–34,Prefer not to say,Chennai,₹15k–30k,Working professional,2–3 times/week,Others,"Lunch, Dinner, Breakfast","Fusion, Italian",<₹100,Discounts,Non-Veg,Combo,2 people,3,5,45+ min,No,Yes,No,,Yes,Sun,No,Long wait time
+18–24,Male,Bangalore,₹30k–50k,Working professional,Once a week,"Others, Direct, Zomato",Snacks,Continental,₹200–400,Quantity,Both,Combo,Solo,3,1,<20 min,Yes,Yes,No,,Yes,Sat,No,"High price, Long wait time, Limited choice"
+25–34,Male,Bangalore,₹30k–50k,Working professional,Never,Others,Breakfast,"Chinese, Fusion, Continental",₹400–600,"Packaging, Discounts, Taste",Non-Veg,Combo,2 people,4,4,20–30 min,Sometimes,Yes,No,,Yes,Wed,Yes,Cold food
+45–54,Female,Mumbai,₹30k–50k,Working professional,2–3 times/week,Zomato,Lunch,"Italian, Chinese, Continental",₹100–200,Delivery time,Veg,Combo,Large group,3,2,20–30 min,Sometimes,No,No,,No,Fri,Yes,Limited choice
+25–34,Female,Chennai,₹30k–50k,Working professional,2–3 times/week,Direct,"Breakfast, Lunch","Continental, Italian, Indian",₹200–400,Packaging,Non-Veg,Depends,Family (3–4),3,1,20–30 min,No,No,Yes,4.0,Maybe,Mon,Yes,"Cold food, Long wait time"
+35–44,Male,Delhi,₹15k–30k,Homemaker,2–3 times/week,"Swiggy, Zomato, Direct",Dinner,Italian,₹200–400,Price,Both,A la carte,Solo,1,3,30–45 min,No,No,Yes,5.0,Yes,Fri,No,"Long wait time, Poor packaging, High price"
+18–24,Male,Bangalore,₹30k–50k,Working professional,Daily,Swiggy,Lunch,Continental,₹100–200,Taste,Both,Combo,Family (3–4),4,3,45+ min,Sometimes,Yes,No,,No,Mon,Yes,"High price, Limited choice, Long wait time"
+18–24,Male,Delhi,₹30k–50k,Working professional,Daily,Swiggy,Dinner,Indian,₹100–200,Discounts,Both,Depends,Solo,3,5,<20 min,Sometimes,No,No,,Maybe,Thu,No,Cold food
+<18,Female,Mumbai,₹30k–50k,Working professional,Daily,Direct,Breakfast,Italian,₹600+,"Delivery time, Price",Both,A la carte,Large group,3,4,20–30 min,No,Yes,No,,Yes,Tue,Yes,Long wait time
+18–24,Male,Hyderabad,₹15k–30k,Student,Once a week,Direct,"Breakfast, Lunch","Fusion, Italian",₹100–200,"Delivery time, Price",Both,Depends,Solo,4,5,20–30 min,Sometimes,Yes,No,,Yes,Sun,Yes,Cold food
+18–24,Male,Mumbai,₹30k–50k,Homemaker,2–3 times/week,"Swiggy, Zomato",Breakfast,Chinese,₹100–200,Quantity,Veg,A la carte,Solo,3,4,30–45 min,No,No,No,,Yes,Fri,No,Limited choice
+18–24,Male,Hyderabad,₹15k–30k,Retired,Once a week,Others,Snacks,"Fusion, Indian",₹100–200,Delivery time,Both,Combo,Solo,3,3,45+ min,No,Yes,No,,Maybe,Sun,Yes,"Poor packaging, Cold food, Long wait time"
+18–24,Male,Delhi,₹15k–30k,Working professional,Daily,Zomato,Snacks,Fusion,₹200–400,Discounts,Veg,A la carte,Solo,3,4,20–30 min,Sometimes,Yes,Yes,4.0,Maybe,Mon,Yes,Cold food
+18–24,Male,Mumbai,₹15k–30k,Homemaker,Once a week,Direct,"Lunch, Dinner, Snacks",Chinese,₹200–400,Delivery time,Both,A la carte,2 people,4,5,<20 min,No,Yes,Yes,1.0,Yes,Fri,Yes,High price
+25–34,Female,Bangalore,₹15k–30k,Retired,2–3 times/week,"Zomato, Swiggy","Snacks, Dinner",Fusion,₹200–400,Quantity,Non-Veg,Combo,Family (3–4),4,4,30–45 min,Sometimes,No,Yes,5.0,Yes,Thu,Yes,"Long wait time, Cold food"
+18–24,Male,Mumbai,₹50k–75k,Homemaker,Rarely,Direct,Lunch,"Fusion, Indian",<₹100,Discounts,Non-Veg,Combo,2 people,2,4,30–45 min,Yes,Yes,No,,Maybe,Thu,Yes,Poor packaging
+25–34,Female,Delhi,₹15k–30k,Student,Rarely,Direct,"Dinner, Breakfast",Italian,₹400–600,Taste,Both,Combo,2 people,2,5,20–30 min,Yes,No,Yes,1.0,Yes,Sun,Yes,Limited choice
+25–34,Male,Hyderabad,₹75k+,Other,2–3 times/week,Zomato,Dinner,Chinese,₹100–200,Quantity,Both,Combo,Family (3–4),2,2,30–45 min,Yes,No,No,,Maybe,Sun,Yes,"Long wait time, Poor packaging, Limited choice"
+35–44,Female,Mumbai,₹75k+,Working professional,2–3 times/week,Others,Breakfast,Indian,₹100–200,Taste,Veg,A la carte,Solo,4,4,45+ min,No,No,No,,Yes,Wed,No,"Cold food, High price, Poor packaging"
+<18,Female,Chennai,₹30k–50k,Working professional,Once a week,"Swiggy, Others, Direct",Snacks,Chinese,₹200–400,"Delivery time, Taste",Both,A la carte,Solo,5,5,20–30 min,No,No,No,,Maybe,Sun,No,High price
+35–44,Female,Mumbai,₹15k–30k,Student,Daily,Zomato,Lunch,Italian,₹100–200,"Quantity, Taste",Non-Veg,Combo,Solo,3,5,20–30 min,Sometimes,Yes,Yes,1.0,Maybe,Sat,Yes,Long wait time
+25–34,Female,Delhi,₹30k–50k,Working professional,Rarely,"Zomato, Others, Swiggy",Dinner,Fusion,₹400–600,Delivery time,Non-Veg,A la carte,Solo,2,3,20–30 min,No,Yes,Yes,4.0,Yes,Sun,Yes,"Poor packaging, Long wait time, Limited choice"
+18–24,Male,Hyderabad,₹50k–75k,Student,Once a week,"Direct, Others",Dinner,Continental,₹400–600,Delivery time,Both,A la carte,Solo,4,4,20–30 min,Sometimes,Yes,No,,No,Fri,Yes,Long wait time
+45–54,Male,Delhi,₹30k–50k,Working professional,2–3 times/week,Swiggy,Lunch,Chinese,₹100–200,Discounts,Non-Veg,Combo,Solo,4,4,20–30 min,Yes,Yes,Yes,3.0,Yes,Sun,No,Poor packaging
+45–54,Female,Mumbai,<₹15k,Working professional,Rarely,"Others, Swiggy, Zomato","Lunch, Snacks",Fusion,₹400–600,Taste,Both,Combo,Solo,5,3,20–30 min,Sometimes,No,Yes,5.0,Yes,Sun,No,Cold food
+18–24,Prefer not to say,Delhi,₹30k–50k,Homemaker,Rarely,"Others, Direct, Swiggy",Breakfast,Italian,₹200–400,Packaging,Veg,Combo,Solo,4,4,<20 min,No,Yes,Yes,2.0,No,Tue,No,Limited choice
+18–24,Female,Delhi,₹50k–75k,Retired,Once a week,Zomato,Lunch,"Indian, Continental, Fusion",₹400–600,"Discounts, Delivery time, Quantity",Both,Combo,Family (3–4),5,3,20–30 min,No,Yes,Yes,3.0,Yes,Thu,Yes,Poor packaging
+35–44,Female,Chennai,₹50k–75k,Working professional,2–3 times/week,"Zomato, Direct, Swiggy",Dinner,Indian,₹100–200,Price,Both,Combo,Solo,1,3,20–30 min,Yes,No,Yes,2.0,No,Wed,No,Cold food
+35–44,Female,Delhi,₹15k–30k,Retired,Once a week,Zomato,Lunch,Indian,₹200–400,Packaging,Veg,Combo,2 people,2,3,20–30 min,No,No,No,,Yes,Fri,Yes,"High price, Poor packaging, Limited choice"
+18–24,Male,Chennai,₹30k–50k,Retired,Once a week,"Others, Direct, Zomato","Breakfast, Lunch, Dinner",Italian,₹100–200,Taste,Non-Veg,A la carte,2 people,1,4,30–45 min,No,No,No,,Maybe,Sat,No,"High price, Long wait time, Limited choice"
+18–24,Male,Pune,₹15k–30k,Homemaker,Rarely,Others,Lunch,Continental,₹400–600,"Packaging, Discounts",Both,A la carte,2 people,4,3,30–45 min,No,No,No,,Yes,Sat,Yes,"Cold food, High price, Long wait time"
+25–34,Female,Bangalore,₹15k–30k,Student,Rarely,Swiggy,Dinner,Italian,<₹100,"Packaging, Taste, Quantity",Both,Combo,Solo,1,4,20–30 min,Sometimes,No,Yes,4.0,Maybe,Sat,Yes,Long wait time
+25–34,Female,Pune,₹50k–75k,Working professional,Daily,Zomato,Breakfast,Italian,₹200–400,"Discounts, Delivery time, Packaging",Non-Veg,Combo,Solo,3,3,20–30 min,Sometimes,No,No,,Yes,Thu,No,Cold food
+25–34,Male,Delhi,₹15k–30k,Retired,Once a week,Zomato,Breakfast,Fusion,₹100–200,Packaging,Non-Veg,A la carte,Solo,3,3,30–45 min,Sometimes,Yes,No,,Yes,Tue,No,"Limited choice, Poor packaging"
+25–34,Female,Kolkata,₹15k–30k,Working professional,Rarely,"Others, Direct, Swiggy",Dinner,Fusion,₹100–200,Packaging,Veg,Depends,Solo,3,1,20–30 min,No,No,Yes,5.0,Yes,Wed,Yes,Cold food
+25–34,Male,Mumbai,<₹15k,Working professional,2–3 times/week,Direct,Snacks,"Chinese, Italian, Indian",₹200–400,"Quantity, Discounts, Delivery time",Veg,Depends,Solo,5,3,45+ min,Sometimes,Yes,No,,Yes,Sat,Yes,Long wait time
+35–44,Female,Hyderabad,₹50k–75k,Working professional,2–3 times/week,"Direct, Swiggy",Snacks,Fusion,₹400–600,"Discounts, Price",Non-Veg,A la carte,2 people,2,4,20–30 min,Sometimes,Yes,Yes,4.0,Yes,Tue,Yes,"Poor packaging, Long wait time"
+<18,Male,Bangalore,₹50k–75k,Working professional,2–3 times/week,Zomato,Breakfast,Chinese,₹200–400,"Taste, Price",Veg,Combo,2 people,3,4,30–45 min,Yes,Yes,No,,Yes,Wed,Yes,Cold food
+18–24,Male,Delhi,₹30k–50k,Working professional,Once a week,"Zomato, Others","Snacks, Breakfast, Dinner",Chinese,₹400–600,"Quantity, Price",Both,Combo,2 people,4,3,<20 min,Yes,No,No,,Maybe,Thu,Yes,"Cold food, Limited choice, High price"
+35–44,Female,Hyderabad,₹50k–75k,Student,Daily,Swiggy,Dinner,Italian,₹100–200,Delivery time,Both,Depends,Solo,1,2,30–45 min,Yes,No,No,,Yes,Mon,No,High price
+45–54,Male,Hyderabad,₹15k–30k,Working professional,2–3 times/week,Direct,Lunch,"Italian, Indian",₹200–400,"Delivery time, Quantity",Both,Combo,Solo,4,4,30–45 min,Yes,Yes,Yes,2.0,Maybe,Wed,Yes,Cold food
+25–34,Female,Mumbai,₹30k–50k,Homemaker,Once a week,Swiggy,Snacks,"Continental, Indian, Fusion",₹200–400,Taste,Both,Depends,Family (3–4),4,3,45+ min,Yes,Yes,No,,No,Tue,No,Limited choice
+25–34,Female,Mumbai,₹30k–50k,Retired,Once a week,Others,Breakfast,Italian,<₹100,Packaging,Both,A la carte,Solo,5,5,45+ min,Yes,No,Yes,1.0,Yes,Sun,No,Limited choice
+18–24,Female,Hyderabad,<₹15k,Student,Once a week,"Direct, Zomato",Breakfast,"Continental, Indian",₹200–400,Price,Non-Veg,A la carte,2 people,5,4,20–30 min,Sometimes,No,No,,No,Tue,No,"High price, Long wait time"
+25–34,Male,Hyderabad,₹30k–50k,Other,Once a week,Swiggy,"Snacks, Dinner, Lunch",Chinese,₹200–400,"Quantity, Taste",Both,Combo,Family (3–4),3,3,20–30 min,Yes,Yes,No,,Maybe,Sun,No,"High price, Long wait time, Limited choice"
+25–34,Male,Kolkata,₹75k+,Working professional,2–3 times/week,Direct,Lunch,Continental,₹200–400,"Discounts, Quantity",Both,A la carte,Solo,3,3,20–30 min,Yes,Yes,Yes,4.0,Yes,Tue,No,Limited choice
+18–24,Male,Chennai,<₹15k,Working professional,Rarely,"Swiggy, Zomato, Direct",Lunch,Chinese,₹200–400,Quantity,Both,A la carte,Solo,1,4,20–30 min,Sometimes,No,No,,Maybe,Sun,Yes,Long wait time
+18–24,Prefer not to say,Kolkata,₹15k–30k,Homemaker,Once a week,Swiggy,"Breakfast, Lunch",Continental,₹200–400,Discounts,Veg,Combo,Solo,2,2,20–30 min,Sometimes,Yes,No,,Yes,Fri,Yes,Limited choice
+25–34,Female,Hyderabad,₹15k–30k,Homemaker,Once a week,Zomato,Snacks,"Italian, Continental, Chinese",<₹100,Price,Both,Combo,Solo,1,2,30–45 min,Sometimes,No,No,,No,Sat,Yes,"High price, Cold food, Poor packaging"
+<18,Female,Delhi,₹15k–30k,Retired,2–3 times/week,Others,"Breakfast, Lunch, Dinner",Chinese,₹100–200,Quantity,Both,Depends,Solo,3,3,45+ min,No,Yes,Yes,5.0,Yes,Sun,Yes,Long wait time
+25–34,Female,Mumbai,₹75k+,Working professional,Rarely,Others,"Lunch, Snacks","Chinese, Continental",₹200–400,Packaging,Both,A la carte,Solo,5,4,20–30 min,No,Yes,No,,Yes,Fri,Yes,Poor packaging
+18–24,Female,Chennai,₹30k–50k,Retired,2–3 times/week,"Others, Direct",Snacks,Continental,₹100–200,Discounts,Non-Veg,A la carte,Solo,3,4,20–30 min,Yes,Yes,No,,No,Sun,No,"Poor packaging, Long wait time, Limited choice"
+25–34,Female,Hyderabad,₹30k–50k,Student,2–3 times/week,"Zomato, Others",Breakfast,Continental,<₹100,"Quantity, Taste",Both,Combo,2 people,3,1,<20 min,Yes,Yes,No,,Yes,Fri,Yes,High price
+18–24,Male,Mumbai,₹50k–75k,Homemaker,2–3 times/week,"Zomato, Direct, Others","Breakfast, Snacks",Continental,₹200–400,Quantity,Both,Depends,Family (3–4),3,4,30–45 min,Yes,Yes,No,,Yes,Sat,Yes,"High price, Long wait time, Limited choice"
+45–54,Female,Delhi,₹15k–30k,Homemaker,Once a week,Direct,"Breakfast, Lunch",Indian,₹200–400,"Price, Delivery time, Quantity",Veg,Depends,Solo,3,3,20–30 min,Yes,Yes,No,,Yes,Thu,No,High price
+25–34,Male,Kolkata,₹30k–50k,Working professional,Once a week,Zomato,Dinner,Continental,₹100–200,"Quantity, Taste",Both,A la carte,Family (3–4),5,4,45+ min,Sometimes,No,No,,No,Sun,Yes,Long wait time
+35–44,Female,Bangalore,₹30k–50k,Working professional,Daily,"Direct, Zomato, Others",Lunch,Continental,₹200–400,Packaging,Veg,A la carte,Large group,2,3,30–45 min,Yes,Yes,Yes,4.0,No,Sat,Yes,Cold food
+35–44,Female,Bangalore,₹30k–50k,Retired,2–3 times/week,Zomato,"Breakfast, Dinner",Fusion,₹200–400,Delivery time,Both,A la carte,Large group,4,4,30–45 min,Yes,No,No,,Yes,Tue,No,"High price, Long wait time, Cold food"
+25–34,Female,Bangalore,₹75k+,Student,2–3 times/week,"Direct, Others",Breakfast,Fusion,₹100–200,Delivery time,Both,A la carte,Family (3–4),3,5,20–30 min,Yes,Yes,No,,Yes,Fri,Yes,Poor packaging
+18–24,Male,Delhi,₹50k–75k,Student,Daily,Swiggy,Dinner,Indian,₹200–400,Price,Veg,Combo,Solo,1,2,<20 min,Sometimes,No,No,,Maybe,Sun,Yes,Long wait time
+25–34,Male,Delhi,₹30k–50k,Homemaker,Daily,Direct,Breakfast,Continental,₹200–400,"Quantity, Taste, Price",Veg,Depends,Solo,3,3,45+ min,Yes,Yes,No,,Maybe,Sat,No,"Poor packaging, High price, Cold food"
+25–34,Male,Delhi,₹50k–75k,Working professional,Once a week,"Zomato, Direct, Others",Breakfast,Indian,₹200–400,Quantity,Both,A la carte,2 people,4,3,30–45 min,No,Yes,Yes,3.0,Yes,Sun,Yes,High price
+35–44,Male,Mumbai,₹15k–30k,Homemaker,2–3 times/week,"Others, Zomato, Direct",Breakfast,Chinese,₹200–400,Discounts,Veg,Combo,2 people,1,3,45+ min,Yes,Yes,No,,Yes,Wed,Yes,"High price, Cold food, Long wait time"
+25–34,Male,Chennai,<₹15k,Working professional,Once a week,"Direct, Others",Dinner,Continental,<₹100,"Taste, Delivery time, Discounts",Veg,A la carte,Family (3–4),1,3,20–30 min,Yes,Yes,No,,Yes,Thu,Yes,"High price, Poor packaging, Limited choice"
+18–24,Female,Bangalore,₹15k–30k,Student,Once a week,"Direct, Others, Swiggy",Lunch,Indian,₹200–400,Delivery time,Both,Depends,Large group,2,5,30–45 min,Yes,No,Yes,4.0,Maybe,Fri,Yes,High price
+18–24,Female,Chennai,₹15k–30k,Homemaker,Daily,Swiggy,"Dinner, Breakfast, Snacks",Fusion,₹100–200,"Delivery time, Price, Taste",Non-Veg,Combo,2 people,4,5,<20 min,No,No,No,,Maybe,Wed,Yes,High price
+25–34,Male,Pune,₹30k–50k,Working professional,Rarely,"Swiggy, Direct","Breakfast, Lunch, Dinner",Indian,₹400–600,Quantity,Non-Veg,Combo,Solo,4,3,30–45 min,Yes,No,No,,Yes,Thu,No,High price
+25–34,Male,Delhi,₹30k–50k,Student,Never,"Direct, Others, Swiggy",Dinner,"Fusion, Indian",₹400–600,Taste,Both,A la carte,Solo,3,4,30–45 min,Sometimes,Yes,Yes,2.0,Maybe,Fri,Yes,Long wait time
+25–34,Male,Hyderabad,₹75k+,Homemaker,2–3 times/week,"Others, Direct, Swiggy","Dinner, Lunch","Continental, Chinese",₹200–400,"Delivery time, Taste, Discounts",Veg,Combo,Solo,3,4,30–45 min,No,No,Yes,4.0,Yes,Tue,No,Cold food
+25–34,Female,Bangalore,₹30k–50k,Working professional,Once a week,"Zomato, Others, Direct",Snacks,Italian,₹100–200,Taste,Non-Veg,Depends,2 people,5,4,30–45 min,Sometimes,No,No,,Yes,Wed,No,Long wait time
+55+,Female,Pune,₹30k–50k,Working professional,Once a week,Others,Dinner,Continental,₹100–200,"Packaging, Delivery time",Both,Combo,2 people,4,3,20–30 min,Yes,No,No,,Maybe,Tue,Yes,"Long wait time, Cold food, Limited choice"
+25–34,Female,Delhi,<₹15k,Working professional,Rarely,Direct,"Lunch, Snacks",Continental,₹100–200,Quantity,Both,Depends,Family (3–4),4,3,45+ min,Yes,No,Yes,5.0,Maybe,Sat,Yes,Long wait time
+18–24,Female,Hyderabad,<₹15k,Homemaker,2–3 times/week,Direct,"Lunch, Breakfast, Dinner",Chinese,₹200–400,Quantity,Both,Combo,2 people,4,4,45+ min,Yes,Yes,No,,Maybe,Thu,No,Poor packaging
+18–24,Prefer not to say,Hyderabad,₹30k–50k,Homemaker,2–3 times/week,Others,Dinner,Continental,₹100–200,Packaging,Both,Combo,Family (3–4),4,3,<20 min,No,Yes,No,,Yes,Wed,Yes,Cold food
+18–24,Female,Delhi,₹30k–50k,Homemaker,Daily,Direct,Snacks,"Indian, Chinese, Italian",₹200–400,"Packaging, Price",Both,Depends,2 people,3,4,45+ min,No,Yes,No,,Yes,Fri,Yes,Cold food
+18–24,Male,Mumbai,₹50k–75k,Student,Daily,Zomato,"Snacks, Breakfast, Lunch","Continental, Italian, Fusion",₹100–200,Quantity,Veg,A la carte,Family (3–4),5,4,20–30 min,No,No,No,,Maybe,Mon,Yes,"Poor packaging, High price"
+18–24,Female,Hyderabad,₹15k–30k,Homemaker,Rarely,Others,Lunch,Fusion,₹600+,Packaging,Veg,Combo,Solo,5,2,30–45 min,Sometimes,Yes,No,,No,Sun,Yes,Long wait time
+18–24,Male,Hyderabad,<₹15k,Working professional,Once a week,"Zomato, Others","Breakfast, Snacks, Lunch","Indian, Chinese",₹100–200,Quantity,Non-Veg,Combo,Family (3–4),1,2,20–30 min,Sometimes,No,No,,Yes,Wed,Yes,Cold food
+18–24,Female,Delhi,₹30k–50k,Working professional,Daily,"Swiggy, Others","Snacks, Lunch",Italian,₹400–600,Packaging,Veg,A la carte,2 people,1,5,45+ min,Sometimes,Yes,Yes,4.0,Yes,Sun,Yes,Poor packaging
+18–24,Male,Hyderabad,₹15k–30k,Working professional,Rarely,Zomato,Breakfast,"Continental, Indian, Italian",₹400–600,Taste,Both,A la carte,Solo,5,4,<20 min,Yes,Yes,No,,Maybe,Fri,Yes,Cold food
+45–54,Female,Delhi,<₹15k,Retired,Once a week,Zomato,Lunch,Chinese,₹200–400,Discounts,Both,Depends,Solo,2,5,20–30 min,No,Yes,No,,Maybe,Sun,Yes,Long wait time
+18–24,Female,Hyderabad,₹50k–75k,Homemaker,2–3 times/week,Others,Breakfast,Indian,₹200–400,Packaging,Veg,Depends,Family (3–4),5,2,20–30 min,Yes,Yes,Yes,4.0,No,Wed,Yes,Long wait time
+25–34,Female,Mumbai,₹15k–30k,Student,2–3 times/week,Zomato,Lunch,"Continental, Italian, Fusion",₹200–400,Price,Both,A la carte,Solo,3,4,20–30 min,No,No,No,,Maybe,Tue,No,High price
+25–34,Female,Pune,₹30k–50k,Working professional,Never,Swiggy,"Lunch, Snacks, Breakfast",Chinese,₹200–400,Price,Veg,A la carte,Solo,2,4,30–45 min,Yes,Yes,Yes,5.0,Yes,Sat,No,Poor packaging
+55+,Male,Delhi,₹15k–30k,Retired,Once a week,"Zomato, Direct",Lunch,Indian,₹100–200,"Delivery time, Discounts",Non-Veg,A la carte,Solo,1,5,<20 min,Yes,No,No,,No,Wed,Yes,Limited choice
+18–24,Male,Delhi,₹15k–30k,Student,2–3 times/week,Zomato,Lunch,"Italian, Chinese, Indian",₹100–200,"Price, Taste",Both,A la carte,2 people,2,2,30–45 min,Sometimes,Yes,No,,No,Sat,Yes,"High price, Limited choice"
+25–34,Male,Mumbai,₹30k–50k,Other,Once a week,Direct,Snacks,Italian,₹200–400,Packaging,Non-Veg,Combo,Family (3–4),2,3,45+ min,No,Yes,No,,Yes,Thu,Yes,High price
+55+,Male,Mumbai,₹50k–75k,Working professional,Daily,Zomato,Snacks,"Fusion, Continental, Indian",₹200–400,"Quantity, Packaging",Non-Veg,Combo,Solo,3,3,30–45 min,Yes,No,Yes,4.0,Maybe,Sat,Yes,Poor packaging
+45–54,Female,Bangalore,₹30k–50k,Working professional,Once a week,Swiggy,"Lunch, Dinner","Italian, Chinese, Fusion",₹200–400,Delivery time,Veg,Combo,Solo,4,5,30–45 min,Yes,Yes,Yes,5.0,Maybe,Sun,No,High price
+35–44,Male,Delhi,₹50k–75k,Working professional,Once a week,"Others, Zomato, Swiggy",Breakfast,Chinese,₹100–200,Packaging,Non-Veg,Combo,Large group,5,5,20–30 min,No,No,No,,Yes,Sun,No,Poor packaging
+18–24,Non-binary,Chennai,₹15k–30k,Working professional,2–3 times/week,Others,"Snacks, Lunch","Indian, Fusion",₹100–200,"Delivery time, Quantity, Discounts",Both,Combo,Family (3–4),3,5,20–30 min,Sometimes,No,No,,Maybe,Thu,No,Long wait time
+18–24,Female,Mumbai,₹50k–75k,Retired,Rarely,Swiggy,Breakfast,Indian,<₹100,Price,Both,A la carte,Family (3–4),3,5,20–30 min,No,No,No,,No,Thu,No,Long wait time
+35–44,Female,Delhi,₹15k–30k,Working professional,Once a week,"Direct, Zomato","Dinner, Snacks",Fusion,<₹100,Taste,Non-Veg,Depends,Solo,3,1,<20 min,Sometimes,Yes,Yes,2.0,No,Sun,Yes,Limited choice
+45–54,Male,Delhi,₹30k–50k,Homemaker,Once a week,"Zomato, Others",Lunch,Chinese,₹100–200,Taste,Non-Veg,A la carte,Solo,3,1,45+ min,Yes,Yes,Yes,5.0,Maybe,Sun,No,High price
+25–34,Female,Mumbai,₹30k–50k,Working professional,Daily,Zomato,Snacks,Italian,<₹100,Discounts,Both,Combo,Solo,3,2,<20 min,No,No,No,,Yes,Mon,No,High price
+25–34,Female,Mumbai,₹75k+,Student,2–3 times/week,Direct,Lunch,"Indian, Fusion, Continental",₹100–200,Quantity,Both,Combo,2 people,1,3,45+ min,Sometimes,No,No,,Maybe,Fri,Yes,Poor packaging
+18–24,Female,Bangalore,₹30k–50k,Student,Rarely,Swiggy,"Dinner, Lunch","Fusion, Italian",₹400–600,Discounts,Veg,A la carte,Solo,1,5,<20 min,No,No,Yes,2.0,Yes,Tue,Yes,Limited choice
+35–44,Female,Bangalore,<₹15k,Working professional,Once a week,Others,"Snacks, Breakfast","Indian, Fusion",<₹100,Delivery time,Non-Veg,Combo,Solo,1,5,30–45 min,Yes,Yes,No,,Maybe,Sun,Yes,"Long wait time, Limited choice"
+18–24,Female,Bangalore,<₹15k,Other,2–3 times/week,"Zomato, Others, Swiggy",Lunch,Chinese,₹200–400,Price,Both,A la carte,Solo,2,3,20–30 min,No,Yes,No,,Yes,Tue,Yes,"Cold food, High price, Long wait time"
+25–34,Male,Bangalore,₹50k–75k,Working professional,Once a week,Swiggy,Dinner,Fusion,₹100–200,Delivery time,Both,Depends,Solo,4,4,<20 min,No,Yes,Yes,2.0,Yes,Fri,No,Limited choice
+25–34,Female,Bangalore,₹30k–50k,Working professional,Once a week,"Direct, Others, Zomato","Dinner, Breakfast, Lunch",Indian,₹400–600,Packaging,Veg,Combo,Family (3–4),2,5,30–45 min,Sometimes,No,No,,Yes,Sat,No,Poor packaging
+25–34,Male,Mumbai,₹50k–75k,Working professional,Daily,Direct,Snacks,Italian,₹200–400,"Price, Delivery time",Both,Combo,Solo,5,4,20–30 min,Sometimes,Yes,No,,Yes,Sun,No,Cold food
+18–24,Male,Bangalore,₹15k–30k,Working professional,2–3 times/week,"Direct, Zomato, Swiggy","Lunch, Dinner","Fusion, Italian",₹100–200,Quantity,Veg,A la carte,2 people,5,2,30–45 min,Sometimes,Yes,No,,Yes,Sat,Yes,Long wait time
+18–24,Male,Kolkata,₹15k–30k,Working professional,Daily,Others,Lunch,Fusion,₹200–400,"Discounts, Taste, Quantity",Non-Veg,Depends,Family (3–4),5,4,20–30 min,No,No,No,,Yes,Wed,No,Poor packaging
+25–34,Male,Bangalore,<₹15k,Retired,2–3 times/week,"Others, Zomato, Swiggy",Breakfast,Fusion,₹100–200,Price,Non-Veg,Depends,Solo,5,3,<20 min,Yes,Yes,No,,Maybe,Fri,Yes,Cold food
+18–24,Male,Hyderabad,₹75k+,Working professional,2–3 times/week,Direct,Breakfast,Chinese,₹200–400,"Taste, Price, Quantity",Both,Depends,2 people,2,4,45+ min,Yes,Yes,Yes,5.0,Maybe,Sun,Yes,High price
+25–34,Male,Delhi,₹30k–50k,Working professional,2–3 times/week,Direct,Snacks,"Indian, Continental, Italian",₹100–200,Price,Non-Veg,Combo,Large group,3,3,20–30 min,Sometimes,Yes,No,,Maybe,Sat,No,High price
+18–24,Non-binary,Chennai,₹75k+,Student,Never,Zomato,Dinner,Continental,₹600+,Taste,Veg,Depends,Large group,2,1,30–45 min,Sometimes,Yes,No,,Maybe,Sat,No,Limited choice
+25–34,Female,Chennai,₹15k–30k,Other,Once a week,Others,"Lunch, Breakfast, Dinner",Fusion,₹200–400,"Quantity, Packaging",Veg,Combo,Solo,4,5,20–30 min,Yes,Yes,No,,Maybe,Sat,No,Poor packaging
+25–34,Non-binary,Bangalore,₹30k–50k,Working professional,Once a week,Zomato,Dinner,Chinese,₹100–200,Discounts,Both,Combo,Solo,5,4,30–45 min,No,Yes,Yes,4.0,Yes,Thu,Yes,Limited choice
+18–24,Male,Kolkata,₹30k–50k,Student,2–3 times/week,Direct,Lunch,Italian,₹200–400,Discounts,Veg,Depends,Solo,5,4,20–30 min,Yes,Yes,No,,Maybe,Sat,No,"Long wait time, Poor packaging, Limited choice"
+25–34,Male,Mumbai,₹15k–30k,Working professional,2–3 times/week,Direct,Dinner,Fusion,₹100–200,Delivery time,Non-Veg,Depends,2 people,3,5,20–30 min,Yes,Yes,No,,Maybe,Wed,No,"Poor packaging, Limited choice"
+18–24,Female,Mumbai,₹50k–75k,Working professional,Once a week,Others,Dinner,Chinese,₹400–600,Quantity,Veg,Combo,2 people,4,3,20–30 min,No,Yes,No,,Yes,Thu,Yes,High price
+18–24,Male,Chennai,₹75k+,Working professional,Rarely,Swiggy,Dinner,Fusion,₹200–400,Discounts,Both,Combo,2 people,1,3,20–30 min,No,No,No,,No,Sun,No,Limited choice
+55+,Male,Chennai,₹50k–75k,Working professional,Once a week,"Others, Zomato",Dinner,"Fusion, Italian",₹200–400,Packaging,Non-Veg,Combo,Solo,1,5,20–30 min,Yes,Yes,No,,Yes,Mon,Yes,"Long wait time, Poor packaging, High price"
+25–34,Female,Mumbai,₹50k–75k,Homemaker,Rarely,Zomato,"Dinner, Lunch",Indian,₹100–200,"Taste, Quantity, Packaging",Non-Veg,Combo,Solo,4,3,30–45 min,Sometimes,Yes,Yes,3.0,Maybe,Thu,Yes,"Cold food, High price"
+35–44,Male,Delhi,₹15k–30k,Student,Once a week,Zomato,Lunch,Fusion,₹400–600,Delivery time,Non-Veg,Combo,2 people,3,4,30–45 min,Sometimes,Yes,No,,No,Wed,No,Cold food
+18–24,Female,Mumbai,₹15k–30k,Homemaker,Daily,Swiggy,Dinner,Continental,₹200–400,Packaging,Both,Depends,Solo,5,3,<20 min,Sometimes,Yes,No,,Maybe,Tue,Yes,Cold food
+35–44,Female,Delhi,₹75k+,Working professional,Rarely,Swiggy,"Lunch, Snacks, Breakfast","Continental, Chinese",₹100–200,Quantity,Non-Veg,A la carte,2 people,1,1,20–30 min,Yes,Yes,No,,Yes,Sat,Yes,Cold food
+35–44,Male,Chennai,<₹15k,Working professional,Once a week,"Swiggy, Zomato, Direct",Breakfast,Chinese,₹100–200,Quantity,Both,Depends,Solo,5,4,20–30 min,No,Yes,No,,Yes,Sat,No,Cold food
+25–34,Male,Bangalore,₹50k–75k,Working professional,Never,Swiggy,Snacks,Fusion,₹100–200,Delivery time,Both,Depends,Solo,3,3,<20 min,Yes,No,No,,Maybe,Tue,No,High price
+25–34,Female,Delhi,₹50k–75k,Working professional,2–3 times/week,Zomato,"Breakfast, Lunch",Fusion,₹600+,Packaging,Both,A la carte,Solo,4,4,20–30 min,Yes,Yes,No,,Yes,Fri,Yes,Long wait time
+25–34,Male,Delhi,₹30k–50k,Homemaker,Rarely,Swiggy,Lunch,Fusion,₹100–200,"Discounts, Quantity",Non-Veg,Depends,Solo,4,4,<20 min,No,No,Yes,5.0,Yes,Fri,No,"Cold food, Poor packaging, Long wait time"
+25–34,Male,Mumbai,₹75k+,Working professional,Daily,Direct,"Breakfast, Lunch","Chinese, Continental",₹200–400,"Discounts, Quantity",Both,A la carte,Solo,5,5,45+ min,Sometimes,Yes,No,,No,Tue,Yes,High price
+45–54,Prefer not to say,Delhi,₹15k–30k,Working professional,2–3 times/week,Others,"Breakfast, Snacks, Lunch",Italian,<₹100,Price,Veg,Combo,Solo,2,4,30–45 min,Yes,Yes,No,,Maybe,Sat,No,Limited choice
+35–44,Male,Hyderabad,₹15k–30k,Working professional,Once a week,Direct,Dinner,Indian,₹100–200,"Discounts, Taste",Non-Veg,A la carte,Solo,5,3,<20 min,Sometimes,Yes,Yes,4.0,Yes,Thu,No,"High price, Cold food"
+55+,Female,Kolkata,<₹15k,Other,2–3 times/week,"Direct, Zomato",Dinner,Italian,₹200–400,"Delivery time, Taste, Packaging",Both,A la carte,Solo,2,5,<20 min,Sometimes,No,Yes,2.0,Yes,Sat,Yes,Poor packaging
+18–24,Prefer not to say,Chennai,₹30k–50k,Working professional,Once a week,Swiggy,Snacks,"Fusion, Chinese",₹600+,"Price, Discounts",Veg,Depends,Solo,1,4,30–45 min,Sometimes,Yes,Yes,1.0,No,Tue,Yes,High price
+35–44,Male,Mumbai,₹15k–30k,Retired,Once a week,"Direct, Others, Swiggy",Lunch,Continental,₹200–400,Packaging,Veg,Depends,2 people,3,4,20–30 min,Sometimes,Yes,No,,Yes,Thu,Yes,Limited choice
+45–54,Male,Pune,₹15k–30k,Working professional,Once a week,Others,Lunch,Indian,₹400–600,Quantity,Non-Veg,A la carte,Solo,4,5,30–45 min,Yes,Yes,No,,Yes,Mon,Yes,"Poor packaging, High price"
+18–24,Male,Chennai,₹50k–75k,Student,2–3 times/week,Others,Dinner,Fusion,₹200–400,Delivery time,Both,Depends,2 people,3,4,45+ min,Sometimes,Yes,Yes,3.0,Maybe,Tue,Yes,"Long wait time, Poor packaging, Cold food"
+18–24,Male,Chennai,₹75k+,Working professional,Daily,Others,Lunch,"Italian, Chinese",<₹100,"Packaging, Taste, Delivery time",Non-Veg,Combo,2 people,4,4,20–30 min,Yes,No,Yes,4.0,Maybe,Sun,Yes,High price
+35–44,Male,Bangalore,₹15k–30k,Working professional,Once a week,Swiggy,"Lunch, Snacks, Dinner","Indian, Chinese",₹100–200,"Discounts, Packaging",Both,Depends,2 people,4,4,20–30 min,Sometimes,Yes,No,,Maybe,Tue,Yes,Limited choice
+25–34,Female,Delhi,₹30k–50k,Working professional,Once a week,Swiggy,Snacks,Chinese,₹200–400,Packaging,Both,Combo,Large group,2,3,30–45 min,Yes,No,No,,Yes,Mon,No,Cold food
+35–44,Male,Delhi,₹75k+,Student,2–3 times/week,Zomato,Snacks,Indian,₹600+,Packaging,Both,Combo,Solo,5,3,45+ min,Yes,No,Yes,3.0,No,Sun,Yes,"High price, Poor packaging, Limited choice"
+18–24,Female,Mumbai,<₹15k,Retired,Once a week,Direct,Breakfast,Fusion,₹400–600,Delivery time,Veg,Combo,2 people,1,4,20–30 min,No,Yes,No,,Maybe,Fri,Yes,Cold food
+35–44,Prefer not to say,Delhi,<₹15k,Homemaker,Once a week,Zomato,Breakfast,Continental,₹100–200,Price,Both,A la carte,Large group,5,3,30–45 min,Yes,Yes,No,,No,Tue,Yes,Cold food
+18–24,Female,Delhi,₹15k–30k,Homemaker,Once a week,Zomato,"Lunch, Snacks",Fusion,₹100–200,Quantity,Veg,Combo,Family (3–4),3,2,20–30 min,Yes,No,No,,Yes,Sun,No,"Limited choice, Poor packaging, High price"
+18–24,Female,Bangalore,₹30k–50k,Student,Rarely,Others,"Dinner, Breakfast, Snacks",Italian,₹100–200,Packaging,Veg,Depends,Solo,3,1,20–30 min,No,Yes,No,,Maybe,Tue,Yes,"Poor packaging, Limited choice, Cold food"
+18–24,Male,Hyderabad,₹15k–30k,Student,Rarely,"Zomato, Direct, Swiggy",Breakfast,Italian,₹400–600,Price,Veg,Combo,Solo,3,4,30–45 min,Sometimes,Yes,No,,No,Sat,No,Poor packaging
+35–44,Female,Bangalore,₹75k+,Student,2–3 times/week,"Swiggy, Others",Lunch,"Italian, Indian, Chinese",₹400–600,"Quantity, Delivery time",Non-Veg,Depends,Solo,2,3,45+ min,No,No,Yes,1.0,Maybe,Mon,Yes,Cold food
+35–44,Female,Mumbai,₹30k–50k,Homemaker,Daily,Others,Snacks,Italian,₹200–400,Discounts,Veg,Depends,2 people,3,4,30–45 min,Yes,No,Yes,1.0,Yes,Fri,Yes,Limited choice
+25–34,Male,Kolkata,₹30k–50k,Retired,2–3 times/week,Direct,Snacks,Fusion,₹100–200,"Price, Quantity, Discounts",Veg,Combo,2 people,2,3,30–45 min,Yes,No,No,,No,Fri,Yes,Cold food
+25–34,Male,Pune,₹15k–30k,Working professional,Daily,Others,Dinner,Fusion,₹200–400,Packaging,Non-Veg,Combo,Solo,2,4,20–30 min,Yes,No,No,,Maybe,Wed,Yes,Poor packaging
+45–54,Female,Chennai,₹30k–50k,Student,Daily,"Swiggy, Zomato, Direct",Snacks,Continental,₹200–400,Discounts,Veg,Depends,2 people,2,3,20–30 min,No,Yes,No,,No,Fri,Yes,High price
+25–34,Male,Kolkata,₹30k–50k,Working professional,2–3 times/week,"Zomato, Direct",Snacks,Chinese,₹100–200,Quantity,Both,A la carte,2 people,3,4,20–30 min,Sometimes,Yes,No,,Yes,Fri,Yes,"High price, Poor packaging"
+35–44,Male,Bangalore,₹50k–75k,Working professional,Once a week,Direct,Snacks,Chinese,₹200–400,Price,Both,A la carte,Solo,4,3,20–30 min,Yes,Yes,Yes,1.0,Yes,Sat,Yes,Cold food
+25–34,Male,Kolkata,₹50k–75k,Working professional,Once a week,"Swiggy, Zomato",Snacks,Chinese,<₹100,Packaging,Both,Combo,Family (3–4),3,5,30–45 min,Yes,No,No,,Yes,Sun,No,Cold food
+25–34,Male,Mumbai,₹30k–50k,Working professional,2–3 times/week,Direct,"Lunch, Dinner, Snacks",Fusion,₹100–200,Discounts,Veg,A la carte,Family (3–4),5,5,20–30 min,Yes,No,No,,Yes,Fri,Yes,Limited choice
+25–34,Female,Delhi,₹75k+,Homemaker,Rarely,Swiggy,Lunch,Indian,₹400–600,Quantity,Veg,Depends,Solo,4,5,30–45 min,Yes,Yes,No,,Maybe,Fri,Yes,Long wait time
+25–34,Female,Delhi,₹50k–75k,Student,2–3 times/week,"Swiggy, Direct",Breakfast,Chinese,₹200–400,Delivery time,Both,Combo,2 people,4,5,30–45 min,Yes,Yes,No,,Yes,Fri,No,Long wait time
+35–44,Female,Mumbai,₹50k–75k,Student,Rarely,Swiggy,Dinner,Continental,₹200–400,Delivery time,Veg,A la carte,Solo,4,3,20–30 min,Sometimes,Yes,No,,Yes,Sat,Yes,Long wait time
+25–34,Male,Mumbai,<₹15k,Other,Never,Others,Breakfast,Italian,₹200–400,Taste,Both,Combo,2 people,3,4,20–30 min,Yes,No,No,,Yes,Thu,Yes,Poor packaging
+18–24,Male,Hyderabad,<₹15k,Working professional,Once a week,Zomato,Snacks,"Continental, Fusion, Italian",₹100–200,Delivery time,Veg,Depends,Large group,4,4,30–45 min,No,Yes,No,,Yes,Fri,No,"High price, Limited choice"
+45–54,Female,Chennai,₹15k–30k,Student,Daily,Zomato,Breakfast,"Italian, Chinese, Fusion",₹200–400,"Taste, Discounts",Both,Depends,Family (3–4),1,4,45+ min,No,Yes,No,,No,Fri,No,Limited choice
+25–34,Male,Bangalore,₹30k–50k,Student,Daily,Direct,Lunch,"Continental, Indian",₹200–400,Packaging,Non-Veg,Combo,Solo,5,5,30–45 min,Yes,No,Yes,5.0,Maybe,Sun,Yes,Long wait time
+25–34,Male,Mumbai,₹30k–50k,Student,Never,Others,Dinner,Continental,₹200–400,Delivery time,Non-Veg,Combo,Solo,4,4,<20 min,Sometimes,No,No,,Maybe,Fri,Yes,Limited choice
+45–54,Female,Chennai,₹30k–50k,Working professional,Never,"Others, Zomato","Dinner, Snacks, Breakfast","Chinese, Indian, Continental",₹200–400,Quantity,Both,Combo,Solo,2,5,<20 min,No,Yes,No,,Yes,Wed,Yes,Cold food
+25–34,Male,Hyderabad,₹50k–75k,Homemaker,Daily,Direct,"Dinner, Lunch, Snacks",Indian,₹100–200,Discounts,Non-Veg,A la carte,2 people,4,3,20–30 min,Yes,No,No,,No,Fri,No,High price
+18–24,Female,Delhi,₹50k–75k,Working professional,Once a week,"Direct, Swiggy",Breakfast,"Indian, Continental",₹100–200,Price,Non-Veg,A la carte,Solo,1,5,20–30 min,Sometimes,Yes,No,,Yes,Sat,No,High price
+45–54,Male,Hyderabad,₹75k+,Working professional,Daily,Others,Snacks,"Fusion, Italian, Continental",₹200–400,"Discounts, Quantity, Packaging",Non-Veg,Depends,2 people,2,4,30–45 min,Yes,Yes,No,,Yes,Sun,Yes,Limited choice
+25–34,Male,Delhi,₹15k–30k,Working professional,Once a week,"Swiggy, Zomato",Dinner,Indian,₹100–200,Taste,Both,A la carte,Solo,1,4,30–45 min,Sometimes,Yes,No,,No,Sat,No,Limited choice
+25–34,Male,Delhi,₹30k–50k,Working professional,Daily,Zomato,Dinner,Chinese,₹200–400,Price,Veg,Combo,Solo,4,3,20–30 min,No,No,No,,Maybe,Sun,No,Long wait time
+18–24,Non-binary,Pune,₹15k–30k,Retired,Rarely,Swiggy,"Breakfast, Dinner","Fusion, Chinese",₹100–200,"Delivery time, Price, Taste",Veg,Depends,Solo,4,4,20–30 min,No,No,Yes,3.0,Yes,Thu,Yes,High price
+35–44,Female,Delhi,₹15k–30k,Retired,2–3 times/week,Direct,"Breakfast, Lunch",Continental,₹100–200,"Discounts, Quantity, Packaging",Non-Veg,A la carte,Large group,4,5,20–30 min,Sometimes,Yes,No,,Yes,Fri,No,Cold food
+25–34,Female,Bangalore,₹15k–30k,Student,2–3 times/week,Direct,Dinner,Indian,₹100–200,Discounts,Veg,A la carte,2 people,1,3,45+ min,Sometimes,No,No,,Maybe,Sat,Yes,High price
+25–34,Female,Pune,₹15k–30k,Homemaker,2–3 times/week,"Zomato, Swiggy",Snacks,Continental,₹600+,Quantity,Both,Combo,Solo,3,4,20–30 min,No,Yes,No,,No,Wed,Yes,Long wait time
+45–54,Male,Hyderabad,₹30k–50k,Working professional,2–3 times/week,"Direct, Swiggy, Others",Dinner,"Chinese, Fusion",₹100–200,Discounts,Veg,Combo,Solo,4,3,30–45 min,Sometimes,No,No,,Yes,Thu,No,Cold food
+35–44,Female,Mumbai,₹50k–75k,Other,2–3 times/week,"Swiggy, Others","Lunch, Snacks, Dinner",Fusion,₹200–400,Discounts,Non-Veg,Depends,2 people,2,5,20–30 min,Yes,No,No,,No,Sat,Yes,High price
+18–24,Male,Mumbai,₹15k–30k,Working professional,Daily,"Others, Zomato, Direct",Breakfast,Continental,₹200–400,Delivery time,Veg,A la carte,Solo,4,4,30–45 min,No,Yes,No,,Maybe,Sat,Yes,Cold food
+25–34,Female,Mumbai,₹50k–75k,Other,Rarely,Zomato,Snacks,Continental,<₹100,"Delivery time, Quantity, Discounts",Non-Veg,Combo,2 people,1,3,20–30 min,Yes,Yes,No,,Yes,Sun,No,Limited choice
+18–24,Male,Hyderabad,₹30k–50k,Homemaker,Rarely,"Swiggy, Zomato","Snacks, Lunch, Breakfast",Indian,₹200–400,"Quantity, Taste, Delivery time",Veg,A la carte,Family (3–4),2,3,20–30 min,Yes,No,Yes,5.0,Yes,Sun,No,Long wait time
+35–44,Female,Bangalore,₹15k–30k,Working professional,Once a week,"Swiggy, Direct",Dinner,Italian,₹200–400,"Discounts, Price",Veg,Depends,2 people,3,4,30–45 min,Sometimes,Yes,No,,Yes,Wed,No,Limited choice
+<18,Male,Mumbai,₹30k–50k,Working professional,Rarely,Direct,Lunch,Italian,₹200–400,Quantity,Veg,Combo,2 people,4,2,20–30 min,Yes,No,No,,Maybe,Sun,Yes,Limited choice
+25–34,Male,Kolkata,₹15k–30k,Other,Daily,Direct,Dinner,Indian,₹400–600,Packaging,Both,A la carte,2 people,2,4,20–30 min,Yes,Yes,No,,Yes,Mon,Yes,"High price, Limited choice, Poor packaging"
+35–44,Female,Bangalore,₹30k–50k,Retired,Once a week,Direct,Breakfast,"Indian, Italian, Fusion",₹100–200,Discounts,Veg,Depends,Family (3–4),2,5,<20 min,Sometimes,No,Yes,1.0,Maybe,Sat,Yes,"Limited choice, High price, Long wait time"
+45–54,Male,Delhi,₹30k–50k,Student,Once a week,"Zomato, Swiggy, Others",Breakfast,"Italian, Indian",<₹100,Delivery time,Both,Combo,Family (3–4),2,5,20–30 min,Yes,Yes,No,,Maybe,Wed,Yes,Long wait time
+25–34,Male,Bangalore,₹15k–30k,Homemaker,Once a week,Direct,Breakfast,Fusion,₹400–600,Quantity,Veg,Depends,2 people,2,2,20–30 min,Yes,Yes,No,,Yes,Thu,No,"Cold food, Limited choice"
+35–44,Male,Hyderabad,₹15k–30k,Working professional,Rarely,"Others, Swiggy",Breakfast,Italian,₹100–200,Delivery time,Veg,A la carte,Solo,2,5,30–45 min,No,Yes,No,,Yes,Sun,No,Cold food
+18–24,Male,Mumbai,₹30k–50k,Student,2–3 times/week,Swiggy,"Lunch, Dinner, Breakfast","Fusion, Chinese",₹200–400,"Delivery time, Discounts, Taste",Non-Veg,A la carte,Solo,3,4,45+ min,No,No,No,,No,Wed,Yes,"Long wait time, Limited choice, Poor packaging"
+35–44,Female,Delhi,₹75k+,Working professional,Daily,Others,Breakfast,Chinese,₹200–400,Discounts,Non-Veg,Combo,Solo,4,3,<20 min,Sometimes,Yes,Yes,4.0,Yes,Sat,Yes,Cold food
+18–24,Female,Chennai,₹15k–30k,Working professional,Once a week,Others,"Dinner, Snacks, Breakfast",Continental,₹100–200,"Price, Delivery time",Both,Combo,2 people,3,1,20–30 min,No,Yes,No,,Maybe,Tue,No,High price
+25–34,Female,Bangalore,₹50k–75k,Homemaker,Daily,Swiggy,Lunch,Italian,₹200–400,Quantity,Both,A la carte,2 people,4,3,20–30 min,No,No,No,,Yes,Mon,No,Long wait time
+35–44,Female,Bangalore,₹30k–50k,Working professional,Once a week,"Direct, Swiggy",Dinner,Italian,₹100–200,Taste,Both,Combo,Solo,4,5,20–30 min,Sometimes,No,No,,Yes,Thu,Yes,High price
+18–24,Male,Bangalore,₹75k+,Homemaker,2–3 times/week,Others,Dinner,Italian,₹100–200,Discounts,Both,A la carte,Solo,2,1,20–30 min,No,Yes,Yes,1.0,No,Fri,Yes,Long wait time
+18–24,Female,Mumbai,₹50k–75k,Student,2–3 times/week,Others,"Snacks, Lunch",Italian,₹100–200,Price,Non-Veg,Combo,Solo,1,3,30–45 min,No,No,No,,Yes,Wed,Yes,"Cold food, High price, Limited choice"
+35–44,Male,Mumbai,₹30k–50k,Working professional,Once a week,Direct,Dinner,Continental,₹400–600,"Quantity, Price, Discounts",Non-Veg,Combo,Family (3–4),5,4,20–30 min,Sometimes,No,No,,No,Thu,No,Poor packaging
+35–44,Male,Bangalore,₹30k–50k,Working professional,Rarely,Others,Dinner,Italian,₹100–200,Taste,Both,Depends,2 people,1,4,20–30 min,Yes,Yes,No,,Yes,Sat,Yes,Long wait time
+25–34,Female,Delhi,₹50k–75k,Working professional,Once a week,Others,Lunch,Italian,₹200–400,Discounts,Both,A la carte,2 people,2,4,30–45 min,Yes,Yes,No,,No,Tue,No,"Limited choice, Long wait time, Poor packaging"
+35–44,Male,Mumbai,₹30k–50k,Student,Daily,"Others, Direct, Zomato","Dinner, Breakfast","Indian, Chinese",₹400–600,Delivery time,Non-Veg,Depends,Solo,1,4,45+ min,Yes,No,No,,No,Thu,Yes,"High price, Poor packaging"
+25–34,Female,Chennai,₹15k–30k,Student,2–3 times/week,"Others, Zomato",Breakfast,"Continental, Fusion",₹200–400,"Delivery time, Discounts",Veg,Combo,2 people,4,2,45+ min,No,No,No,,No,Sun,Yes,"Poor packaging, Long wait time"
+18–24,Male,Kolkata,<₹15k,Working professional,2–3 times/week,Zomato,Breakfast,Chinese,₹200–400,Taste,Veg,A la carte,Solo,3,5,30–45 min,Yes,Yes,Yes,5.0,No,Thu,Yes,Long wait time
+25–34,Female,Chennai,₹50k–75k,Working professional,Once a week,Direct,Lunch,Continental,₹200–400,Price,Both,Combo,2 people,5,3,45+ min,No,Yes,Yes,1.0,Yes,Thu,No,Cold food
+18–24,Female,Pune,₹50k–75k,Working professional,Once a week,"Others, Swiggy",Snacks,Continental,₹100–200,Packaging,Non-Veg,Depends,Solo,5,4,20–30 min,Sometimes,Yes,No,,Yes,Sat,No,Limited choice
+45–54,Female,Delhi,₹15k–30k,Working professional,Rarely,Others,Snacks,Chinese,₹200–400,Packaging,Non-Veg,Depends,Solo,3,4,20–30 min,No,Yes,Yes,1.0,Yes,Sat,No,"Poor packaging, Limited choice, Cold food"
+25–34,Female,Kolkata,₹30k–50k,Retired,Once a week,Others,Dinner,"Italian, Continental",₹200–400,Packaging,Veg,Combo,Solo,3,3,<20 min,Yes,Yes,No,,Yes,Sat,No,"Limited choice, Poor packaging"
+25–34,Female,Mumbai,₹30k–50k,Retired,Rarely,Swiggy,Snacks,Fusion,₹600+,"Delivery time, Quantity",Both,Depends,Solo,2,5,30–45 min,Sometimes,Yes,Yes,5.0,Maybe,Sun,No,"High price, Long wait time"
+25–34,Male,Kolkata,₹15k–30k,Working professional,Never,Others,Dinner,"Italian, Indian",₹400–600,Taste,Veg,Combo,Large group,2,4,45+ min,Yes,No,Yes,5.0,Yes,Mon,Yes,High price
+45–54,Female,Kolkata,₹75k+,Working professional,Once a week,"Direct, Others, Zomato","Lunch, Dinner",Continental,₹400–600,"Delivery time, Quantity",Both,A la carte,Solo,2,2,20–30 min,Sometimes,No,Yes,4.0,No,Sun,No,Poor packaging
+18–24,Male,Hyderabad,₹15k–30k,Student,Once a week,Swiggy,Lunch,Fusion,₹400–600,Price,Veg,Depends,Solo,2,5,30–45 min,No,Yes,No,,Yes,Sun,Yes,"Limited choice, High price"
+25–34,Female,Kolkata,<₹15k,Other,Daily,Zomato,"Breakfast, Snacks, Lunch",Chinese,₹200–400,"Price, Quantity, Discounts",Both,Depends,2 people,2,4,30–45 min,Yes,Yes,No,,No,Sun,Yes,Limited choice
+25–34,Female,Bangalore,₹30k–50k,Student,Never,Swiggy,Breakfast,Fusion,₹200–400,Packaging,Both,Depends,Family (3–4),2,4,45+ min,Sometimes,Yes,No,,Maybe,Fri,Yes,"Cold food, Limited choice"
+25–34,Female,Delhi,₹50k–75k,Working professional,Rarely,Direct,Snacks,Fusion,₹400–600,Discounts,Veg,Combo,Solo,3,4,30–45 min,Yes,Yes,No,,Yes,Sun,Yes,Long wait time
+<18,Male,Bangalore,<₹15k,Working professional,2–3 times/week,"Direct, Swiggy",Breakfast,"Fusion, Chinese",₹100–200,Discounts,Non-Veg,Combo,2 people,5,5,45+ min,Sometimes,No,No,,Maybe,Wed,No,"High price, Limited choice, Cold food"
+45–54,Male,Bangalore,₹30k–50k,Working professional,Daily,Direct,Snacks,Fusion,₹600+,Quantity,Non-Veg,Combo,Family (3–4),3,1,20–30 min,Yes,No,No,,Yes,Sat,Yes,High price
+45–54,Female,Mumbai,₹30k–50k,Student,Once a week,Others,Dinner,Italian,₹200–400,"Delivery time, Taste",Veg,A la carte,Solo,5,3,20–30 min,Yes,Yes,No,,Yes,Tue,Yes,Cold food
+25–34,Male,Hyderabad,₹15k–30k,Homemaker,Never,"Swiggy, Zomato","Dinner, Lunch",Indian,₹200–400,Delivery time,Both,Depends,Solo,3,4,20–30 min,Yes,Yes,No,,Maybe,Sat,No,"Poor packaging, High price, Limited choice"
+35–44,Male,Kolkata,₹15k–30k,Student,Never,Others,Lunch,"Italian, Fusion, Chinese",₹200–400,Discounts,Non-Veg,Combo,Solo,3,2,20–30 min,Yes,Yes,No,,Yes,Fri,No,Poor packaging
+45–54,Male,Mumbai,₹30k–50k,Working professional,Once a week,Direct,"Lunch, Breakfast",Indian,₹600+,Packaging,Non-Veg,A la carte,Family (3–4),3,4,<20 min,Sometimes,No,No,,Maybe,Mon,Yes,Cold food
+35–44,Female,Chennai,₹15k–30k,Student,Once a week,Others,Breakfast,Italian,₹100–200,Price,Veg,Combo,Solo,2,3,30–45 min,No,Yes,No,,Yes,Sun,Yes,Poor packaging
+18–24,Female,Pune,₹75k+,Student,Once a week,Direct,Dinner,Chinese,₹200–400,Packaging,Non-Veg,Combo,Solo,2,3,30–45 min,Sometimes,No,No,,Maybe,Fri,Yes,"Poor packaging, Limited choice"
+25–34,Male,Pune,₹50k–75k,Retired,Once a week,"Others, Zomato, Swiggy",Snacks,Chinese,₹200–400,Delivery time,Both,A la carte,2 people,5,1,30–45 min,Yes,No,No,,Yes,Sat,No,Cold food
+25–34,Male,Kolkata,₹75k+,Student,Rarely,Swiggy,Dinner,"Chinese, Italian, Fusion",₹100–200,"Quantity, Packaging, Price",Non-Veg,A la carte,2 people,5,4,20–30 min,Yes,Yes,Yes,5.0,No,Wed,No,"Long wait time, Limited choice"
+25–34,Male,Bangalore,₹15k–30k,Homemaker,2–3 times/week,Swiggy,"Snacks, Lunch, Breakfast","Continental, Indian",₹200–400,Packaging,Both,Depends,Solo,1,5,20–30 min,No,No,No,,Maybe,Sun,Yes,Limited choice
+35–44,Female,Kolkata,₹75k+,Working professional,Once a week,Others,Lunch,Italian,₹200–400,"Quantity, Delivery time, Discounts",Both,Combo,2 people,2,3,20–30 min,Yes,No,Yes,4.0,Yes,Fri,No,Long wait time
+45–54,Female,Chennai,₹30k–50k,Student,2–3 times/week,Others,"Dinner, Lunch, Snacks","Indian, Chinese",₹200–400,Quantity,Veg,Depends,Solo,3,4,<20 min,No,No,No,,Yes,Thu,Yes,Cold food
+45–54,Male,Mumbai,₹15k–30k,Other,Never,"Zomato, Swiggy, Others","Dinner, Snacks, Breakfast","Fusion, Italian, Chinese",₹100–200,Packaging,Veg,Combo,Solo,2,3,20–30 min,No,No,No,,Maybe,Fri,Yes,"Limited choice, Poor packaging, Cold food"
+25–34,Male,Bangalore,<₹15k,Working professional,2–3 times/week,"Swiggy, Others",Lunch,Indian,₹200–400,"Quantity, Price",Both,Combo,2 people,3,4,<20 min,Yes,Yes,No,,Yes,Sat,Yes,"Poor packaging, High price, Cold food"
+18–24,Male,Hyderabad,<₹15k,Retired,2–3 times/week,Zomato,Lunch,"Italian, Continental",₹200–400,Packaging,Non-Veg,A la carte,Family (3–4),2,1,<20 min,Sometimes,Yes,Yes,2.0,No,Sat,Yes,"Long wait time, High price, Limited choice"
+55+,Female,Delhi,₹30k–50k,Student,Once a week,Others,Dinner,Italian,₹200–400,Delivery time,Veg,Depends,Solo,3,4,30–45 min,Sometimes,No,Yes,2.0,Maybe,Thu,No,Limited choice
+35–44,Female,Hyderabad,₹30k–50k,Retired,Never,Direct,Breakfast,"Chinese, Continental, Indian",₹100–200,Delivery time,Veg,Combo,Family (3–4),2,4,<20 min,No,No,Yes,5.0,No,Thu,Yes,Long wait time
+18–24,Male,Hyderabad,₹15k–30k,Student,Rarely,Zomato,"Dinner, Breakfast",Fusion,₹600+,Quantity,Non-Veg,Combo,2 people,3,5,45+ min,Yes,No,No,,Yes,Fri,Yes,Poor packaging
+45–54,Male,Mumbai,₹30k–50k,Working professional,Once a week,Direct,Dinner,Indian,₹200–400,Discounts,Both,A la carte,Solo,1,3,20–30 min,Yes,Yes,No,,Yes,Sun,Yes,Poor packaging
+45–54,Male,Bangalore,₹15k–30k,Homemaker,Once a week,"Others, Zomato, Swiggy","Breakfast, Snacks, Lunch","Italian, Continental",₹200–400,Taste,Veg,Combo,2 people,3,4,45+ min,Yes,No,No,,Yes,Sat,Yes,Cold food
+25–34,Non-binary,Chennai,₹30k–50k,Retired,Once a week,Zomato,Snacks,Indian,₹200–400,Discounts,Veg,Depends,Solo,5,4,<20 min,Yes,Yes,No,,Yes,Thu,Yes,High price
+25–34,Male,Bangalore,₹30k–50k,Retired,Once a week,Swiggy,Lunch,"Indian, Fusion",₹100–200,Packaging,Both,Depends,Large group,3,5,20–30 min,Yes,Yes,No,,Yes,Thu,Yes,"Limited choice, High price"
+25–34,Female,Mumbai,₹50k–75k,Homemaker,2–3 times/week,Others,Snacks,Indian,₹200–400,Discounts,Both,Combo,Family (3–4),5,3,20–30 min,Sometimes,Yes,No,,Maybe,Fri,Yes,Poor packaging
+18–24,Female,Mumbai,₹50k–75k,Retired,Rarely,Zomato,Dinner,Continental,₹200–400,Quantity,Non-Veg,A la carte,Solo,4,3,30–45 min,No,Yes,Yes,1.0,Yes,Sun,Yes,Cold food
+25–34,Male,Delhi,₹30k–50k,Student,2–3 times/week,"Direct, Others",Lunch,"Chinese, Indian",₹200–400,Taste,Both,Depends,Solo,5,5,20–30 min,No,Yes,Yes,3.0,Maybe,Mon,No,Limited choice
+35–44,Male,Pune,₹30k–50k,Working professional,Rarely,Swiggy,Lunch,"Fusion, Chinese, Continental",₹200–400,Quantity,Non-Veg,Combo,Solo,4,1,20–30 min,Yes,No,No,,Maybe,Sat,No,"Cold food, Poor packaging, High price"
+<18,Male,Delhi,₹30k–50k,Working professional,2–3 times/week,Direct,Snacks,Continental,₹200–400,Price,Both,A la carte,Solo,4,2,30–45 min,Sometimes,Yes,No,,Maybe,Wed,Yes,Long wait time
+25–34,Female,Hyderabad,₹50k–75k,Working professional,Daily,Others,Dinner,Italian,₹100–200,Taste,Non-Veg,Combo,Solo,5,2,20–30 min,Yes,Yes,No,,Yes,Wed,Yes,High price
+25–34,Female,Delhi,₹15k–30k,Working professional,Daily,Swiggy,Dinner,Indian,₹200–400,Taste,Veg,A la carte,Solo,1,5,<20 min,Sometimes,Yes,No,,No,Mon,No,Cold food
+25–34,Female,Delhi,₹15k–30k,Working professional,Once a week,Others,"Breakfast, Snacks",Fusion,₹100–200,Price,Both,Combo,2 people,3,1,20–30 min,Sometimes,Yes,No,,Yes,Sun,Yes,High price
+45–54,Female,Chennai,<₹15k,Student,2–3 times/week,"Swiggy, Others, Zomato",Snacks,"Indian, Chinese",₹100–200,Packaging,Non-Veg,Depends,Solo,5,5,30–45 min,Sometimes,No,No,,Yes,Sun,Yes,Cold food
+25–34,Male,Hyderabad,₹30k–50k,Working professional,2–3 times/week,Zomato,Dinner,Indian,₹400–600,Price,Both,Combo,Family (3–4),4,4,20–30 min,Sometimes,Yes,Yes,1.0,No,Mon,Yes,Cold food
+25–34,Non-binary,Mumbai,₹30k–50k,Student,Once a week,Direct,Breakfast,Continental,₹200–400,Price,Non-Veg,Combo,Family (3–4),5,1,20–30 min,No,Yes,No,,Maybe,Fri,No,Poor packaging
+35–44,Female,Bangalore,₹50k–75k,Working professional,2–3 times/week,Zomato,Snacks,"Italian, Indian",₹200–400,"Price, Taste",Both,Depends,Solo,4,3,<20 min,Yes,No,No,,Yes,Tue,Yes,Cold food
+25–34,Male,Mumbai,₹15k–30k,Working professional,2–3 times/week,Direct,Dinner,Continental,₹200–400,Delivery time,Both,Combo,Family (3–4),5,3,20–30 min,Yes,No,Yes,5.0,Yes,Sat,Yes,High price
+18–24,Non-binary,Bangalore,₹30k–50k,Homemaker,Never,Swiggy,Breakfast,Chinese,₹400–600,"Discounts, Quantity, Delivery time",Veg,Combo,Solo,4,4,30–45 min,Yes,No,No,,Yes,Sat,Yes,Cold food
+25–34,Female,Hyderabad,₹50k–75k,Homemaker,2–3 times/week,Swiggy,Breakfast,"Continental, Chinese, Fusion",₹200–400,Taste,Both,Combo,Solo,4,4,20–30 min,Yes,No,No,,Maybe,Wed,No,"Limited choice, Long wait time, Cold food"
+18–24,Female,Mumbai,₹50k–75k,Working professional,Rarely,Swiggy,Lunch,"Chinese, Continental",₹200–400,Delivery time,Non-Veg,Combo,2 people,3,4,20–30 min,No,No,No,,Maybe,Tue,Yes,"Poor packaging, Limited choice, High price"
+18–24,Female,Delhi,₹30k–50k,Student,2–3 times/week,Zomato,Lunch,"Continental, Fusion, Chinese",₹100–200,Price,Both,Depends,Solo,5,1,<20 min,Yes,Yes,No,,Yes,Sat,Yes,Cold food
+25–34,Female,Delhi,₹30k–50k,Working professional,Daily,Swiggy,Dinner,Italian,₹600+,Packaging,Non-Veg,Depends,2 people,4,4,20–30 min,Sometimes,No,No,,Yes,Sat,Yes,"Cold food, High price"
+25–34,Female,Pune,₹15k–30k,Student,2–3 times/week,Zomato,Snacks,Italian,₹400–600,"Price, Taste",Both,Combo,Family (3–4),4,5,20–30 min,Yes,No,No,,Maybe,Mon,Yes,"High price, Cold food"
+45–54,Male,Kolkata,₹75k+,Working professional,Rarely,"Swiggy, Zomato, Direct",Lunch,Indian,₹400–600,Price,Non-Veg,Depends,Large group,4,4,20–30 min,No,Yes,No,,Yes,Fri,Yes,Poor packaging
+25–34,Male,Mumbai,₹15k–30k,Working professional,2–3 times/week,"Swiggy, Direct, Others",Dinner,Continental,₹100–200,Delivery time,Veg,A la carte,2 people,3,5,20–30 min,Sometimes,No,Yes,4.0,Maybe,Sat,Yes,"Cold food, Limited choice"
+25–34,Female,Chennai,₹75k+,Student,2–3 times/week,Direct,Snacks,"Continental, Fusion",₹100–200,Quantity,Veg,Depends,Family (3–4),1,3,45+ min,Yes,No,No,,Yes,Fri,Yes,"Cold food, High price"
+25–34,Male,Delhi,₹30k–50k,Working professional,2–3 times/week,"Others, Zomato","Lunch, Breakfast, Snacks",Italian,₹100–200,Delivery time,Non-Veg,Combo,Solo,5,5,<20 min,Sometimes,Yes,No,,Yes,Thu,No,Cold food
+<18,Male,Delhi,₹30k–50k,Other,2–3 times/week,Others,"Breakfast, Snacks, Lunch",Fusion,₹100–200,Price,Both,A la carte,Solo,3,3,20–30 min,Sometimes,Yes,Yes,1.0,No,Fri,Yes,Limited choice
+35–44,Male,Chennai,<₹15k,Other,Once a week,Others,Lunch,Fusion,₹400–600,Packaging,Both,A la carte,2 people,2,1,20–30 min,Yes,No,No,,Maybe,Fri,No,High price
+18–24,Male,Pune,₹30k–50k,Working professional,Once a week,Zomato,Lunch,"Indian, Chinese, Continental",<₹100,Price,Both,A la carte,Solo,2,5,20–30 min,No,Yes,No,,Yes,Fri,Yes,"Cold food, Limited choice, High price"
+55+,Female,Kolkata,₹30k–50k,Student,Once a week,"Others, Zomato",Dinner,Italian,<₹100,Delivery time,Veg,A la carte,Solo,4,5,30–45 min,Yes,Yes,No,,Yes,Sun,No,"Limited choice, Cold food"
+18–24,Female,Bangalore,₹15k–30k,Student,Rarely,Others,"Breakfast, Lunch",Indian,₹100–200,Price,Non-Veg,Combo,Solo,4,4,20–30 min,Sometimes,No,No,,Yes,Tue,No,High price
+25–34,Male,Delhi,₹30k–50k,Working professional,Once a week,Direct,Snacks,Fusion,₹100–200,Price,Veg,Depends,2 people,4,3,<20 min,No,Yes,No,,No,Fri,Yes,Poor packaging
+18–24,Male,Chennai,₹75k+,Retired,Once a week,"Others, Swiggy, Direct",Lunch,Fusion,₹100–200,Taste,Both,A la carte,Solo,4,3,30–45 min,No,Yes,No,,Maybe,Tue,No,"Limited choice, Long wait time"
+55+,Male,Delhi,₹30k–50k,Student,Daily,Swiggy,"Snacks, Lunch",Fusion,₹200–400,Taste,Both,Depends,2 people,3,4,20–30 min,Sometimes,No,No,,Maybe,Wed,Yes,"Poor packaging, Limited choice"
+25–34,Female,Bangalore,₹50k–75k,Homemaker,2–3 times/week,Swiggy,"Dinner, Lunch",Italian,₹200–400,Taste,Non-Veg,Combo,Solo,3,5,<20 min,Yes,No,No,,Yes,Sat,No,"Cold food, Long wait time, High price"
+25–34,Female,Delhi,<₹15k,Student,2–3 times/week,Zomato,Breakfast,Continental,<₹100,Discounts,Veg,A la carte,Solo,1,2,20–30 min,Sometimes,Yes,No,,Maybe,Sun,Yes,"Cold food, Poor packaging, High price"
+18–24,Male,Hyderabad,₹30k–50k,Other,Once a week,Swiggy,"Snacks, Breakfast",Chinese,₹200–400,Delivery time,Veg,Depends,Solo,4,5,20–30 min,Sometimes,No,No,,Yes,Tue,Yes,Cold food
+35–44,Female,Delhi,₹15k–30k,Working professional,Never,Direct,Breakfast,Fusion,₹200–400,Price,Both,A la carte,Solo,1,3,30–45 min,Sometimes,Yes,Yes,2.0,Yes,Sun,Yes,"Cold food, Limited choice, Poor packaging"
+18–24,Female,Mumbai,₹30k–50k,Homemaker,Rarely,"Direct, Swiggy, Others",Dinner,Continental,₹100–200,"Discounts, Delivery time",Both,Depends,Family (3–4),4,5,20–30 min,Sometimes,Yes,No,,Maybe,Thu,Yes,High price
+45–54,Female,Pune,₹75k+,Working professional,Rarely,"Direct, Swiggy, Others","Dinner, Snacks, Lunch",Italian,₹200–400,Discounts,Both,Depends,Solo,3,5,20–30 min,Yes,Yes,No,,Yes,Thu,No,Poor packaging
+18–24,Female,Mumbai,₹30k–50k,Working professional,2–3 times/week,Zomato,Dinner,Chinese,₹200–400,Discounts,Veg,Combo,Solo,3,3,20–30 min,Sometimes,No,No,,Yes,Tue,Yes,"Limited choice, Cold food"
+18–24,Male,Bangalore,<₹15k,Student,Daily,"Others, Zomato, Swiggy","Breakfast, Dinner, Snacks","Fusion, Chinese, Continental",₹200–400,Packaging,Both,A la carte,2 people,5,3,20–30 min,Yes,Yes,No,,Yes,Fri,Yes,"Cold food, Limited choice"
+<18,Female,Delhi,₹30k–50k,Student,Once a week,Direct,Breakfast,"Chinese, Fusion, Continental",₹200–400,Price,Both,Combo,Solo,1,5,45+ min,No,Yes,No,,Maybe,Fri,No,Poor packaging
+25–34,Male,Mumbai,₹30k–50k,Retired,Once a week,"Zomato, Direct","Snacks, Lunch",Continental,<₹100,"Taste, Discounts",Non-Veg,A la carte,Solo,4,4,<20 min,Yes,No,No,,No,Thu,No,"Limited choice, Cold food, Long wait time"
+25–34,Female,Mumbai,₹30k–50k,Retired,Once a week,Zomato,Lunch,"Italian, Continental, Indian",₹600+,"Price, Quantity, Discounts",Non-Veg,Combo,Solo,1,4,45+ min,Sometimes,Yes,No,,Yes,Fri,No,Long wait time
+18–24,Female,Mumbai,₹50k–75k,Retired,2–3 times/week,Swiggy,Dinner,Fusion,₹400–600,"Discounts, Taste",Veg,Depends,Large group,1,4,20–30 min,Sometimes,No,No,,Maybe,Fri,No,Cold food
+35–44,Female,Pune,₹50k–75k,Working professional,2–3 times/week,Swiggy,Breakfast,"Italian, Chinese",₹400–600,"Taste, Delivery time",Non-Veg,A la carte,2 people,3,3,30–45 min,Sometimes,Yes,No,,Maybe,Fri,Yes,"Limited choice, Long wait time"
+25–34,Female,Delhi,₹30k–50k,Homemaker,2–3 times/week,"Direct, Swiggy, Others","Lunch, Breakfast","Indian, Fusion",<₹100,"Discounts, Delivery time, Packaging",Both,A la carte,Solo,1,5,20–30 min,Yes,No,No,,Maybe,Thu,Yes,Long wait time
+25–34,Male,Kolkata,₹30k–50k,Student,Once a week,Direct,Lunch,Italian,₹400–600,"Discounts, Price, Delivery time",Non-Veg,Combo,Solo,4,3,20–30 min,Sometimes,Yes,No,,Yes,Sun,Yes,High price
+25–34,Female,Bangalore,₹15k–30k,Working professional,2–3 times/week,Zomato,"Breakfast, Dinner",Fusion,₹400–600,Taste,Both,Depends,Solo,3,5,30–45 min,Sometimes,Yes,No,,Yes,Sat,No,"Long wait time, Limited choice, Cold food"
+25–34,Prefer not to say,Bangalore,₹15k–30k,Working professional,Daily,Zomato,"Dinner, Snacks, Lunch",Continental,₹400–600,"Quantity, Taste",Non-Veg,Combo,Solo,1,3,30–45 min,No,Yes,Yes,5.0,Yes,Wed,Yes,Cold food
+25–34,Female,Bangalore,₹30k–50k,Working professional,2–3 times/week,"Swiggy, Others, Direct",Dinner,"Continental, Italian, Fusion",<₹100,Packaging,Veg,Combo,2 people,1,4,20–30 min,Yes,No,Yes,1.0,Maybe,Thu,Yes,Cold food
+18–24,Male,Bangalore,₹30k–50k,Working professional,Daily,Direct,Snacks,Indian,₹200–400,Delivery time,Non-Veg,Combo,Family (3–4),4,3,20–30 min,No,No,Yes,1.0,Maybe,Sat,Yes,High price
+18–24,Male,Chennai,₹30k–50k,Student,Once a week,Others,Lunch,Continental,₹600+,Quantity,Non-Veg,Depends,Solo,4,3,20–30 min,Yes,Yes,No,,Maybe,Tue,Yes,Poor packaging
+45–54,Male,Delhi,₹30k–50k,Working professional,Rarely,Zomato,Dinner,Indian,₹200–400,Packaging,Non-Veg,Depends,Family (3–4),3,3,45+ min,No,No,No,,Yes,Sat,Yes,High price
+45–54,Female,Delhi,<₹15k,Homemaker,2–3 times/week,Direct,Breakfast,Chinese,₹200–400,Quantity,Veg,A la carte,Solo,3,4,20–30 min,Yes,Yes,No,,Yes,Thu,Yes,Poor packaging
+25–34,Female,Pune,₹30k–50k,Working professional,Once a week,Direct,"Dinner, Breakfast, Snacks",Italian,₹400–600,Delivery time,Non-Veg,Depends,Solo,4,4,30–45 min,Yes,No,Yes,4.0,Yes,Fri,Yes,Long wait time
+18–24,Male,Pune,₹15k–30k,Student,Once a week,Others,Lunch,"Continental, Chinese, Indian",₹200–400,Price,Veg,Combo,Solo,4,5,30–45 min,Yes,No,No,,Yes,Wed,Yes,Long wait time
+25–34,Female,Pune,₹15k–30k,Student,2–3 times/week,Others,Snacks,Chinese,₹200–400,"Price, Delivery time",Veg,Depends,Solo,2,3,30–45 min,Yes,No,No,,No,Sun,No,High price
+25–34,Female,Bangalore,₹50k–75k,Working professional,Rarely,Swiggy,Breakfast,Italian,₹200–400,Taste,Non-Veg,Combo,Family (3–4),4,4,20–30 min,Yes,No,No,,Maybe,Sun,No,High price
+<18,Female,Chennai,<₹15k,Working professional,2–3 times/week,Others,Dinner,"Italian, Continental, Chinese",₹400–600,Packaging,Non-Veg,Combo,Solo,4,4,20–30 min,Sometimes,No,No,,No,Sun,Yes,Cold food
+18–24,Female,Bangalore,₹30k–50k,Working professional,Once a week,Direct,"Snacks, Breakfast","Italian, Continental",<₹100,Discounts,Both,Combo,Solo,4,3,45+ min,No,Yes,Yes,4.0,No,Tue,No,Cold food
+35–44,Female,Bangalore,₹15k–30k,Working professional,Rarely,Direct,"Lunch, Dinner",Italian,₹200–400,Taste,Non-Veg,A la carte,Large group,4,3,30–45 min,Yes,No,No,,No,Sat,No,"Long wait time, Poor packaging, Cold food"
+35–44,Female,Delhi,₹50k–75k,Working professional,Daily,Direct,Lunch,Fusion,₹200–400,Price,Both,Depends,Family (3–4),5,4,30–45 min,No,No,Yes,4.0,Yes,Fri,Yes,"Long wait time, Poor packaging, Cold food"
+<18,Male,Bangalore,₹30k–50k,Working professional,2–3 times/week,Direct,Breakfast,"Continental, Chinese, Fusion",₹200–400,Discounts,Non-Veg,Combo,Family (3–4),2,3,20–30 min,No,No,No,,Maybe,Sat,No,"Long wait time, High price"
+18–24,Female,Mumbai,₹15k–30k,Homemaker,2–3 times/week,Swiggy,Dinner,Chinese,₹200–400,Delivery time,Both,Depends,Family (3–4),5,3,30–45 min,Sometimes,Yes,No,,No,Wed,No,High price
+18–24,Female,Delhi,₹30k–50k,Working professional,Once a week,Zomato,"Dinner, Breakfast",Indian,₹400–600,Packaging,Veg,A la carte,Solo,3,4,20–30 min,Yes,Yes,No,,Yes,Sat,Yes,Long wait time
+35–44,Female,Pune,₹50k–75k,Working professional,2–3 times/week,"Direct, Swiggy",Breakfast,"Indian, Fusion, Italian",₹400–600,Discounts,Both,Combo,Family (3–4),4,3,20–30 min,Yes,Yes,No,,No,Sun,Yes,"High price, Poor packaging, Long wait time"
+<18,Female,Delhi,₹75k+,Homemaker,2–3 times/week,"Swiggy, Direct","Lunch, Snacks",Indian,<₹100,Quantity,Non-Veg,A la carte,2 people,1,4,30–45 min,Sometimes,No,Yes,3.0,No,Wed,Yes,"Poor packaging, Long wait time"
+18–24,Female,Mumbai,₹15k–30k,Student,Never,Zomato,Lunch,Italian,2000,Quantity,Both,A la carte,Family (3–4),3,5,20–30 min,Yes,Yes,No,,Yes,Wed,No,Poor packaging
+35–44,Male,Mumbai,₹50k–75k,Student,2–3 times/week,"Direct, Swiggy",Lunch,"Italian, Chinese",<₹100,Price,Non-Veg,Depends,Family (3–4),4,4,30–45 min,Yes,Yes,No,,Yes,Tue,Yes,Cold food
+18–24,Male,Pune,₹75k+,Retired,2–3 times/week,Others,"Breakfast, Lunch",Chinese,₹100–200,Delivery time,Veg,A la carte,Solo,4,4,20–30 min,Yes,Yes,Yes,5.0,Yes,Wed,No,Poor packaging
+35–44,Male,Bangalore,₹75k+,Working professional,2–3 times/week,Swiggy,"Lunch, Snacks, Breakfast",Fusion,₹200–400,Taste,Both,A la carte,Family (3–4),1,2,20–30 min,Yes,Yes,No,,Yes,Fri,Yes,Long wait time
+18–24,Male,Bangalore,₹30k–50k,Working professional,Rarely,Direct,Lunch,"Indian, Fusion",₹400–600,Packaging,Veg,Combo,Solo,3,5,20–30 min,Sometimes,Yes,No,,Yes,Sat,Yes,High price
+18–24,Female,Chennai,₹30k–50k,Student,Rarely,Others,Snacks,Continental,₹400–600,Delivery time,Non-Veg,A la carte,Solo,1,3,20–30 min,Yes,Yes,No,,No,Wed,Yes,High price
+18–24,Prefer not to say,Chennai,₹30k–50k,Working professional,2–3 times/week,Others,Dinner,"Italian, Fusion, Chinese",₹100–200,Delivery time,Veg,Depends,Solo,5,4,20–30 min,Sometimes,No,No,,Yes,Fri,Yes,Limited choice
+35–44,Male,Delhi,₹50k–75k,Working professional,Daily,Direct,Breakfast,Continental,<₹100,Discounts,Both,Combo,Family (3–4),5,5,30–45 min,Sometimes,No,Yes,5.0,No,Fri,No,"Poor packaging, Cold food"
+45–54,Male,Hyderabad,₹30k–50k,Student,2–3 times/week,Zomato,Snacks,Chinese,₹200–400,"Packaging, Price, Taste",Both,Depends,Solo,1,4,30–45 min,No,Yes,No,,Maybe,Wed,No,Cold food
+35–44,Female,Chennai,₹30k–50k,Working professional,2–3 times/week,Others,Dinner,Italian,₹200–400,Taste,Non-Veg,A la carte,2 people,5,4,20–30 min,Yes,No,No,,No,Fri,Yes,"Poor packaging, Limited choice, Cold food"
+25–34,Male,Hyderabad,₹30k–50k,Working professional,Once a week,Swiggy,Snacks,Chinese,₹100–200,Price,Both,Combo,Solo,5,3,20–30 min,Yes,No,No,,No,Tue,Yes,Long wait time
+35–44,Female,Mumbai,₹50k–75k,Working professional,2–3 times/week,Zomato,Breakfast,"Chinese, Indian, Continental",₹400–600,"Discounts, Quantity",Non-Veg,Depends,Large group,3,2,30–45 min,No,Yes,No,,Maybe,Fri,No,Poor packaging
+18–24,Female,Pune,₹50k–75k,Student,Once a week,"Zomato, Others",Snacks,Continental,₹400–600,"Taste, Price, Quantity",Non-Veg,A la carte,Solo,4,4,30–45 min,Yes,Yes,No,,No,Tue,No,Poor packaging
+18–24,Female,Bangalore,₹15k–30k,Student,Rarely,Others,Lunch,Indian,₹200–400,Taste,Both,Combo,Family (3–4),3,1,30–45 min,No,No,Yes,2.0,Yes,Sat,No,Long wait time
+45–54,Male,Delhi,₹50k–75k,Working professional,2–3 times/week,Zomato,"Snacks, Lunch, Breakfast","Indian, Continental",₹400–600,Delivery time,Both,Combo,Family (3–4),4,4,30–45 min,Yes,Yes,No,,Yes,Tue,Yes,Cold food
+<18,Male,Bangalore,₹30k–50k,Student,Never,Others,"Snacks, Breakfast",Chinese,₹100–200,Discounts,Both,Combo,Solo,3,1,20–30 min,Sometimes,No,No,,Maybe,Sun,No,Cold food
+18–24,Female,Mumbai,₹50k–75k,Retired,2–3 times/week,"Others, Direct","Dinner, Snacks, Breakfast","Chinese, Continental, Indian",₹200–400,Quantity,Veg,Depends,Solo,3,5,20–30 min,No,Yes,No,,Maybe,Sat,No,Long wait time
+18–24,Female,Mumbai,₹30k–50k,Student,2–3 times/week,Others,Snacks,Continental,₹200–400,Discounts,Non-Veg,A la carte,2 people,3,3,20–30 min,No,Yes,No,,Maybe,Thu,Yes,High price
+<18,Male,Chennai,₹30k–50k,Working professional,2–3 times/week,"Swiggy, Direct",Snacks,Fusion,₹100–200,Packaging,Veg,Depends,Family (3–4),2,4,20–30 min,Sometimes,No,Yes,2.0,No,Thu,Yes,Poor packaging
+18–24,Female,Mumbai,₹75k+,Student,Once a week,"Others, Direct, Zomato",Lunch,Fusion,₹400–600,Delivery time,Non-Veg,Combo,Family (3–4),4,4,30–45 min,Yes,Yes,Yes,5.0,Maybe,Wed,Yes,"Poor packaging, Limited choice, High price"
+25–34,Male,Bangalore,₹15k–30k,Working professional,2–3 times/week,"Others, Direct, Swiggy",Breakfast,"Indian, Italian, Chinese",₹200–400,Taste,Non-Veg,Combo,Solo,3,4,<20 min,Yes,No,Yes,1.0,Yes,Sat,No,Poor packaging
+25–34,Female,Bangalore,₹50k–75k,Retired,Once a week,"Swiggy, Zomato","Breakfast, Dinner, Lunch",Continental,₹200–400,Quantity,Both,Combo,Family (3–4),3,3,45+ min,Yes,Yes,No,,No,Thu,Yes,Limited choice
+45–54,Male,Mumbai,₹30k–50k,Student,2–3 times/week,Direct,Breakfast,Continental,₹100–200,Delivery time,Both,A la carte,Solo,5,4,30–45 min,Yes,Yes,No,,Maybe,Sat,Yes,Poor packaging
+35–44,Female,Kolkata,₹30k–50k,Other,2–3 times/week,Zomato,"Snacks, Breakfast, Dinner","Italian, Indian, Fusion",<₹100,Packaging,Non-Veg,Depends,2 people,3,3,30–45 min,No,Yes,No,,Yes,Mon,Yes,Poor packaging
+25–34,Male,Delhi,₹15k–30k,Working professional,Daily,Others,Dinner,"Fusion, Italian",₹100–200,Quantity,Veg,A la carte,Family (3–4),3,3,45+ min,Yes,Yes,Yes,5.0,Yes,Tue,Yes,Long wait time
+18–24,Male,Delhi,₹30k–50k,Homemaker,Once a week,"Zomato, Swiggy",Breakfast,Chinese,₹200–400,Quantity,Both,Combo,Solo,5,3,20–30 min,Yes,Yes,Yes,3.0,Yes,Thu,Yes,Cold food
+25–34,Male,Delhi,₹15k–30k,Working professional,Once a week,Direct,Breakfast,Italian,₹200–400,"Price, Quantity, Taste",Veg,Depends,Family (3–4),5,4,30–45 min,Sometimes,Yes,No,,Maybe,Tue,No,Poor packaging
+25–34,Male,Delhi,<₹15k,Retired,2–3 times/week,Swiggy,Lunch,Fusion,₹100–200,Packaging,Both,Depends,2 people,2,3,20–30 min,Yes,Yes,No,,Yes,Fri,Yes,Poor packaging
+18–24,Female,Mumbai,₹15k–30k,Working professional,Rarely,Others,Lunch,Indian,₹200–400,"Discounts, Price, Delivery time",Veg,Combo,Family (3–4),3,5,<20 min,No,No,No,,No,Mon,Yes,High price
+25–34,Prefer not to say,Hyderabad,<₹15k,Working professional,Daily,Zomato,Lunch,Fusion,₹200–400,"Discounts, Delivery time",Non-Veg,Depends,Solo,5,4,30–45 min,Yes,Yes,No,,Yes,Sun,Yes,"High price, Limited choice, Long wait time"
+25–34,Male,Kolkata,₹75k+,Student,2–3 times/week,"Swiggy, Direct, Zomato",Breakfast,Italian,₹200–400,Discounts,Both,Combo,Solo,3,3,<20 min,Yes,No,No,,Yes,Sat,Yes,Poor packaging
+25–34,Male,Delhi,₹75k+,Student,2–3 times/week,"Swiggy, Direct",Dinner,"Continental, Italian",₹200–400,Delivery time,Veg,Combo,Family (3–4),3,4,45+ min,No,Yes,Yes,2.0,Maybe,Wed,Yes,High price
+25–34,Female,Hyderabad,₹30k–50k,Retired,Once a week,Swiggy,Lunch,Indian,₹400–600,Discounts,Non-Veg,Combo,Solo,2,5,30–45 min,Sometimes,Yes,Yes,2.0,Yes,Fri,Yes,Limited choice
+18–24,Female,Hyderabad,₹50k–75k,Working professional,Never,Swiggy,Lunch,"Chinese, Continental, Indian",₹200–400,Delivery time,Non-Veg,A la carte,Solo,2,1,30–45 min,Yes,No,Yes,2.0,Yes,Fri,Yes,"Cold food, Poor packaging"
+45–54,Female,Chennai,₹15k–30k,Working professional,Daily,"Others, Swiggy, Direct",Breakfast,Italian,₹200–400,"Delivery time, Discounts",Both,A la carte,Large group,4,4,20–30 min,Yes,Yes,Yes,5.0,Yes,Sat,No,"Cold food, Long wait time, Limited choice"
+35–44,Male,Bangalore,₹30k–50k,Homemaker,Once a week,"Swiggy, Zomato",Breakfast,Indian,₹100–200,"Discounts, Quantity, Packaging",Both,Combo,Solo,4,4,30–45 min,Yes,Yes,Yes,2.0,No,Thu,Yes,Limited choice
+18–24,Male,Delhi,₹50k–75k,Working professional,2–3 times/week,Direct,Dinner,Fusion,₹100–200,Taste,Veg,Combo,Large group,5,3,<20 min,Yes,Yes,No,,Yes,Mon,No,Cold food
+45–54,Female,Delhi,₹75k+,Other,Once a week,Others,Dinner,"Chinese, Indian",<₹100,Delivery time,Veg,Depends,Solo,4,5,30–45 min,Yes,No,No,,No,Wed,Yes,Limited choice
+25–34,Male,Hyderabad,₹30k–50k,Homemaker,Never,Direct,Dinner,Indian,₹200–400,Price,Both,Depends,Solo,2,3,20–30 min,No,No,No,,Maybe,Fri,Yes,"Poor packaging, Long wait time"
+45–54,Female,Chennai,₹50k–75k,Working professional,Once a week,Zomato,"Snacks, Dinner, Breakfast",Fusion,₹100–200,"Quantity, Packaging, Price",Non-Veg,Depends,Family (3–4),1,3,30–45 min,Yes,Yes,No,,Yes,Sun,No,High price
+35–44,Male,Mumbai,₹15k–30k,Retired,2–3 times/week,"Others, Direct, Swiggy",Snacks,Italian,₹100–200,"Taste, Packaging",Both,Combo,2 people,5,5,20–30 min,No,Yes,No,,Yes,Sun,Yes,Cold food
+25–34,Female,Delhi,₹75k+,Student,Once a week,"Zomato, Others",Breakfast,Italian,₹200–400,Taste,Veg,Combo,2 people,3,4,<20 min,No,No,Yes,2.0,Yes,Tue,No,"Long wait time, High price"
+<18,Male,Pune,<₹15k,Working professional,Daily,Zomato,Dinner,Indian,₹100–200,Packaging,Veg,Combo,2 people,3,5,20–30 min,Yes,Yes,No,,No,Sat,Yes,Cold food
+18–24,Female,Chennai,₹30k–50k,Working professional,Daily,Direct,"Dinner, Snacks",Fusion,₹100–200,Packaging,Both,Combo,Family (3–4),5,4,20–30 min,Yes,Yes,No,,Yes,Sun,Yes,Long wait time
+25–34,Female,Kolkata,₹30k–50k,Working professional,Daily,Swiggy,Breakfast,Fusion,₹100–200,Taste,Veg,A la carte,Solo,3,4,30–45 min,Sometimes,Yes,No,,No,Mon,Yes,Poor packaging
+25–34,Female,Chennai,₹30k–50k,Homemaker,2–3 times/week,Others,Dinner,Continental,₹200–400,Packaging,Both,A la carte,Solo,2,5,20–30 min,Yes,Yes,No,,Maybe,Sat,No,High price
+18–24,Male,Delhi,₹15k–30k,Retired,Rarely,"Others, Zomato, Direct",Snacks,"Indian, Fusion",₹100–200,"Price, Taste, Packaging",Veg,Depends,Solo,5,2,20–30 min,Sometimes,Yes,Yes,5.0,Yes,Fri,No,Cold food
+18–24,Female,Bangalore,₹75k+,Working professional,Once a week,Others,Snacks,Italian,₹200–400,Delivery time,Veg,A la carte,2 people,5,4,20–30 min,Yes,No,No,,No,Sat,Yes,Cold food
+35–44,Female,Hyderabad,₹15k–30k,Working professional,2–3 times/week,"Zomato, Swiggy, Others",Dinner,Fusion,₹200–400,Packaging,Both,Combo,Solo,1,4,20–30 min,No,Yes,Yes,1.0,Yes,Fri,Yes,Limited choice
+55+,Female,Mumbai,₹30k–50k,Other,Once a week,"Swiggy, Direct, Others","Snacks, Dinner, Lunch",Fusion,₹200–400,Delivery time,Non-Veg,Combo,Solo,5,2,20–30 min,Yes,Yes,No,,No,Sun,Yes,"Poor packaging, Cold food, High price"
+25–34,Female,Bangalore,₹15k–30k,Working professional,Never,Zomato,Snacks,"Italian, Fusion, Indian",₹200–400,Packaging,Both,A la carte,Solo,3,4,30–45 min,Yes,No,No,,Yes,Wed,No,Cold food
+18–24,Female,Hyderabad,₹15k–30k,Working professional,2–3 times/week,"Direct, Others",Dinner,Chinese,₹400–600,Discounts,Veg,Combo,Solo,3,2,20–30 min,Yes,Yes,Yes,2.0,No,Sat,Yes,Limited choice
+18–24,Female,Mumbai,₹30k–50k,Working professional,Daily,Direct,Dinner,Italian,2000,Packaging,Both,Combo,Solo,5,4,<20 min,Yes,Yes,Yes,2.0,No,Wed,Yes,Long wait time
+<18,Male,Chennai,₹30k–50k,Retired,Daily,Swiggy,Snacks,Fusion,₹100–200,Packaging,Both,Combo,2 people,5,4,20–30 min,Sometimes,Yes,Yes,2.0,Yes,Thu,Yes,Long wait time
+45–54,Female,Bangalore,₹15k–30k,Working professional,Once a week,Others,Snacks,"Italian, Chinese",₹100–200,Taste,Non-Veg,Combo,Solo,2,5,20–30 min,No,No,Yes,3.0,Maybe,Sun,No,Limited choice
+18–24,Female,Kolkata,₹15k–30k,Homemaker,Once a week,Zomato,Breakfast,"Indian, Continental, Fusion",₹100–200,Packaging,Both,Combo,Family (3–4),2,3,20–30 min,Yes,Yes,No,,No,Sat,Yes,"Cold food, Poor packaging, Limited choice"
+25–34,Male,Mumbai,₹30k–50k,Homemaker,Once a week,Swiggy,Snacks,"Continental, Indian",₹100–200,Taste,Both,Depends,2 people,1,4,20–30 min,No,Yes,No,,Yes,Thu,No,Long wait time
+18–24,Male,Delhi,₹50k–75k,Working professional,2–3 times/week,Others,Breakfast,"Italian, Chinese, Indian",₹100–200,Delivery time,Non-Veg,Depends,Solo,3,3,30–45 min,Sometimes,No,Yes,5.0,Maybe,Fri,No,Long wait time
+25–34,Male,Hyderabad,₹50k–75k,Working professional,Once a week,Direct,Lunch,"Fusion, Continental",₹200–400,Price,Non-Veg,Combo,2 people,1,4,<20 min,Sometimes,No,No,,Yes,Mon,Yes,Poor packaging
+35–44,Female,Delhi,<₹15k,Homemaker,Once a week,Others,Snacks,Continental,₹200–400,Packaging,Non-Veg,Combo,Solo,3,4,20–30 min,Yes,No,No,,Maybe,Wed,Yes,Long wait time
+35–44,Female,Hyderabad,₹30k–50k,Working professional,Rarely,Direct,Dinner,Fusion,₹100–200,Discounts,Veg,Depends,Family (3–4),1,4,20–30 min,Sometimes,Yes,Yes,2.0,Yes,Sat,Yes,"Poor packaging, Cold food"
+18–24,Female,Chennai,₹15k–30k,Homemaker,Never,Direct,Lunch,Continental,₹200–400,"Discounts, Delivery time, Packaging",Non-Veg,Combo,Large group,3,5,30–45 min,Yes,Yes,Yes,3.0,No,Fri,Yes,Limited choice
+<18,Female,Mumbai,<₹15k,Retired,2–3 times/week,Swiggy,Snacks,Italian,₹100–200,Packaging,Non-Veg,Combo,2 people,1,5,45+ min,No,Yes,No,,Yes,Fri,Yes,Poor packaging
+18–24,Male,Bangalore,₹30k–50k,Working professional,2–3 times/week,Direct,Dinner,"Chinese, Italian, Continental",₹100–200,Packaging,Non-Veg,Combo,2 people,4,2,20–30 min,No,Yes,Yes,1.0,Yes,Sat,No,Limited choice
+45–54,Male,Bangalore,₹30k–50k,Homemaker,Once a week,Swiggy,Snacks,Fusion,₹200–400,"Delivery time, Packaging",Both,Combo,Solo,2,3,45+ min,Sometimes,No,No,,Yes,Thu,No,"Long wait time, Limited choice, Cold food"
+45–54,Male,Delhi,₹15k–30k,Homemaker,Daily,Direct,"Dinner, Lunch, Snacks",Indian,<₹100,Price,Non-Veg,Depends,Solo,3,4,20–30 min,Sometimes,Yes,Yes,1.0,Maybe,Mon,No,High price
+25–34,Male,Pune,₹15k–30k,Homemaker,Rarely,Swiggy,"Snacks, Lunch",Indian,<₹100,Price,Both,Depends,Family (3–4),5,4,<20 min,Sometimes,No,No,,Maybe,Thu,No,High price
+25–34,Male,Chennai,<₹15k,Working professional,Once a week,Others,"Snacks, Dinner, Lunch",Fusion,₹200–400,"Taste, Discounts",Veg,Combo,Solo,4,3,20–30 min,Yes,Yes,No,,No,Sun,Yes,"High price, Limited choice"
+35–44,Male,Hyderabad,₹50k–75k,Student,Once a week,"Swiggy, Direct",Dinner,Chinese,₹400–600,"Taste, Packaging",Non-Veg,Combo,Solo,2,4,20–30 min,Sometimes,Yes,No,,Maybe,Sun,Yes,"High price, Long wait time"
+18–24,Female,Hyderabad,₹75k+,Working professional,Daily,Direct,Breakfast,Continental,₹200–400,Packaging,Both,Combo,Solo,1,3,20–30 min,Yes,No,No,,Maybe,Thu,Yes,Cold food
+45–54,Female,Bangalore,₹15k–30k,Working professional,2–3 times/week,"Zomato, Others, Swiggy","Breakfast, Snacks, Lunch",Chinese,<₹100,"Quantity, Price, Delivery time",Non-Veg,Combo,2 people,4,3,<20 min,Yes,Yes,No,,No,Mon,Yes,"Long wait time, High price"
+25–34,Prefer not to say,Pune,₹15k–30k,Working professional,Once a week,Others,"Snacks, Breakfast, Dinner",Chinese,₹400–600,Quantity,Non-Veg,Depends,Solo,3,5,20–30 min,No,No,Yes,3.0,No,Fri,Yes,"High price, Long wait time"
+25–34,Female,Hyderabad,₹50k–75k,Homemaker,2–3 times/week,Others,"Breakfast, Dinner","Continental, Chinese, Indian",₹200–400,Taste,Veg,A la carte,Family (3–4),4,3,20–30 min,No,No,No,,Yes,Sat,Yes,Cold food
+25–34,Female,Hyderabad,₹75k+,Working professional,2–3 times/week,Swiggy,"Snacks, Dinner, Lunch",Indian,₹200–400,"Price, Packaging, Quantity",Non-Veg,A la carte,Solo,3,1,<20 min,No,Yes,No,,Maybe,Wed,No,Limited choice
+<18,Male,Pune,₹30k–50k,Working professional,2–3 times/week,"Others, Zomato","Breakfast, Snacks, Dinner",Indian,₹400–600,Price,Veg,Depends,Solo,3,2,20–30 min,No,Yes,No,,Maybe,Fri,No,Long wait time
+18–24,Female,Delhi,<₹15k,Student,Daily,Zomato,"Breakfast, Dinner, Lunch","Italian, Indian",₹200–400,Price,Both,Depends,2 people,3,5,30–45 min,Sometimes,Yes,No,,Yes,Sun,No,Long wait time
+35–44,Female,Chennai,<₹15k,Homemaker,Rarely,"Direct, Zomato","Lunch, Dinner, Breakfast","Fusion, Chinese",₹100–200,Packaging,Non-Veg,Depends,Solo,4,5,20–30 min,Yes,No,Yes,1.0,No,Fri,Yes,"Poor packaging, Limited choice"
+18–24,Male,Mumbai,₹30k–50k,Working professional,2–3 times/week,Others,Breakfast,Fusion,₹200–400,Quantity,Both,Combo,2 people,5,4,30–45 min,Yes,Yes,No,,Maybe,Thu,No,"Long wait time, Poor packaging, Limited choice"
+25–34,Male,Delhi,₹30k–50k,Working professional,Rarely,"Direct, Others, Zomato",Snacks,"Fusion, Italian, Indian",₹200–400,Quantity,Both,Combo,Solo,1,3,30–45 min,Sometimes,No,No,,Yes,Fri,Yes,"Poor packaging, High price"
+18–24,Female,Delhi,<₹15k,Working professional,2–3 times/week,"Zomato, Direct, Others",Dinner,Continental,₹200–400,Packaging,Non-Veg,A la carte,Solo,3,5,20–30 min,Yes,Yes,No,,Yes,Tue,Yes,Long wait time
+25–34,Male,Kolkata,₹30k–50k,Homemaker,Daily,Swiggy,Dinner,"Italian, Indian, Chinese",₹200–400,Delivery time,Non-Veg,Combo,Solo,1,4,20–30 min,No,No,No,,Yes,Tue,Yes,High price
+18–24,Female,Pune,<₹15k,Working professional,2–3 times/week,"Zomato, Others, Direct",Snacks,Indian,₹400–600,Taste,Both,Depends,Family (3–4),3,5,20–30 min,No,No,Yes,4.0,Yes,Sun,Yes,"Long wait time, High price"
+25–34,Female,Hyderabad,₹50k–75k,Working professional,Rarely,Swiggy,Lunch,"Indian, Italian",₹400–600,Packaging,Both,A la carte,2 people,5,4,20–30 min,No,Yes,No,,Yes,Wed,No,High price
+35–44,Male,Hyderabad,₹15k–30k,Other,Rarely,"Direct, Zomato, Others",Lunch,"Fusion, Italian",₹400–600,Discounts,Veg,Depends,Family (3–4),3,3,20–30 min,No,Yes,No,,Yes,Thu,Yes,"Cold food, Long wait time"
+18–24,Male,Bangalore,<₹15k,Homemaker,Once a week,Zomato,Lunch,Indian,₹400–600,Discounts,Non-Veg,Combo,Solo,5,4,20–30 min,Yes,Yes,No,,Yes,Fri,Yes,"Poor packaging, Long wait time, Limited choice"
+25–34,Male,Pune,₹30k–50k,Other,Rarely,"Swiggy, Zomato","Snacks, Dinner","Continental, Italian, Fusion",₹400–600,"Price, Packaging, Taste",Non-Veg,Depends,2 people,4,3,<20 min,Sometimes,Yes,No,,Maybe,Sun,Yes,High price
+25–34,Male,Bangalore,₹30k–50k,Working professional,Rarely,"Direct, Others","Snacks, Dinner",Continental,<₹100,Packaging,Veg,Combo,Solo,5,3,30–45 min,Yes,Yes,No,,Yes,Sat,No,Poor packaging
+35–44,Male,Delhi,₹75k+,Working professional,Daily,Direct,"Dinner, Snacks, Breakfast",Italian,₹100–200,"Packaging, Price",Non-Veg,Depends,Family (3–4),4,4,20–30 min,Yes,Yes,Yes,1.0,Yes,Mon,Yes,Poor packaging
+45–54,Female,Mumbai,₹30k–50k,Retired,Once a week,"Swiggy, Zomato, Others",Lunch,"Italian, Chinese",₹200–400,Delivery time,Both,Combo,2 people,2,5,30–45 min,Yes,No,No,,Yes,Sat,No,Poor packaging
+35–44,Male,Chennai,₹15k–30k,Working professional,Rarely,Swiggy,"Breakfast, Lunch, Snacks",Italian,₹400–600,Packaging,Non-Veg,A la carte,2 people,2,4,20–30 min,No,No,No,,Yes,Fri,No,Long wait time
+18–24,Female,Hyderabad,₹50k–75k,Homemaker,Rarely,Others,Lunch,Continental,₹200–400,Discounts,Both,Depends,Solo,3,4,30–45 min,No,No,No,,Maybe,Fri,No,Cold food
+<18,Male,Delhi,₹15k–30k,Working professional,Once a week,Swiggy,"Snacks, Lunch",Chinese,₹200–400,Delivery time,Both,A la carte,2 people,2,2,20–30 min,Sometimes,Yes,No,,Maybe,Sat,Yes,Cold food
+18–24,Female,Mumbai,₹75k+,Working professional,Never,Direct,Snacks,Fusion,₹100–200,Delivery time,Non-Veg,A la carte,Solo,3,2,20–30 min,Sometimes,No,No,,No,Tue,Yes,"High price, Long wait time"
+25–34,Male,Chennai,₹30k–50k,Student,Once a week,"Others, Direct, Swiggy",Snacks,Fusion,₹100–200,Discounts,Veg,Depends,Family (3–4),3,3,45+ min,No,Yes,Yes,4.0,Yes,Sun,Yes,Limited choice
+18–24,Male,Mumbai,₹30k–50k,Working professional,Once a week,Direct,"Breakfast, Lunch, Snacks","Chinese, Indian, Continental",₹200–400,"Quantity, Packaging, Taste",Both,A la carte,Solo,5,4,30–45 min,Sometimes,Yes,Yes,3.0,No,Fri,No,Long wait time
+25–34,Female,Hyderabad,<₹15k,Student,2–3 times/week,Swiggy,Snacks,Italian,₹100–200,"Packaging, Quantity, Discounts",Both,A la carte,Solo,3,4,<20 min,No,Yes,No,,Yes,Thu,No,Poor packaging
+25–34,Female,Kolkata,₹30k–50k,Student,2–3 times/week,Zomato,Lunch,Indian,₹100–200,"Taste, Discounts, Packaging",Both,Combo,Solo,4,1,20–30 min,No,Yes,No,,Yes,Fri,Yes,"Long wait time, Cold food"
+25–34,Male,Bangalore,₹50k–75k,Other,2–3 times/week,Swiggy,Dinner,Indian,₹100–200,Price,Veg,Depends,Solo,5,5,30–45 min,No,Yes,No,,Yes,Wed,Yes,Cold food
+35–44,Female,Delhi,₹50k–75k,Working professional,Once a week,Swiggy,Breakfast,Fusion,₹100–200,Delivery time,Veg,A la carte,Solo,5,3,30–45 min,Yes,Yes,No,,Maybe,Fri,Yes,Poor packaging
+18–24,Male,Hyderabad,₹15k–30k,Working professional,Never,Zomato,Dinner,"Continental, Indian",₹200–400,"Quantity, Taste",Veg,A la carte,Family (3–4),2,5,20–30 min,Sometimes,No,No,,Yes,Mon,No,"Poor packaging, Cold food"
+18–24,Female,Chennai,₹15k–30k,Homemaker,Once a week,Others,Snacks,"Italian, Continental, Indian",₹100–200,Price,Non-Veg,Combo,2 people,3,4,20–30 min,Yes,Yes,No,,No,Thu,Yes,Limited choice
+35–44,Male,Bangalore,₹50k–75k,Working professional,Once a week,Swiggy,"Dinner, Breakfast",Indian,₹200–400,"Delivery time, Quantity, Taste",Both,A la carte,Family (3–4),3,2,30–45 min,No,No,No,,Yes,Sat,No,Poor packaging
+25–34,Male,Kolkata,₹75k+,Student,Once a week,Direct,"Snacks, Breakfast, Dinner","Chinese, Continental, Indian",<₹100,Packaging,Veg,Combo,Family (3–4),3,4,20–30 min,Sometimes,Yes,No,,Yes,Sat,No,"Long wait time, High price, Limited choice"
+35–44,Female,Mumbai,<₹15k,Homemaker,2–3 times/week,Zomato,Lunch,"Fusion, Indian, Italian",₹400–600,Price,Both,Combo,Solo,3,4,30–45 min,Sometimes,Yes,Yes,4.0,No,Wed,Yes,Limited choice
+25–34,Female,Bangalore,₹30k–50k,Working professional,Rarely,"Swiggy, Zomato, Others","Lunch, Breakfast",Chinese,₹100–200,"Delivery time, Discounts, Taste",Non-Veg,A la carte,2 people,4,4,<20 min,Sometimes,Yes,No,,Yes,Fri,Yes,Limited choice
+18–24,Male,Hyderabad,₹15k–30k,Homemaker,Daily,"Zomato, Others",Dinner,Indian,₹200–400,Delivery time,Both,Combo,Solo,3,4,45+ min,No,No,No,,Maybe,Fri,No,Limited choice
+35–44,Female,Pune,₹50k–75k,Homemaker,Rarely,"Swiggy, Zomato, Others",Snacks,Indian,₹200–400,Delivery time,Both,Combo,Family (3–4),3,2,30–45 min,No,Yes,No,,Yes,Thu,Yes,Cold food
+35–44,Female,Mumbai,<₹15k,Other,Once a week,Others,Dinner,"Fusion, Chinese, Indian",₹100–200,Packaging,Veg,A la carte,Solo,5,4,30–45 min,Yes,Yes,Yes,1.0,Yes,Wed,Yes,"Cold food, Poor packaging, Limited choice"
+35–44,Male,Chennai,₹15k–30k,Working professional,2–3 times/week,Swiggy,"Lunch, Dinner, Breakfast","Italian, Continental, Fusion",₹400–600,Packaging,Both,Combo,Solo,1,5,20–30 min,No,Yes,No,,No,Sat,Yes,High price
+18–24,Female,Bangalore,₹50k–75k,Working professional,2–3 times/week,Others,Lunch,Fusion,₹200–400,Price,Veg,Combo,Solo,3,2,20–30 min,Sometimes,Yes,No,,Maybe,Wed,Yes,Cold food
+25–34,Male,Delhi,<₹15k,Working professional,2–3 times/week,Others,Snacks,Chinese,₹200–400,Price,Non-Veg,Combo,Solo,4,3,20–30 min,Sometimes,No,Yes,2.0,Yes,Sun,No,Cold food
+25–34,Female,Mumbai,₹30k–50k,Student,Once a week,"Others, Swiggy, Zomato",Breakfast,Chinese,₹100–200,Delivery time,Both,A la carte,Solo,2,5,30–45 min,Sometimes,Yes,No,,No,Fri,Yes,Cold food
+18–24,Female,Pune,₹30k–50k,Retired,Daily,Direct,Snacks,"Continental, Chinese",₹400–600,"Delivery time, Quantity",Both,A la carte,Solo,4,3,30–45 min,Yes,Yes,No,,Maybe,Sun,Yes,Long wait time
+45–54,Female,Mumbai,₹15k–30k,Student,2–3 times/week,Zomato,Dinner,Indian,₹200–400,Packaging,Non-Veg,Depends,Family (3–4),2,4,20–30 min,Sometimes,No,No,,Yes,Wed,No,"Cold food, Long wait time"
+18–24,Male,Delhi,₹30k–50k,Working professional,Daily,Direct,Lunch,Italian,₹100–200,Quantity,Non-Veg,Combo,Family (3–4),5,4,30–45 min,Sometimes,Yes,Yes,4.0,Maybe,Sat,Yes,Long wait time
+55+,Male,Delhi,₹30k–50k,Homemaker,2–3 times/week,Swiggy,Dinner,Italian,₹100–200,"Discounts, Quantity",Both,Combo,Solo,3,4,30–45 min,Yes,No,Yes,1.0,Yes,Tue,Yes,"High price, Cold food"
+25–34,Male,Pune,₹15k–30k,Working professional,Once a week,"Others, Zomato, Direct",Lunch,Chinese,₹400–600,Taste,Both,Combo,Solo,3,3,<20 min,No,No,No,,Yes,Sat,No,Limited choice
